@@ -621,6 +621,7 @@
 
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 
 ## Nunjucks 
 
@@ -1009,7 +1010,6 @@
 - [vercel/install-node](https://github.com/vercel/install-node) - Simple one-liner shell script that installs official Node.js binaries
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [victoriadrake/dotfiles](https://github.com/victoriadrake/dotfiles) - Dotfiles and automagic set-up scripts for Linux flavours
 - [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
