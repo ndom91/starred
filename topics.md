@@ -1937,7 +1937,6 @@
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
-- [assemblylanguage/hacker-xp](https://github.com/assemblylanguage/hacker-xp) - Hacker News styled as the Windows XP Outlook email client.
 - [plasma-umass/browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [bvaughn/planner](https://github.com/bvaughn/planner) - Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas
