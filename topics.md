@@ -1788,6 +1788,7 @@
 
 ## others 
 
+- [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun.
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
