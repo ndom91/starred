@@ -1038,6 +1038,7 @@
 
 ## Svelte 
 
+- [huntabyte/formsnap](https://github.com/huntabyte/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [ndom91/briefkasten-extension](https://github.com/ndom91/briefkasten-extension) - Companion extension for briefkasten
 - [benzara-tahar/awesome-portfolios](https://github.com/benzara-tahar/awesome-portfolios) - A curated list of Awesome Developer Portfolio Websites For your inspiration.
