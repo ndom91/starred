@@ -502,7 +502,6 @@
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [async-library/react-async](https://github.com/async-library/react-async) - 🍾 Flexible promise-based React data loader
 - [dennybritz/neal-react](https://github.com/dennybritz/neal-react) - Startup Landing Page Components for React.js
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ndom91/snowpack-v1-init](https://github.com/ndom91/snowpack-v1-init) - 📦 Snowpack 1.0 app starter templates.
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
@@ -779,7 +778,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [wernerhp/ha.integration.load_shedding](https://github.com/wernerhp/ha.integration.load_shedding) - A Home Assistant integration to track your load schedding schedule.
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
-- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - A CLI and web UI to interact with LLMs in a Chat-style interface, with code execution capabilities.
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - A CLI and web UI to interact with LLMs in a Chat-style interface, with code execution capabilities and other tools.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ErikBjare/are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -1229,6 +1228,7 @@
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
