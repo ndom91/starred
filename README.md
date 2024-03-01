@@ -1204,7 +1204,7 @@
 - [Sebastp/Next-react-graphql-apollo_Boostrap](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js project architecture that I play with right now
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [b-zurg/react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - The splittable, draggable, collapsible panel layout library 🎉
-- [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
+- [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [leoafarias/use-state-persist](https://github.com/leoafarias/use-state-persist) - Simple React Hook to persist/cache the useState locally. Easily load stale state for better ux.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
