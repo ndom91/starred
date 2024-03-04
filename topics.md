@@ -2741,6 +2741,7 @@
 
 ## svelte 
 
+- [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader using Runes
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - WIP 🚜 A framework for Svelte Utilities 💡 Current status: 78 utilities.
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [ndom91/briefkasten-extension](https://github.com/ndom91/briefkasten-extension) - Companion extension for briefkasten
