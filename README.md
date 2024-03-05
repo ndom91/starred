@@ -879,7 +879,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [bharat/haller](https://github.com/bharat/haller) - Fun with Nanoleaf Aurora
