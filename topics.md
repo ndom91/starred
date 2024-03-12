@@ -1808,6 +1808,7 @@
 
 ## others 
 
+- [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor) - BreezeX RosePine for Hyprcursor
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [ndom91/authjs-prisma-edge-example](https://github.com/ndom91/authjs-prisma-edge-example) - Example project for Auth.js with Prisma's Edge runtime support
