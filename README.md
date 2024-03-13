@@ -986,7 +986,7 @@
 - [ChrisTitusTech/hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus) - My config files for Hyprland Wayland Window Manager
 - [Zeioth/wofi-emoji](https://github.com/Zeioth/wofi-emoji) - Emoji picker for Wayland using wofi and wl-clipboard
 - [cgsdev0/bash-stack](https://github.com/cgsdev0/bash-stack) - modern web framework in bash
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 - [SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland) - collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay
 - [trevorgross/installarch](https://github.com/trevorgross/installarch) - Install Arch linux in qemu with two clicks
 - [EddySchauHai/bashttp](https://github.com/EddySchauHai/bashttp) - µServer in Bash
