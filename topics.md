@@ -1808,6 +1808,7 @@
 
 ## others 
 
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor) - BreezeX RosePine for Hyprcursor
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
