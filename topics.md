@@ -1186,7 +1186,7 @@
 - [wernerhp/ha.integration.load_shedding](https://github.com/wernerhp/ha.integration.load_shedding) - A Home Assistant integration to track your load schedding schedule.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [vas3k/home-assistant-berlin-transport](https://github.com/vas3k/home-assistant-berlin-transport) - Berlin (BVG) and Brandenburg (VBB) transport widget for Home Assistant
-- [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+- [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass) - Control Govee lights via the LAN API from Home Assistant
 - [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
@@ -1808,6 +1808,7 @@
 
 ## others 
 
+- [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A guide to getting started with home manager with flakes and all that 2024 goodness.
 - [nlewo/comin](https://github.com/nlewo/comin) - Git Push NixOS Machines
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
@@ -2356,7 +2357,7 @@
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [vas3k/home-assistant-berlin-transport](https://github.com/vas3k/home-assistant-berlin-transport) - Berlin (BVG) and Brandenburg (VBB) transport widget for Home Assistant
-- [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+- [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
