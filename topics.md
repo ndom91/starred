@@ -1938,7 +1938,7 @@
 - [primer/prism](https://github.com/primer/prism) - A tool for creating and maintaining cohesive, consistent, and accessible color palettes
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [ndom91/briefkasten-scrape](https://github.com/ndom91/briefkasten-scrape) - Briefkasten Screenshot Job
-- [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - NetBox plugin for BGP related objects documentation
+- [netbox-community/netbox-bgp](https://github.com/netbox-community/netbox-bgp) - NetBox plugin for BGP related objects documentation
 - [PacktPublishing/Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) - Linux for Networking Professionals, published by Packt
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [Aaronius/get-etld](https://github.com/Aaronius/get-etld) - Returns the effective top-level domain (eTLD) corresponding to the current web page without the use of a public suffix list.
