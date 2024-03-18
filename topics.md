@@ -1808,6 +1808,7 @@
 
 ## others 
 
+- [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A guide to getting started with home manager with flakes and all that 2024 goodness.
 - [nlewo/comin](https://github.com/nlewo/comin) - Git Push NixOS Machines
