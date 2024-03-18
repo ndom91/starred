@@ -820,7 +820,7 @@
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - NetBox plugin for BGP related objects documentation
+- [netbox-community/netbox-bgp](https://github.com/netbox-community/netbox-bgp) - NetBox plugin for BGP related objects documentation
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
