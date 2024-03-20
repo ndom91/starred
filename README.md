@@ -1100,7 +1100,7 @@
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [bitair-org/concurrent.js](https://github.com/bitair-org/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
