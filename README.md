@@ -1133,7 +1133,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
-- [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using the a voice imprint that can be made in as little as 10 minutes of audio samples. Easy as pie.
+- [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
