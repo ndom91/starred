@@ -1929,7 +1929,7 @@
 - [m13253/dns-over-https](https://github.com/m13253/dns-over-https) - High performance DNS over HTTPS client & server
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
-- [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using the a voice imprint that can be made in as little as 10 minutes of audio samples. Easy as pie.
+- [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [asciitosvg/asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
