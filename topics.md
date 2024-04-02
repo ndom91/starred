@@ -716,6 +716,7 @@
 
 ## devops 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
@@ -1602,6 +1603,7 @@
 
 ## monitoring 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
