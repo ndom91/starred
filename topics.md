@@ -1858,7 +1858,6 @@
 - [ndom91/briefkasten-rss](https://github.com/ndom91/briefkasten-rss) - Deno-based background worker for RSS feed reader
 - [endrl/jellyfin-plugin-media-analyzer](https://github.com/endrl/jellyfin-plugin-media-analyzer) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
-- [AntonioErdeljac/next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
