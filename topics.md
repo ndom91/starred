@@ -56,6 +56,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
 - [django](#django)
@@ -705,6 +706,10 @@
 - [lucacasonato/now-deno](https://github.com/lucacasonato/now-deno) - Deno builder for Vercel - run Deno on Vercel. :sauropod: + λ = :heart:
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
+## deployment 
+
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+
 ## design 
 
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
@@ -904,7 +909,7 @@
 
 ## framework 
 
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -1285,7 +1290,7 @@
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [ChrisCavs/aimless.js](https://github.com/ChrisCavs/aimless.js) - The missing JavaScript randomness library.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
@@ -1833,7 +1838,6 @@
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A guide to getting started with home manager with flakes and all that 2024 goodness.
-- [nlewo/comin](https://github.com/nlewo/comin) - Git Push NixOS Machines
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor) - BreezeX RosePine for Hyprcursor
@@ -2991,7 +2995,7 @@
 
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
