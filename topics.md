@@ -1709,7 +1709,7 @@
 - [ndom91/newtelco-tab](https://github.com/ndom91/newtelco-tab) - 🗄 NewTelco Portal
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
-- [ndom91/home2021](https://github.com/ndom91/home2021) - 🎉 ndo.dev@2022
+- [ndom91/home2021](https://github.com/ndom91/home2021) - .domino
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [nextauthjs/adapters](https://github.com/nextauthjs/adapters) - next-auth adapters that are maintained by the community to support any database.
@@ -2935,7 +2935,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [checkly/checkly-cli](https://github.com/checkly/checkly-cli) - TS/JS native Monitoring as Code workflow
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [ndom91/home2021](https://github.com/ndom91/home2021) - 🎉 ndo.dev@2022
+- [ndom91/home2021](https://github.com/ndom91/home2021) - .domino
 - [lucacasonato/dext.ts](https://github.com/lucacasonato/dext.ts) - The Preact Framework for Deno
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [sdslabs/zap-db](https://github.com/sdslabs/zap-db) - An easy to use JSON database written with ease of setup and memory management of slack bots in mind.
