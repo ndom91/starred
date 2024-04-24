@@ -1160,7 +1160,6 @@
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [mattermost/mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate) - 
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -2619,6 +2618,7 @@
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
