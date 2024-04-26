@@ -259,7 +259,7 @@
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
-- [mattermost/mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate) - 
+- [mattermost-community/mattermost-plugin-autotranslate](https://github.com/mattermost-community/mattermost-plugin-autotranslate) - 
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Terraform provider for the Checkly monitoring service
@@ -443,7 +443,6 @@
 - [tbotnz/netpalm-admin](https://github.com/tbotnz/netpalm-admin) - simple admin app for managing a netpalm cluster
 - [tannerlinsley/react-query-blog-demo](https://github.com/tannerlinsley/react-query-blog-demo) - An example repo I used to teach a React Query workshop
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-- [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) - Material for my React Fundamentals Workshop
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -642,6 +641,7 @@
 
 ## Others 
 
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1214,6 +1214,7 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [epicweb-dev/react-hooks](https://github.com/epicweb-dev/react-hooks) - Learn React Hooks! 🎣 ⚛
+- [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) - Material for my React Fundamentals Workshop
 - [ndom91/rocketchat-otrs](https://github.com/ndom91/rocketchat-otrs) - Rocket.Chat App for creating tickets in OTRS
 - [joway/sheetsql](https://github.com/joway/sheetsql) - Google Spreadsheet as a Database
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
