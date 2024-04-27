@@ -160,7 +160,7 @@
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [argyleink/slyd](https://github.com/argyleink/slyd) - Snappy, responsive, touch optimized, bi-directional presentation framework
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [gamell/markpress](https://github.com/gamell/markpress) - A command line tool and node package to convert markdown files into self-contained impressjs html presentations
 - [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
