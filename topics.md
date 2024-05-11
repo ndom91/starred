@@ -1866,6 +1866,7 @@
 
 ## others 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) - A small utility for tracing execve{,at} and pre-exec behavior.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical functions for your Svelte applications (WIP)
 - [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
