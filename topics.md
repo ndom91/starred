@@ -2954,7 +2954,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
+- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
