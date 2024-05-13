@@ -688,7 +688,7 @@
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [ashleymcnamara/go-lang-cheat-sheet](https://github.com/ashleymcnamara/go-lang-cheat-sheet) - An overview of Go syntax and features.
 - [networktocode/interop2020-slides](https://github.com/networktocode/interop2020-slides) - Network Automation Summit Slides
