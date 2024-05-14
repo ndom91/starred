@@ -1673,7 +1673,7 @@
 
 ## music 
 
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 
@@ -2916,7 +2916,7 @@
 
 ## twitter 
 
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
@@ -3088,7 +3088,7 @@
 
 ## webapp 
 
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
