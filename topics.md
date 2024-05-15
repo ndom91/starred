@@ -1188,7 +1188,6 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
 - [ndom91/newtelco-next-maintenance-mgmt](https://github.com/ndom91/newtelco-next-maintenance-mgmt) - 🏗️ Newtelco Maintenance Application
@@ -1872,6 +1871,7 @@
 
 ## others 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) - A small utility for tracing execve{,at} and pre-exec behavior.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical functions for your Svelte applications (WIP)
@@ -2131,6 +2131,7 @@
 - [ifiokjr/gatsby-plugin-next-seo](https://github.com/ifiokjr/gatsby-plugin-next-seo) - Gatsby Plugin Next SEO is a plug in that makes managing your SEO easier in Gatsby projects.
 - [wrongakram/framermotion-react-router](https://github.com/wrongakram/framermotion-react-router) - Page transition effect using framer motion and react router
 - [slice/peek](https://github.com/slice/peek) - An optionally dynamic landing page for your servers
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [leoafarias/use-state-persist](https://github.com/leoafarias/use-state-persist) - Simple React Hook to persist/cache the useState locally. Easily load stale state for better ux.
 - [ndom91/console-toaster](https://github.com/ndom91/console-toaster) - Tiny console toaster 🍞
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
