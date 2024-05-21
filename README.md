@@ -147,6 +147,7 @@
 
 ## CSS 
 
+- [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
 - [scidsg/relaylove](https://github.com/scidsg/relaylove) - ❄️ Temporarily Share Your Bandwidth
 - [rverton/tevents](https://github.com/rverton/tevents) - A private event logger and job monitor for tailnets
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
