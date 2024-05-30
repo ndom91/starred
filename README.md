@@ -520,7 +520,6 @@
 - [dennybritz/neal-react](https://github.com/dennybritz/neal-react) - Startup Landing Page Components for React.js
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ndom91/snowpack-v1-init](https://github.com/ndom91/snowpack-v1-init) - 📦 Snowpack 1.0 app starter templates.
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [Lodegal/react-portfolio](https://github.com/Lodegal/react-portfolio) - 
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hs
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -989,6 +988,7 @@
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [rlue/jekyll-solana](https://github.com/rlue/jekyll-solana) - A wholesome, flat, sunshiny Jekyll theme
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 
