@@ -1052,6 +1052,7 @@
 
 ## golang 
 
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
@@ -1091,6 +1092,7 @@
 
 ## google 
 
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [matrix-hacks/matrix-puppet-hangouts](https://github.com/matrix-hacks/matrix-puppet-hangouts) - Matrix bridge for Google Hangouts
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [dusansimic/noty](https://github.com/dusansimic/noty) - A small tray app for Google Keep. :ledger::memo:
