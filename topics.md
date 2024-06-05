@@ -2071,7 +2071,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [checkly/vitals-tester](https://github.com/checkly/vitals-tester) - 
-- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux/nix client for DroidCam
+- [dev47apps/droidcam-linux-client](https://github.com/dev47apps/droidcam-linux-client) - GNU/Linux/nix client for DroidCam
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [porras/dmenu-emoji](https://github.com/porras/dmenu-emoji) - Search an emoji by name and copy it to the clipboard [i3, dmenu, rofi]
