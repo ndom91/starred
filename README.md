@@ -639,7 +639,7 @@
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
-- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A guide to getting started with home manager with flakes and all that 2024 goodness.
+- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor) - BreezeX RosePine for Hyprcursor
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
