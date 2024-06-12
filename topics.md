@@ -1916,7 +1916,7 @@
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
-- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A guide to getting started with home manager with flakes and all that 2024 goodness.
+- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor) - BreezeX RosePine for Hyprcursor
