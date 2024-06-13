@@ -165,6 +165,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -197,6 +198,7 @@
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
+- [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -2444,6 +2446,10 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
+## project-management 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
 ## pwa 
 
 - [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
@@ -2879,6 +2885,10 @@
 ## sublime-text 
 
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+
+## support 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## svelte 
 
