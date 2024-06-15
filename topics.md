@@ -1905,7 +1905,8 @@
 
 ## others 
 
-- [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - front-end for the proxmox-helper-scripts project
+- [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) - Proxmox VE Helper-Scripts - Ported to ARM64
+- [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Beautiful, modern front-end for the Proxmox VE Helper Scripts project, built with next-js, shadcn, and pocketbase.
 - [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
