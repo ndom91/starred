@@ -1532,6 +1532,7 @@
 
 ## linux 
 
+- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [sosy-lab/cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter) - A tool for measuring energy consumption of Intel CPUs
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
@@ -1910,7 +1911,6 @@
 
 ## others 
 
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - 
 - [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) - Proxmox VE Helper-Scripts - Ported to ARM64
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Beautiful, modern front-end for the Proxmox VE Helper Scripts project, built with next-js, shadcn, and pocketbase.
 - [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
