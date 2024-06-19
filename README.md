@@ -653,6 +653,7 @@
 
 ## Others 
 
+- [kiroushi/hass](https://github.com/kiroushi/hass) - 
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
@@ -798,6 +799,7 @@
 
 ## Python 
 
+- [CollapseLabs/gardening-for-engineers](https://github.com/CollapseLabs/gardening-for-engineers) - A starting point for understanding how to grow vegetables at home
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations & Jupyter-notebooks style interface
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
@@ -1085,6 +1087,7 @@
 
 ## Swift 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
@@ -1095,6 +1098,7 @@
 
 ## TypeScript 
 
+- [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Beautiful, modern front-end for the Proxmox VE Helper Scripts project, built with next-js, shadcn, and pocketbase.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
@@ -1170,7 +1174,7 @@
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
-- [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [PacktPublishing/Micro-State-Management-with-React-Hooks](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks) - Micro State Management with React Hooks, published by Packt
