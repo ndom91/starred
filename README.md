@@ -1099,6 +1099,7 @@
 
 ## TypeScript 
 
+- [hamvocke/root-loops](https://github.com/hamvocke/root-loops) - A color scheme generator for cereal lovers
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Beautiful, modern front-end for the Proxmox VE Helper Scripts project, built with next-js, shadcn, and pocketbase.
