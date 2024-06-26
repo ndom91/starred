@@ -617,6 +617,7 @@
 
 ## MDX 
 
+- [ndom91/gitbutler-docs](https://github.com/ndom91/gitbutler-docs) - Prototype GitButler Documentation
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
