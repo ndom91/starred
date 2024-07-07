@@ -639,6 +639,7 @@
 
 ## Nix 
 
+- [VanCoding/nix-prisma-utils](https://github.com/VanCoding/nix-prisma-utils) - A nix library to make [prisma](https://www.prisma.io/) work in your nix shell
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [ndom91/nixos-config](https://github.com/ndom91/nixos-config) - Personal NixOS Configs
@@ -941,7 +942,7 @@
 
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -1149,7 +1150,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
-- [bitair-org/concurrent.js](https://github.com/bitair-org/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
+- [BitairLabs/concurrent.js](https://github.com/BitairLabs/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [ascorbic/unpic](https://github.com/ascorbic/unpic) - Universal image CDN translator
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
