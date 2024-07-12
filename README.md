@@ -363,7 +363,7 @@
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
 - [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [bcomnes/node-handbook](https://github.com/bcomnes/node-handbook) - :camel: A js/node safari :monkey: :beginner:
 - [tbotnz/netbox_floorplan](https://github.com/tbotnz/netbox_floorplan) - 
