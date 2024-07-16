@@ -1619,6 +1619,7 @@
 
 ## lua 
 
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A framework for configuring neovim like neovim via nix, and having multiple config profiles.
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
@@ -1749,6 +1750,7 @@
 
 ## neovim 
 
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A framework for configuring neovim like neovim via nix, and having multiple config profiles.
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) - Charm's "freeze" CLI as a neovim plugin
 - [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles about Neovim, Hyprland, Waybar ...
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
