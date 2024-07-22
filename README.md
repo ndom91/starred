@@ -587,6 +587,7 @@
 ## Jupyter Notebook 
 
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 
 ## Kotlin 
@@ -828,7 +829,6 @@
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - NetBox plugin to validate network devices
 - [gvigroux/hon](https://github.com/gvigroux/hon) - Support of all Haier, Candy, Hoover appliances integrated in the official hOn mobile app. Direct access to all possible services and parameters
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass) - Control Govee lights via the LAN API from Home Assistant
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [veebch/hometime](https://github.com/veebch/hometime) - A physical progress bar based on Google Calendar events
