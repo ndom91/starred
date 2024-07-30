@@ -357,6 +357,7 @@
 
 ## JavaScript 
 
+- [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [julianpoy/ingredient-instruction-classifier](https://github.com/julianpoy/ingredient-instruction-classifier) - A TensorFlow model and tiny express server that can classify text as ingredient, instruction, or other.
 - [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
