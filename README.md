@@ -212,6 +212,7 @@
 
 ## Go 
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -642,7 +643,7 @@
 
 ## Nix 
 
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A framework for configuring neovim like neovim via nix, and having multiple config profiles.
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A framework for configuring neovim like neovim via nix, and having multiple config profiles. (with example config(s) and in-editor help)
 - [VanCoding/nix-prisma-utils](https://github.com/VanCoding/nix-prisma-utils) - A nix library to make [prisma](https://www.prisma.io/) work in your nix shell
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
