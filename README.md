@@ -1109,6 +1109,7 @@
 
 ## TypeScript 
 
+- [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - LLM provider price comparison, gpu benchmarks to price per token calculation, gpu benchmark table
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (490b) utility to build JSON schema types.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
