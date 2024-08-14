@@ -1940,7 +1940,7 @@
 
 ## others 
 
-- [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (444b) utility to build JSON schema types.
+- [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (490b) utility to build JSON schema types.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
