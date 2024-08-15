@@ -1172,7 +1172,6 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [manekinekko/cafy](https://github.com/manekinekko/cafy) - An experimental node package to interact with the Delonghi Primadonna Elite (and probably other ECAM models)
