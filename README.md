@@ -164,7 +164,6 @@
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [argyleink/slyd](https://github.com/argyleink/slyd) - Snappy, responsive, touch optimized, bi-directional presentation framework
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [gamell/markpress](https://github.com/gamell/markpress) - A command line tool and node package to convert markdown files into self-contained impressjs html presentations
 - [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
@@ -556,6 +555,7 @@
 - [madrobby/keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [emmabostian/gatsby-blog](https://github.com/emmabostian/gatsby-blog) - 
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [MrLoyal/threecx](https://github.com/MrLoyal/threecx) - 
 - [btholt/complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5) - The Complete Intro to React, the fifth version
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
