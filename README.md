@@ -397,7 +397,6 @@
 - [Aaronius/get-etld](https://github.com/Aaronius/get-etld) - Returns the effective top-level domain (eTLD) corresponding to the current web page without the use of a public suffix list.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [CompileZero/javascript-concepts](https://github.com/CompileZero/javascript-concepts) - JavaScript core concepts explained simply
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [olivermrbl/medusa-printful](https://github.com/olivermrbl/medusa-printful) - 
@@ -656,6 +655,7 @@
 
 ## Nunjucks 
 
+- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 
 ## Others 
