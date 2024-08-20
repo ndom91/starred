@@ -438,7 +438,6 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [checkly/headless-benchmarks](https://github.com/checkly/headless-benchmarks) - Benchmarking scripts for Puppeteer, Playwright, WebDriverIO  & Cypress.
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [preactjs/next-plugin-preact](https://github.com/preactjs/next-plugin-preact) - Next.js plugin for preact X
 - [relferreira/kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
