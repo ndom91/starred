@@ -599,6 +599,7 @@
 
 ## Lua 
 
+- [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) - Charm's "freeze" CLI as a neovim plugin
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles about Neovim, Hyprland, Waybar ...
@@ -663,6 +664,7 @@
 
 ## Others 
 
+- [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
 - [kiroushi/hass](https://github.com/kiroushi/hass) - 
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -949,6 +951,7 @@
 
 ## Rust 
 
+- [surma/containix](https://github.com/surma/containix) - 
 - [vladkens/macmon](https://github.com/vladkens/macmon) - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -1114,6 +1117,8 @@
 
 ## TypeScript 
 
+- [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
+- [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - LLM provider price comparison, gpu benchmarks to price per token calculation, gpu benchmark table
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (490b) utility to build JSON schema types.
