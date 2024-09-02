@@ -1973,6 +1973,7 @@
 
 ## others 
 
+- [gitbutlerapp/gitbutler-brand-assets](https://github.com/gitbutlerapp/gitbutler-brand-assets) - A hub for GitButler's essential brand elements – logos, stickers, visuals, and more 💅
 - [pdomdev/pdom](https://github.com/pdomdev/pdom) - Multithreaded DOM is possible.
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
