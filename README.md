@@ -665,6 +665,7 @@
 
 ## Others 
 
+- [gitbutlerapp/gitbutler-brand-assets](https://github.com/gitbutlerapp/gitbutler-brand-assets) - A hub for GitButler's essential brand elements – logos, stickers, visuals, and more 💅
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
 - [kiroushi/hass](https://github.com/kiroushi/hass) - 
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
