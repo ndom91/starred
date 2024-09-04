@@ -866,7 +866,6 @@
 
 ## dotnet 
 
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
