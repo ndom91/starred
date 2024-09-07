@@ -162,7 +162,6 @@
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [argyleink/slyd](https://github.com/argyleink/slyd) - Snappy, responsive, touch optimized, bi-directional presentation framework
-- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [gamell/markpress](https://github.com/gamell/markpress) - A command line tool and node package to convert markdown files into self-contained impressjs html presentations
@@ -544,6 +543,7 @@
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [nowaalex/af-react-grid](https://github.com/nowaalex/af-react-grid) - Resizable flex grid for React
+- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media
 - [liyasthomas/mnmlurl](https://github.com/liyasthomas/mnmlurl) - 🔗 Minimal URL - Modern URL shortener with support for custom alias & can be hosted even in GitHub pages [DEPRECATED]
 - [jaredgorski/smart-avatar](https://github.com/jaredgorski/smart-avatar) - Render avatars with dynamic, defined fallback
 - [GoogleChromeLabs/dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:
@@ -1122,6 +1122,7 @@
 
 ## TypeScript 
 
+- [cmgriffing/boringer-avatars](https://github.com/cmgriffing/boringer-avatars) - A fork from boring-avatars. This rewrites the base as Mitosis components and exports into multiple framework flavors.
 - [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one-stop build analyzer for Rspack and webpack.
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
