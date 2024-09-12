@@ -957,6 +957,7 @@
 
 ## Rust 
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [surma/containix](https://github.com/surma/containix) - 
 - [vladkens/macmon](https://github.com/vladkens/macmon) - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
