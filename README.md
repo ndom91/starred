@@ -93,7 +93,7 @@
 - [sosy-lab/cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter) - A tool for measuring energy consumption of Intel CPUs
 - [Architeuthis-Flux/Jumperless](https://github.com/Architeuthis-Flux/Jumperless) - A jumperless breadboard
 - [oldfieldtc/Lily58-keymap](https://github.com/oldfieldtc/Lily58-keymap) - Key mappings for my Lily58 Pro keyboard
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico
