@@ -860,6 +860,7 @@
 
 ## dotfiles 
 
+- [ndom91/nix-config](https://github.com/ndom91/nix-config) - ❄️ Personal NixOS Configs
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles about Neovim, Hyprland, Waybar ...
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
@@ -1190,6 +1191,7 @@
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -1987,6 +1989,8 @@
 
 ## others 
 
+- [piyoki/nixos-config](https://github.com/piyoki/nixos-config) - ❄️ Declarative NixOS with Nix Flake
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 - [cmgriffing/boringer-avatars](https://github.com/cmgriffing/boringer-avatars) - A fork from boring-avatars. This rewrites the base as Mitosis components and exports into multiple framework flavors.
@@ -2026,7 +2030,6 @@
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
-- [ndom91/nix-config](https://github.com/ndom91/nix-config) - Personal NixOS Configs
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
