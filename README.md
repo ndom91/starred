@@ -233,7 +233,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
-- [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Elevate Your Command Line Experience.
+- [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -856,7 +856,6 @@
 - [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime
