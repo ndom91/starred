@@ -1212,7 +1212,6 @@
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [manekinekko/cafy](https://github.com/manekinekko/cafy) - An experimental node package to interact with the Delonghi Primadonna Elite (and probably other ECAM models)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [ascorbic/unpic](https://github.com/ascorbic/unpic) - Universal image CDN translator
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
