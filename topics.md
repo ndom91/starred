@@ -1263,7 +1263,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -2625,7 +2625,7 @@
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -2648,7 +2648,7 @@
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
 
