@@ -905,7 +905,7 @@
 - [sipgate/ansible-juniper-cookbook](https://github.com/sipgate/ansible-juniper-cookbook) - Automate your Juniper Devices with Ansible
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tbotnz/netpalm](https://github.com/tbotnz/netpalm) - ReST based network device broker
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
