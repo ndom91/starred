@@ -1197,10 +1197,12 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
+- [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - This project collects GPU benchmarks from various cloud providers and compares them to fixed per token costs. Use our tool for efficient LLM GPU selections and cost-effective AI models. LLM provider p
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
