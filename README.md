@@ -1137,6 +1137,7 @@
 
 ## TypeScript 
 
+- [tokens-bruecke/figma-plugin](https://github.com/tokens-bruecke/figma-plugin) - TokensBrücke is a Figma plugin that converts Figma variables into design-tokens JSON.
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [adzejs/adze](https://github.com/adzejs/adze) - A universal, modern, and extensible logging library for JavaScript and TypeScript.
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
