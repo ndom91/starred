@@ -673,6 +673,7 @@
 
 ## Others 
 
+- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [gitbutlerapp/gitbutler-brand-assets](https://github.com/gitbutlerapp/gitbutler-brand-assets) - A hub for GitButler's essential brand elements – logos, stickers, visuals, and more 💅
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
 - [kiroushi/hass](https://github.com/kiroushi/hass) - 
@@ -1137,6 +1138,7 @@
 
 ## TypeScript 
 
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [tokens-bruecke/figma-plugin](https://github.com/tokens-bruecke/figma-plugin) - TokensBrücke is a Figma plugin that converts Figma variables into design-tokens JSON.
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [adzejs/adze](https://github.com/adzejs/adze) - A universal, modern, and extensible logging library for JavaScript and TypeScript.
