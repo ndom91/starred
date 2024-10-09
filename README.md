@@ -415,7 +415,6 @@
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [18F/analytics.usa.gov](https://github.com/18F/analytics.usa.gov) - The US federal government's web traffic.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [rose-pine/vscode](https://github.com/rose-pine/vscode) - Soho vibes for Visual Studio Code
 - [plasma-umass/browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
@@ -1031,6 +1030,7 @@
 ## SCSS 
 
 - [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com) - Checkly docs
+- [18F/analytics.usa.gov](https://github.com/18F/analytics.usa.gov) - The US federal government's web traffic.
 - [kkrishguptaa/reseter.css](https://github.com/kkrishguptaa/reseter.css) - The Modern CSS Reset 🚀
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
