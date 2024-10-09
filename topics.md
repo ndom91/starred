@@ -1998,6 +1998,7 @@
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [fossified/podcast](https://github.com/fossified/podcast) - a podcast in English where we talk all things Free and Open Source
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [tretapey/svelte-pwa](https://github.com/tretapey/svelte-pwa) - Svelte Progresssive Web App (PWA) starter template
 - [f0lg0/Oncogene](https://github.com/f0lg0/Oncogene) - A simple Windows and Linux RAT/Backdoor + Keylogger written in Python3 using sockets
