@@ -1880,6 +1880,7 @@
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ndom91/newtelco-tab](https://github.com/ndom91/newtelco-tab) - 🗄 NewTelco Portal
@@ -2200,7 +2201,6 @@
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [Aaronius/get-etld](https://github.com/Aaronius/get-etld) - Returns the effective top-level domain (eTLD) corresponding to the current web page without the use of a public suffix list.
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex) - 
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [Borrus-sudo/tinypages](https://github.com/Borrus-sudo/tinypages) - ⚛ At times you might wanna do something small without losing SEO, tinypages for the win ! (WIP)
 - [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
@@ -2562,6 +2562,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -3108,6 +3109,7 @@
 - [davidhellmann/tailwindcss-fluid-type](https://github.com/davidhellmann/tailwindcss-fluid-type) - A plugin that makes the use of Fluid Type a breeze.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
@@ -3234,6 +3236,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
