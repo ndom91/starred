@@ -2052,7 +2052,7 @@
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [surma/containix](https://github.com/surma/containix) - 
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of five or six keys, aggressive column stagger, generous thumb arc and optional bottom utility keys
-- [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (490b) utility to build JSON schema types.
+- [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
@@ -3357,6 +3357,7 @@
 
 ## web-components 
 
+- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker for the modern web
 - [web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources.
 - [GoogleChromeLabs/dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:
