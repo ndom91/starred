@@ -449,7 +449,7 @@
 - [preactjs/next-plugin-preact](https://github.com/preactjs/next-plugin-preact) - Next.js plugin for preact X
 - [relferreira/kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [ndom91/newtelco-nt-noc](https://github.com/ndom91/newtelco-nt-noc) - 🖧 NOC Dashboard
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ashutosh1919/react-liquidswipe](https://github.com/ashutosh1919/react-liquidswipe) - 🚀 Smooth Liquid Swipe Animation to transition between different components.
