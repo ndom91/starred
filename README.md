@@ -961,6 +961,7 @@
 
 ## Rust 
 
+- [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [ndom91/rustcast](https://github.com/ndom91/rustcast) - Raycast for Linux
 - [thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico) - A Lightweight Electron App Container
@@ -1117,6 +1118,7 @@
 
 ## Svelte 
 
+- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [dummdidumm/vercel-sveltekit-news-demo](https://github.com/dummdidumm/vercel-sveltekit-news-demo) - 
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications (WIP)
 - [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader using Runes
