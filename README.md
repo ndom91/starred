@@ -918,7 +918,7 @@
 - [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import) - This library is intended to assist with importing device and module types into NetBox from the NetBox Community DeviceType-Library
 - [dynos01/DomainScanningTool](https://github.com/dynos01/DomainScanningTool) - A bulk domain scanning tool
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
-- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
+- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Next-Gen Topology Visualization Plugin for NetBox Powered by topoSphere SDK
 - [custom-components/sensor.plex_recently_added](https://github.com/custom-components/sensor.plex_recently_added) - ▶️ Plex component to feed Upcoming Media Card.
 - [HelloChatterbox/wikipedia_for_humans](https://github.com/HelloChatterbox/wikipedia_for_humans) - 
 - [f0lg0/Oncogene](https://github.com/f0lg0/Oncogene) - A simple Windows and Linux RAT/Backdoor + Keylogger written in Python3 using sockets
