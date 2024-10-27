@@ -130,6 +130,7 @@
 
 ## C++ 
 
+- [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
