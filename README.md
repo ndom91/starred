@@ -130,6 +130,7 @@
 
 ## C++ 
 
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
