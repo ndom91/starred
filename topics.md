@@ -337,6 +337,7 @@
 
 ## automation 
 
+- [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
