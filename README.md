@@ -866,7 +866,7 @@
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime
-- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
+- [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [netbox-community/netbox-bgp](https://github.com/netbox-community/netbox-bgp) - NetBox plugin for BGP related objects documentation
