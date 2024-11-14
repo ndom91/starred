@@ -88,6 +88,7 @@
 
 ## C 
 
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [sosy-lab/cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter) - A tool for measuring energy consumption of Intel CPUs
@@ -130,7 +131,6 @@
 
 ## C++ 
 
-- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1188,7 +1188,7 @@
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [ndom91/authjs-prisma-edge-example](https://github.com/ndom91/authjs-prisma-edge-example) - Example project for Auth.js with Prisma's Edge runtime support
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - A framework for Svelte Utilities 💡 Current status: 87 utilities.
@@ -1286,7 +1286,7 @@
 - [malerba118/supabase-comments-extension](https://github.com/malerba118/supabase-comments-extension) - A comment system built on supabase
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [ndom91/newtelco-tab](https://github.com/ndom91/newtelco-tab) - 🗄 NewTelco Portal
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
