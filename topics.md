@@ -2041,6 +2041,7 @@
 
 ## others 
 
+- [kuruczgy/x1e-nixos-config](https://github.com/kuruczgy/x1e-nixos-config) - NixOS configs for the Lenovo Yoga Slim 7x
 - [MakD/zombie-release](https://github.com/MakD/zombie-release) - A theme for Jellyfin 10.9.x combining the best from the Public Themes
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
