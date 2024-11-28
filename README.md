@@ -1411,6 +1411,7 @@
 
 ## Vue 
 
+- [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [miliberlin/travellog](https://github.com/miliberlin/travellog) - 
 - [ndom91/go-ios-web](https://github.com/ndom91/go-ios-web) - 📱 go-ios web application
