@@ -2048,6 +2048,7 @@
 
 ## others 
 
+- [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [WICG/direct-sockets](https://github.com/WICG/direct-sockets) - Direct Sockets API for the web platform
 - [Deep-Fold/PixelPlanets](https://github.com/Deep-Fold/PixelPlanets) - 
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
