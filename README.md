@@ -687,6 +687,7 @@
 
 ## Others 
 
+- [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [gitbutlerapp/gitbutler-brand-assets](https://github.com/gitbutlerapp/gitbutler-brand-assets) - A hub for GitButler's essential brand elements – logos, stickers, visuals, and more 💅
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
