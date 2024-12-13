@@ -378,6 +378,7 @@
 
 ## JavaScript 
 
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
@@ -1142,7 +1143,6 @@
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [dummdidumm/vercel-sveltekit-news-demo](https://github.com/dummdidumm/vercel-sveltekit-news-demo) - 
 - [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader using Runes
-- [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ndom91/briefkasten-extension](https://github.com/ndom91/briefkasten-extension) - Companion extension for briefkasten
 - [benzara-tahar/awesome-portfolios](https://github.com/benzara-tahar/awesome-portfolios) - A curated list of Awesome Developer Portfolio Websites For your inspiration.
@@ -1207,6 +1207,7 @@
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [ndom91/authjs-prisma-edge-example](https://github.com/ndom91/authjs-prisma-edge-example) - Example project for Auth.js with Prisma's Edge runtime support
+- [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
