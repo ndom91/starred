@@ -919,7 +919,6 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [network-automation/ansible-napalm-samples](https://github.com/network-automation/ansible-napalm-samples) - GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Arista vEOS
 - [xezpeleta/Ansible-Proxmox-inventory](https://github.com/xezpeleta/Ansible-Proxmox-inventory) - Proxmox dynamic inventory for Ansible
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [writememe/motherstarter](https://github.com/writememe/motherstarter) - A network tool to accelerate the adoption of network automation
 - [networktocode/network-importer](https://github.com/networktocode/network-importer) - The network importer is a tool/library to analyze and/or synchronize an existing network with a Network Source of Truth (SOT), it's designed to be idempotent and by default it's only showing the diffe
 - [sipgate/ansible-juniper-cookbook](https://github.com/sipgate/ansible-juniper-cookbook) - Automate your Juniper Devices with Ansible
