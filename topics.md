@@ -2199,7 +2199,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [UpDryTwist/defogger-dch-s150](https://github.com/UpDryTwist/defogger-dch-s150) - Forked from D-Link DCS-8000LH usage info and defogging tools to get to work with the DCH-S150
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [xpepermint/smtp-channel](https://github.com/xpepermint/smtp-channel) - Low level SMTP communication layer.
 - [xpepermint/smtp-client](https://github.com/xpepermint/smtp-client) - Simple, promisified, protocol-based SMTP client for Node.js.
@@ -2320,7 +2320,6 @@
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [Solcon/netbox-gitlab](https://github.com/Solcon/netbox-gitlab) - NetBox GitLab export plugin
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [writememe/motherstarter](https://github.com/writememe/motherstarter) - A network tool to accelerate the adoption of network automation
 - [networktocode/network-importer](https://github.com/networktocode/network-importer) - The network importer is a tool/library to analyze and/or synchronize an existing network with a Network Source of Truth (SOT), it's designed to be idempotent and by default it's only showing the diffe
 - [covidatlas/li](https://github.com/covidatlas/li) - Next-generation serverless crawler for COVID-19 data
