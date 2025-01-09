@@ -700,6 +700,7 @@
 
 ## Others 
 
+- [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
 - [KingDuane/Chicago-Kare](https://github.com/KingDuane/Chicago-Kare) - A Faithful Reproduction of the Bitmap Version of the Chicago Typeface Created by Susan Kare for Apple Computer in 1984
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
