@@ -124,7 +124,6 @@
 
 ## C# # 
 
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [endrl/jellyfin-plugin-media-analyzer](https://github.com/endrl/jellyfin-plugin-media-analyzer) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -992,6 +991,7 @@
 
 ## Rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
@@ -1215,6 +1215,7 @@
 - [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [supabase/stripe-sync-engine](https://github.com/supabase/stripe-sync-engine) - Sync your Stripe account to you Postgres database.
 - [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
