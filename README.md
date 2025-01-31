@@ -849,6 +849,7 @@
 
 ## Python 
 
+- [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
 - [micoli/gocker](https://github.com/micoli/gocker) - Text User Interface on docker,
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Some helpful reimplementations of Google's Find My Device network
