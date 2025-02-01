@@ -993,7 +993,7 @@
 
 ## flask 
 
-- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
+- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done. Installing software, creating backups, custom functions, configurations etc.
 
 ## flutter 
 
@@ -2066,6 +2066,7 @@
 
 ## others 
 
+- [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 - [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
