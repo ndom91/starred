@@ -1157,7 +1157,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
+- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done. Installing software, creating backups, custom functions, configurations etc.
 - [novaspirit/androidauto_rpi_install](https://github.com/novaspirit/androidauto_rpi_install) - auto install script to install android auto on raspberry pi
 
 ## Svelte 
