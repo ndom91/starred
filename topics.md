@@ -2068,6 +2068,8 @@
 
 ## others 
 
+- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs
+- [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
 - [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 - [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
