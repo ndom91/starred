@@ -1139,7 +1139,7 @@
 
 ## golang 
 
-- [nao1215/sqly](https://github.com/nao1215/sqly) - sqly - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
+- [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -1584,7 +1584,7 @@
 
 ## json 
 
-- [nao1215/sqly](https://github.com/nao1215/sqly) - sqly - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
+- [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -3103,7 +3103,7 @@
 
 ## sql 
 
-- [nao1215/sqly](https://github.com/nao1215/sqly) - sqly - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
+- [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
