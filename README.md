@@ -1002,6 +1002,7 @@
 
 ## Rust 
 
+- [hlsxx/tukai](https://github.com/hlsxx/tukai) - The app provides an interactive typing experience with switchable templates, designed to help users improve their typing speed and accuracy
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
