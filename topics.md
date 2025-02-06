@@ -259,6 +259,7 @@
 
 ## algorithm 
 
+- [domfarolino/algorithms](https://github.com/domfarolino/algorithms) - 💎 Documented algorithmic problems/solutions + datastructures
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript and JavaScript
@@ -742,6 +743,7 @@
 
 ## data-structures 
 
+- [domfarolino/algorithms](https://github.com/domfarolino/algorithms) - 💎 Documented algorithmic problems/solutions + datastructures
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript and JavaScript
@@ -835,7 +837,7 @@
 - [micoli/gocker](https://github.com/micoli/gocker) - Text User Interface on docker,
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
@@ -2932,6 +2934,7 @@
 
 ## rust 
 
+- [hlsxx/tukai](https://github.com/hlsxx/tukai) - The app provides an interactive typing experience with switchable templates, designed to help users improve their typing speed and accuracy
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
@@ -3237,6 +3240,7 @@
 
 ## terminal 
 
+- [hlsxx/tukai](https://github.com/hlsxx/tukai) - The app provides an interactive typing experience with switchable templates, designed to help users improve their typing speed and accuracy
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
