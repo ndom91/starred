@@ -867,7 +867,7 @@
 - [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
 - [micoli/gocker](https://github.com/micoli/gocker) - Text User Interface on docker,
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
-- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Some helpful reimplementations of Google's Find My Device network
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of five or six keys, aggressive column stagger, generous thumb arc and optional bottom utility keys
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
@@ -1198,6 +1198,7 @@
 
 ## TypeScript 
 
+- [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [gordonhart/atlasof.space](https://github.com/gordonhart/atlasof.space) - An interactive exploration of the planets, moons, asteroids, and other objects in the Solar System
 - [irsyadadl/justd](https://github.com/irsyadadl/justd) - Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
@@ -1288,7 +1289,7 @@
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jd-solanki/anu](https://github.com/jd-solanki/anu) - Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
