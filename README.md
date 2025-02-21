@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [cbh34680/WinCse](https://github.com/cbh34680/WinCse) - WinCSE - Windows Cloud Storage Explorer
 - [domfarolino/algorithms](https://github.com/domfarolino/algorithms) - 💎 Documented algorithmic problems/solutions + datastructures
 - [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
