@@ -117,7 +117,7 @@
 - [valen214/Massdrop-Ctrl-Keyboard-Ripple-LED](https://github.com/valen214/Massdrop-Ctrl-Keyboard-Ripple-LED) - adding LED splash effect with the provide QMK firmware, by editing matrix_init_user(), matrix_scan_user(), process_record_user(), led_instructions[]
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [faf0/sct](https://github.com/faf0/sct) - sct - set color temperature of screen
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -920,7 +920,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
-- [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [sbidy/wiz_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers.
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
