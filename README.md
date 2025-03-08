@@ -940,7 +940,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
-- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [netenglabs/suzieq](https://github.com/netenglabs/suzieq) - Using network observability to operate and design healthier networks
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
