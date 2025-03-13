@@ -2095,7 +2095,7 @@
 - [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
 - [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
-- [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
+- [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
 - [gordonhart/atlasof.space](https://github.com/gordonhart/atlasof.space) - An interactive exploration of the planets, moons, asteroids, and other objects in the Solar System
