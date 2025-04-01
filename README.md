@@ -236,7 +236,7 @@
 
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
-- [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI tool for cooking up shell recipes.
+- [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -491,7 +491,6 @@
 - [checkly/headless-benchmarks](https://github.com/checkly/headless-benchmarks) - Benchmarking scripts for Puppeteer, Playwright, WebDriverIO  & Cypress.
 - [preactjs/next-plugin-preact](https://github.com/preactjs/next-plugin-preact) - Next.js plugin for preact X
 - [relferreira/kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [ndom91/newtelco-nt-noc](https://github.com/ndom91/newtelco-nt-noc) - 🖧 NOC Dashboard
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
@@ -1384,6 +1383,7 @@
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [nextauthjs/adapters](https://github.com/nextauthjs/adapters) - next-auth adapters that are maintained by the community to support any database.
 - [tgandrews/next-auth-dynamodb](https://github.com/tgandrews/next-auth-dynamodb) - Dyanmodb provider for next-auth
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
