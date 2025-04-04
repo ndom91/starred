@@ -234,6 +234,7 @@
 
 ## Go 
 
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
