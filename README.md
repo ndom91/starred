@@ -22,7 +22,6 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [FreeMarker](#freemarker)
-- [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HCL](#hcl)
@@ -39,6 +38,7 @@
 - [Mustache](#mustache)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -223,10 +223,6 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-
-## G-code 
-
-- [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 
 ## GDScript 
 
@@ -717,6 +713,10 @@
 
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
+
+## OpenSCAD 
+
+- [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 
 ## Others 
 
