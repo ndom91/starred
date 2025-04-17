@@ -871,6 +871,7 @@
 
 ## Python 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [Dunngeon/Alientek-DP100-PyQT5-english-gui](https://github.com/Dunngeon/Alientek-DP100-PyQT5-english-gui) - Alientek DP100 digital power supply control GUI in english
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
