@@ -251,6 +251,7 @@
 
 ## ai 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -2080,6 +2081,7 @@
 
 ## openai 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ErikBjare/are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!
@@ -2539,7 +2541,7 @@
 - [vlad-ivanov-name/partkeepr-label-gen](https://github.com/vlad-ivanov-name/partkeepr-label-gen) - Print labels with barcodes from PartKeepr CSV export
 - [partkeepr/Scannr](https://github.com/partkeepr/Scannr) - 
 - [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [ronny3050/phone-notification-mirror](https://github.com/ronny3050/phone-notification-mirror) - Displays and alerts mirror users on new phone notifications
 - [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
 - [scotch-io/javascript-starter-course](https://github.com/scotch-io/javascript-starter-course) - Code for the Scotch School course by @sevilayha
@@ -2717,6 +2719,7 @@
 
 ## python 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -3285,6 +3288,7 @@
 
 ## terminal 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [hlsxx/tukai](https://github.com/hlsxx/tukai) - The app provides an interactive typing experience with switchable templates, designed to help users improve their typing speed and accuracy
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
