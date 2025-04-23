@@ -230,7 +230,7 @@
 
 ## Go 
 
-- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
@@ -373,7 +373,7 @@
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [MansoorMajeed/extract-authenticator-credentials](https://github.com/MansoorMajeed/extract-authenticator-credentials) - Easily move your android GoogleAuthenticator/LastPass authenticator credentials to any new device ( iOS/Android/WP/UbuntuTouch/FFOS ). This reads your google/lastpass authenticator database and genera
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [argyleink/jscamp](https://github.com/argyleink/jscamp) - talk for JScamp 2019 in Barcelona
 - [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
