@@ -3057,7 +3057,7 @@
 - [cckuailong/HackChrome](https://github.com/cckuailong/HackChrome) - :snowman: Get the User:Password from Chrome(include version &lt; 80 and version &gt; 80)
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
@@ -3104,7 +3104,7 @@
 
 ## server 
 
-- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
 - [EddySchauHai/bashttp](https://github.com/EddySchauHai/bashttp) - µServer in Bash
 - [john-theo/google-translate-server](https://github.com/john-theo/google-translate-server) - [DEPRECATED]  Free Google Translate API. Very lightweight and easy to use.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
