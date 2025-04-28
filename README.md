@@ -400,6 +400,7 @@
 
 ## JavaScript 
 
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed avoiding bottlenecks and long tasks.
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -809,6 +810,7 @@
 - [ork/mutt-office365](https://github.com/ork/mutt-office365) - A mutt configuration file ready for Office 365
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
+- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [emmabostian/design-inspiration](https://github.com/emmabostian/design-inspiration) - A collection of websites to spark creativity
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -871,7 +873,7 @@
 
 ## Python 
 
-- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI - Pocket Flow Tutorial Project
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [Dunngeon/Alientek-DP100-PyQT5-english-gui](https://github.com/Dunngeon/Alientek-DP100-PyQT5-english-gui) - Alientek DP100 digital power supply control GUI in english
@@ -1173,7 +1175,6 @@
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - DEPRECATED - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [wimpysworld/antsy-alien-attack](https://github.com/wimpysworld/antsy-alien-attack) - A game, written in Bash, that is a somewhat retro-a-like shoot 'em up. Hopefully.
 - [diethnis/standalones](https://github.com/diethnis/standalones) - Single use scripts
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [edbizarro/gitlab-ci-pipeline-php](https://github.com/edbizarro/gitlab-ci-pipeline-php) - :coffee: Docker images for test PHP applications with Gitlab CI (or any other CI platform!)
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
