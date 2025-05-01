@@ -1214,6 +1214,8 @@
 
 ## TypeScript 
 
+- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
+- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [gordonhart/atlasof.space](https://github.com/gordonhart/atlasof.space) - An interactive exploration of the planets, moons, asteroids, and other objects in the Solar System
