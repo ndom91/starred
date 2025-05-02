@@ -253,7 +253,7 @@
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
-- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
