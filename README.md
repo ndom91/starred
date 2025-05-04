@@ -716,6 +716,7 @@
 
 ## OpenSCAD 
 
+- [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model
 - [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 
 ## Others 
