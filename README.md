@@ -399,7 +399,7 @@
 
 ## JavaScript 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements as images with exceptional speed and accuracy.
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
