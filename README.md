@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
