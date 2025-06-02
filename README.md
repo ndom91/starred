@@ -894,7 +894,7 @@
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
 - [JoshKarpel/spiel](https://github.com/JoshKarpel/spiel) - Display richly-styled presentations using your terminal
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-- [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of five or six keys, aggressive column stagger, generous thumb arc and optional bottom utility keys
+- [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of six or five keys and a generous thumb arc
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [CollapseLabs/gardening-for-engineers](https://github.com/CollapseLabs/gardening-for-engineers) - A starting point for understanding how to grow vegetables at home
