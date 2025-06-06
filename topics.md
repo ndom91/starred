@@ -1610,7 +1610,7 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements as images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [LesterLyu/fast-formula-parser](https://github.com/LesterLyu/fast-formula-parser) - Parse and evaluate MS Excel formula in javascript.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
