@@ -262,6 +262,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## algorithm 
 
@@ -771,7 +772,7 @@
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## database 
 
@@ -792,7 +793,7 @@
 - [sdslabs/zap-db](https://github.com/sdslabs/zap-db) - An easy to use JSON database written with ease of setup and memory management of slack bots in mind.
 - [nextauthjs/adapters](https://github.com/nextauthjs/adapters) - next-auth adapters that are maintained by the community to support any database.
 - [bluzi/jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects | Inactive
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## deep-learning 
 
@@ -850,7 +851,7 @@
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - DEPRECATED - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [lwindolf/polscan](https://github.com/lwindolf/polscan) - Zero-setup SSH-based scanner with extensive visualizations for Debian server inventory, policy compliance and vulnerabilities
 
 ## django 
@@ -895,7 +896,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [edbizarro/gitlab-ci-pipeline-php](https://github.com/edbizarro/gitlab-ci-pipeline-php) - :coffee: Docker images for test PHP applications with Gitlab CI (or any other CI platform!)
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
@@ -916,7 +917,7 @@
 
 - [ndom91/nix-config](https://github.com/ndom91/nix-config) - ❄️ Personal NixOS Configs
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
-- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, yabai, SketchyBar
+- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -1651,7 +1652,7 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - DEPRECATED - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [lwindolf/polscan](https://github.com/lwindolf/polscan) - Zero-setup SSH-based scanner with extensive visualizations for Debian server inventory, policy compliance and vulnerabilities
 
 ## language 
@@ -1735,7 +1736,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [dusansimic/noty](https://github.com/dusansimic/noty) - A small tray app for Google Keep. :ledger::memo:
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
@@ -1793,7 +1794,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## macos 
 
@@ -1809,6 +1810,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
@@ -1865,7 +1867,7 @@
 ## mongodb 
 
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## monitoring 
 
@@ -1885,7 +1887,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
@@ -1907,7 +1909,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 
@@ -1921,7 +1923,7 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) - Charm's "freeze" CLI as a neovim plugin
-- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, yabai, SketchyBar
+- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
@@ -2696,7 +2698,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## powershell 
 
@@ -2835,7 +2837,6 @@
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - DEPRECATED - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 
 ## react 
