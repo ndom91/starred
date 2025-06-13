@@ -39,6 +39,7 @@
 - [Nix](#nix)
 - [Nu](#nu)
 - [Nunjucks](#nunjucks)
+- [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -721,6 +722,10 @@
 
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
+
+## Objective-C 
+
+- [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
 
 ## OpenSCAD 
 
