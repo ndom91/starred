@@ -173,6 +173,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -2147,7 +2148,7 @@
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
 - [gordonhart/atlasof.space](https://github.com/gordonhart/atlasof.space) - An interactive exploration of the planets, moons, asteroids, and other objects in the Solar System
-- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tedhinklater/finality](https://github.com/tedhinklater/finality) - Jellyfin Theme CSS
@@ -2504,7 +2505,6 @@
 - [DigitArc/reactNativeSwiperDeck](https://github.com/DigitArc/reactNativeSwiperDeck) - Tinder Inspired, React Native Powered Swipable Deck
 - [scottydocs/awesome-docs](https://github.com/scottydocs/awesome-docs) - A page of examples of awesome documentation
 - [trading-peter/mojibar](https://github.com/trading-peter/mojibar) - :tangerine: Emoji searcher but as a menubar app.
-- [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [stolinski/Best-websites-a-programmer-should-visit](https://github.com/stolinski/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [MansoorMajeed/extract-authenticator-credentials](https://github.com/MansoorMajeed/extract-authenticator-credentials) - Easily move your android GoogleAuthenticator/LastPass authenticator credentials to any new device ( iOS/Android/WP/UbuntuTouch/FFOS ). This reads your google/lastpass authenticator database and genera
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
@@ -2726,6 +2726,18 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## productivity 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
+- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [raphaelsalaja/paths](https://github.com/raphaelsalaja/paths) - Extension for finding shortcuts for popular apps and websites 🛣️
+- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
 ## programming 
 
