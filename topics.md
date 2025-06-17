@@ -2129,6 +2129,7 @@
 
 ## others 
 
+- [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model
