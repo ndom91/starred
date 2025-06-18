@@ -955,7 +955,7 @@
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Netbox Dns is a netbox plugin for managing zone, nameserver and record inventory.
 - [peering-manager/peering-manager](https://github.com/peering-manager/peering-manager) - BGP sessions management tool
-- [dhondta/dronesploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console
+- [dronesploit/dronesploit](https://github.com/dronesploit/dronesploit) - Drone pentesting framework console
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure's servers
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
