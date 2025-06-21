@@ -93,7 +93,7 @@
 
 ## C 
 
-- [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
+- [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - The developer toy that brings developers joy.
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
