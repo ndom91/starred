@@ -114,6 +114,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -341,6 +342,7 @@
 
 ## arduino 
 
+- [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 
 ## artificial-intelligence 
@@ -1451,6 +1453,10 @@
 
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 
+## information-gathering 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
 ## instagram 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1689,6 +1695,7 @@
 
 ## linux 
 
+- [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
@@ -3358,6 +3365,7 @@
 - [antoniorodr/lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workf
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [hlsxx/tukai](https://github.com/hlsxx/tukai) - The app provides an interactive typing experience with switchable templates, designed to help users improve their typing speed and accuracy
+- [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
