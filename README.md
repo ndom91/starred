@@ -1242,6 +1242,7 @@
 
 ## TypeScript 
 
+- [stan-smith/OpenFLOW](https://github.com/stan-smith/OpenFLOW) - Make beautiful isometric infrastructure diagrams
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Test your LLM-powered apps with TypeScript. No API key required.
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
