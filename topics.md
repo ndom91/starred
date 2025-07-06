@@ -2874,6 +2874,7 @@
 
 ## react 
 
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
@@ -3440,6 +3441,7 @@
 
 ## typescript 
 
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Test your LLM-powered apps with TypeScript. No API key required.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
