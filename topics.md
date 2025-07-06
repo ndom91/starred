@@ -255,6 +255,8 @@
 
 ## ai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Test your LLM-powered apps with TypeScript. No API key required.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -524,6 +526,7 @@
 
 ## chatgpt 
 
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 
 ## chrome 
@@ -641,7 +644,7 @@
 
 ## compiler 
 
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -1757,6 +1760,8 @@
 
 ## llm 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - This package is a collection of datasets for evaluating AI Models in the context of Home Assistant.
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
@@ -1842,7 +1847,7 @@
 
 ## markdown 
 
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
@@ -2120,6 +2125,7 @@
 
 ## openai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -3033,6 +3039,7 @@
 
 ## rust 
 
+- [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -3137,6 +3144,7 @@
 
 ## self-hosted 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Modern front-end for the Proxmox VE Helper Scripts project, built with Next-js, Shadcn, and Pocketbase.
@@ -3318,7 +3326,7 @@
 
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
-- [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
+- [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [davidhellmann/tailwindcss-fluid-type](https://github.com/davidhellmann/tailwindcss-fluid-type) - A plugin that makes the use of Fluid Type a breeze.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
@@ -3331,7 +3339,7 @@
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
+- [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -3530,6 +3538,7 @@
 
 ## ui 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
