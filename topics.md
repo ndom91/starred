@@ -35,6 +35,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -625,6 +626,10 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [codeaholicguy/wowcup](https://github.com/codeaholicguy/wowcup) - ⚽ 💻 The finest Worldcup 2018 CLI.
 - [dwaring87/rtm-cli](https://github.com/dwaring87/rtm-cli) - Remember the Milk Command Line Interface
+
+## cms 
+
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 
 ## code 
 
@@ -2640,7 +2645,6 @@
 - [cagmz/HastebinHelper](https://github.com/cagmz/HastebinHelper) - A Chrome extension that lets users select text and create pastes from the right-click context menu.
 - [georg94/atom-hastebin](https://github.com/georg94/atom-hastebin) - A package for Atom to upload the current document to hastbin
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
-- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [nordtheme/notepadplusplus](https://github.com/nordtheme/notepadplusplus) - An arctic, north-bluish clean and elegant Notepad++ theme.
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 
