@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns a
 - [jmorrell/low-quality-image-placeholders-on-cloudflare-workers](https://github.com/jmorrell/low-quality-image-placeholders-on-cloudflare-workers) - Implementations of several placeholder strategies on Cloudflare Workers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1261,7 +1262,7 @@
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
-- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
+- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - Modern Zod-based CLI builder, fully type-safe, super lightweight and flexible.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [gordonhart/atlasof.space](https://github.com/gordonhart/atlasof.space) - An interactive exploration of the planets, moons, asteroids, and other objects in the Solar System
