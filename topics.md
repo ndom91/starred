@@ -2176,6 +2176,7 @@
 
 ## others 
 
+- [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns a
 - [StakeSquid/dtop](https://github.com/StakeSquid/dtop) - A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.
 - [taylorwilsdon/netshow](https://github.com/taylorwilsdon/netshow) - Lightweight, performant interactive network connection monitor with friendly service names
 - [fabian-hiller/formisch](https://github.com/fabian-hiller/formisch) - The modular and type-safe form library for any framework
@@ -2189,7 +2190,7 @@
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model
-- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - 
+- [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) - Modern Zod-based CLI builder, fully type-safe, super lightweight and flexible.
 - [rugbymauri/onshape-gridfinity](https://github.com/rugbymauri/onshape-gridfinity) - 
 - [Dunngeon/Alientek-DP100-PyQT5-english-gui](https://github.com/Dunngeon/Alientek-DP100-PyQT5-english-gui) - Alientek DP100 digital power supply control GUI in english
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
