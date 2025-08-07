@@ -745,6 +745,7 @@
 
 ## Others 
 
+- [los-gordos/BLOKK](https://github.com/los-gordos/BLOKK) - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.
 - [flozy/nixos-lit2025](https://github.com/flozy/nixos-lit2025) - Homeserver mit NixOS
 - [rugbymauri/onshape-gridfinity](https://github.com/rugbymauri/onshape-gridfinity) - 
 - [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs
