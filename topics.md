@@ -2176,6 +2176,7 @@
 
 ## others 
 
+- [los-gordos/BLOKK](https://github.com/los-gordos/BLOKK) - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.
 - [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns a
 - [StakeSquid/dtop](https://github.com/StakeSquid/dtop) - A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.
 - [taylorwilsdon/netshow](https://github.com/taylorwilsdon/netshow) - Lightweight, performant interactive network connection monitor with friendly service names
