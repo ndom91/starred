@@ -937,7 +937,7 @@
 - [vas3k/home-assistant-berlin-transport](https://github.com/vas3k/home-assistant-berlin-transport) - Berlin (BVG) and Brandenburg (VBB) transport widget for Home Assistant
 - [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor) - A HomeAssistant / HACS integration of Berlin Public Transport (BVG)
-- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
+- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - NetBox plugin to validate network devices
