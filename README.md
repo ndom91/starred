@@ -1321,7 +1321,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
-- [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - A framework for Svelte Utilities 💡 Current status: 87 utilities.
+- [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - [NOT MAINTAINING ANYMORE] A framework for Svelte Utilities 💡 Current status: 87 utilities.
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [ndom91/briefkasten-rss](https://github.com/ndom91/briefkasten-rss) - Deno-based background worker for RSS feed reader
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
