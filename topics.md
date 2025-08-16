@@ -294,6 +294,7 @@
 ## android 
 
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## angular 
@@ -1338,7 +1339,6 @@
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [mxschmitt/try-playwright](https://github.com/mxschmitt/try-playwright) - Try Playwright lets you execute and share Playwright scripts in your browser to get started with Playwright.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1500,6 +1500,7 @@
 ## ios 
 
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 
 ## iot 
@@ -1863,6 +1864,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
@@ -3737,6 +3739,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
