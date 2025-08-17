@@ -2183,6 +2183,7 @@
 
 ## others 
 
+- [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
 - [hzqtc/cashd](https://github.com/hzqtc/cashd) - A fast and cozy TUI for personal finance management.
 - [csmith/tsp](https://github.com/csmith/tsp) - Tailscale proxy for TCP connections
 - [los-gordos/BLOKK](https://github.com/los-gordos/BLOKK) - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.
