@@ -2190,6 +2190,7 @@
 
 ## others 
 
+- [ndom91/calendar-led-strip](https://github.com/ndom91/calendar-led-strip) - 💈 Sync your Google Cal to any WLED Strip
 - [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
 - [hzqtc/cashd](https://github.com/hzqtc/cashd) - A fast and cozy TUI for personal finance management.
 - [csmith/tsp](https://github.com/csmith/tsp) - Tailscale proxy for TCP connections
