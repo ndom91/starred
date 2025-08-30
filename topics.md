@@ -2189,6 +2189,7 @@
 
 ## others 
 
+- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant UI framework for the web
 - [chocolateofpain/chocolateofpain](https://github.com/chocolateofpain/chocolateofpain) - 
 - [ndom91/calendar-led-strip](https://github.com/ndom91/calendar-led-strip) - 💈 Sync your Google Cal to any WLED Strip
 - [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
