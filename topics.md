@@ -2939,7 +2939,7 @@
 
 ## react 
 
-- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Cursor for Video Editing
+- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
@@ -3515,7 +3515,7 @@
 
 ## typescript 
 
-- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Cursor for Video Editing
+- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [mattpocock/evalite](https://github.com/mattpocock/evalite) - Evaluate your LLM-powered apps with TypeScript
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
