@@ -449,7 +449,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NalinPlad/hkkr.in](https://github.com/NalinPlad/hkkr.in) - 👨‍💻 • CURL client for Hacker News 📰 📰
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
 - [xpepermint/smtp-channel](https://github.com/xpepermint/smtp-channel) - Low level SMTP communication layer.
 - [xpepermint/smtp-client](https://github.com/xpepermint/smtp-client) - Simple, promisified, protocol-based SMTP client for Node.js.
