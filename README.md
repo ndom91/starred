@@ -366,6 +366,7 @@
 
 ## HTML 
 
+- [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font
 - [WICG/direct-sockets](https://github.com/WICG/direct-sockets) - Direct Sockets API for the web platform
 - [thoughtspot/pdom](https://github.com/thoughtspot/pdom) - Multithreaded DOM is possible.
@@ -1269,6 +1270,7 @@
 
 ## TypeScript 
 
+- [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [ndom91/calendar-led-strip](https://github.com/ndom91/calendar-led-strip) - 💈 Sync your Google Cal to any WLED Strip
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
 - [fabian-hiller/formisch](https://github.com/fabian-hiller/formisch) - The modular and type-safe form library for any framework
