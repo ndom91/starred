@@ -189,7 +189,6 @@
 - [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
 - [daneden/Toast](https://github.com/daneden/Toast) - 🍞 A highly-customizable, responsive (S)CSS grid
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [ellekasai/twemoji-awesome](https://github.com/ellekasai/twemoji-awesome) - [Unmaintained] Like Font Awesome, but for Twitter Emoji
 - [pmpkk/openhab-habpanel-theme-matrix](https://github.com/pmpkk/openhab-habpanel-theme-matrix) - A custom theme for OpenHab HabPanel
 - [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
@@ -692,6 +691,7 @@
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 
 ## MDX 
 
