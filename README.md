@@ -252,7 +252,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
@@ -659,7 +659,7 @@
 
 - [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - This package is a collection of datasets for evaluating AI Models in the context of Home Assistant.
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 
 ## Kotlin 
