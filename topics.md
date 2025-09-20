@@ -2196,6 +2196,7 @@
 
 ## others 
 
+- [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.
 - [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters) - 3D-printable adapters to curve the ZSA Voyager keycaps
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [MoJoSchuck/mern-auth-app](https://github.com/MoJoSchuck/mern-auth-app) - 🔒 Fullstack authentication app with React (Vite), Node.js/Express & MongoDB. Includes JWT auth, email verification and password reset.
