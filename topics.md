@@ -2238,7 +2238,7 @@
 - [flozy/nixos-lit2025](https://github.com/flozy/nixos-lit2025) - Homeserver mit NixOS
 - [BaconIsAVeg/outside](https://github.com/BaconIsAVeg/outside) - A multi-purpose weather client for your terminal!
 - [conikeec/mcp-probe](https://github.com/conikeec/mcp-probe) - A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interac
-- [stevenbennett/Open-Task-Light](https://github.com/stevenbennett/Open-Task-Light) - Components for making the DIYson lamp
+- [stevenbennett/Open-Task-Light](https://github.com/stevenbennett/Open-Task-Light) - Components for making the Open Task Light
 - [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - The developer toy that brings developers joy.
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -2293,7 +2293,7 @@
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
-- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend,Sendgrid, Postmark etc.
+- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [surma/containix](https://github.com/surma/containix) - 
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of six or five keys and a generous thumb arc
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
