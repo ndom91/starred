@@ -1340,6 +1340,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
 - [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one-stop build analyzer for Rspack and webpack. Support us with a star ⭐️
+- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - This project collects GPU benchmarks from various cloud providers and compares them to fixed per token costs. Use our tool for efficient LLM GPU selections and cost-effective AI models. LLM provider p
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1422,6 +1423,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
@@ -2298,7 +2300,6 @@
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
-- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [surma/containix](https://github.com/surma/containix) - 
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of six or five keys and a generous thumb arc
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
