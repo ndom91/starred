@@ -911,6 +911,7 @@
 
 ## Python 
 
+- [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve) - Proxmox VE Custom Integration Home Assistant
 - [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
 - [StakeSquid/dtop](https://github.com/StakeSquid/dtop) - A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.
 - [taylorwilsdon/netshow](https://github.com/taylorwilsdon/netshow) - Lightweight, performant interactive network connection monitor with friendly service names
