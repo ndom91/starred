@@ -61,6 +61,7 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
@@ -239,6 +240,7 @@
 
 ## Go 
 
+- [iselt/masque-vpn](https://github.com/iselt/masque-vpn) - A VPN implementation based on the MASQUE(CONNECT-IP) protocol
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hzqtc/cashd](https://github.com/hzqtc/cashd) - A fast and cozy TUI for personal finance management.
 - [csmith/tsp](https://github.com/csmith/tsp) - Tailscale proxy for TCP connections
@@ -1542,6 +1544,10 @@
 ## Vala 
 
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
+## Verilog 
+
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 
 ## Vim Script 
 
