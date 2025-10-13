@@ -1761,6 +1761,7 @@
 
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - High-performance Rust library & CLI for domain availability checks using RDAP & WHOIS, with async concurrency, bulk processing, and robust error handling.
+- [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
@@ -1877,6 +1878,7 @@
 
 ## mac 
 
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [checkly/pulumi-checkly](https://github.com/checkly/pulumi-checkly) - Pulumi provider for the Checkly monitoring service
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -1893,6 +1895,7 @@
 
 ## macos 
 
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -2229,6 +2232,7 @@
 
 ## others 
 
+- [acsandmann/rift.lua](https://github.com/acsandmann/rift.lua) - lua client for rift-wm
 - [MoJoSchuck/Expense-Tracker-GQL](https://github.com/MoJoSchuck/Expense-Tracker-GQL) - Spend smarter. Track faster. Full-stack expense tracker using GraphQL + React.
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve) - Proxmox VE Custom Integration Home Assistant
@@ -2326,7 +2330,6 @@
 - [kiroushi/hass](https://github.com/kiroushi/hass) - 
 - [CollapseLabs/gardening-for-engineers](https://github.com/CollapseLabs/gardening-for-engineers) - A starting point for understanding how to grow vegetables at home
 - [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) - Proxmox VE Helper-Scripts - Ported to ARM64
-- [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
@@ -3155,6 +3158,7 @@
 
 ## rust 
 
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - High-performance Rust library & CLI for domain availability checks using RDAP & WHOIS, with async concurrency, bulk processing, and robust error handling.
