@@ -106,7 +106,6 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Architeuthis-Flux/Jumperless](https://github.com/Architeuthis-Flux/Jumperless) - A jumperless breadboard
 - [oldfieldtc/Lily58-keymap](https://github.com/oldfieldtc/Lily58-keymap) - Key mappings for my Lily58 Pro keyboard
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico
@@ -895,6 +894,7 @@
 
 ## Perl 
 
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
