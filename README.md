@@ -691,6 +691,7 @@
 
 ## MDX 
 
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs) - GitButler Documentation
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
