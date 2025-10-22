@@ -1788,6 +1788,7 @@
 
 ## linux 
 
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
