@@ -1453,6 +1453,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 
 ## haskell 
@@ -3179,6 +3180,7 @@
 
 ## rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
