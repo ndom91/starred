@@ -2256,6 +2256,7 @@
 
 ## others 
 
+- [hauxir/macos-live-screensaver](https://github.com/hauxir/macos-live-screensaver) - Use live streams as screensavers/lock screens on MacOS
 - [team-plain/hubspot-push-example](https://github.com/team-plain/hubspot-push-example) - Example for pushing thread data to Hubspot
 - [wesbos/thermal-printer](https://github.com/wesbos/thermal-printer) - Thermal printer controlled with JS
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
@@ -3188,7 +3189,7 @@
 
 ## rust 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
