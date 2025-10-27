@@ -322,7 +322,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Terraform provider for the Checkly monitoring service
 - [checkly/checkly-go-sdk](https://github.com/checkly/checkly-go-sdk) - Go SDK library for use with the Checkly API
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [lwlcom/cisco_exporter](https://github.com/lwlcom/cisco_exporter) - Exporter for metrics from devices running Cisco (NX-OS/IOS XE/IOS) to use with https://prometheus.io/
 - [sanity-io/mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON)
