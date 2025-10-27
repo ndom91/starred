@@ -635,7 +635,7 @@
 - [ndom91/recheck-cli](https://github.com/ndom91/recheck-cli) - ⌨️ Regex Denial-of-Service Checker CLI
 - [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
@@ -904,7 +904,7 @@
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
@@ -2257,6 +2257,7 @@
 
 ## others 
 
+- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10 and 14 Pin versions
 - [hauxir/macos-live-screensaver](https://github.com/hauxir/macos-live-screensaver) - Use live streams as screensavers/lock screens on MacOS
 - [team-plain/hubspot-push-example](https://github.com/team-plain/hubspot-push-example) - Example for pushing thread data to Hubspot
 - [wesbos/thermal-printer](https://github.com/wesbos/thermal-printer) - Thermal printer controlled with JS
