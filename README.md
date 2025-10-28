@@ -750,7 +750,7 @@
 
 ## Others 
 
-- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10 and 14 Pin versions
+- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters) - 3D-printable adapters to curve the ZSA Voyager keycaps
 - [chocolateofpain/chocolateofpain](https://github.com/chocolateofpain/chocolateofpain) - 
 - [los-gordos/BLOKK](https://github.com/los-gordos/BLOKK) - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.
@@ -1180,6 +1180,7 @@
 
 ## Shell 
 
+- [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Port WiFi Pineapple NANO/TETRA in generic hardware
