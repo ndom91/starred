@@ -475,6 +475,7 @@
 
 ## bash 
 
+- [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
 - [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -2258,7 +2259,7 @@
 ## others 
 
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
-- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10 and 14 Pin versions
+- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [hauxir/macos-live-screensaver](https://github.com/hauxir/macos-live-screensaver) - Use live streams as screensavers/lock screens on MacOS
 - [team-plain/hubspot-push-example](https://github.com/team-plain/hubspot-push-example) - Example for pushing thread data to Hubspot
 - [wesbos/thermal-printer](https://github.com/wesbos/thermal-printer) - Thermal printer controlled with JS
