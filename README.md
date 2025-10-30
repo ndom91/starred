@@ -801,7 +801,6 @@
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [swyxio/tracking](https://github.com/swyxio/tracking) - Developer industry stats and where to find them.
 - [tobetz/LegoMicroscope](https://github.com/tobetz/LegoMicroscope) - To learn about optics and microscopy, we generated a simple to build lego microscope that does not need precision optics and 3D printed parts.
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
@@ -957,7 +956,7 @@
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - NetBox plugin to validate network devices
 - [gvigroux/hon](https://github.com/gvigroux/hon) - Support of all Haier, Candy, Hoover appliances integrated in the official hOn mobile app. Direct access to all possible services and parameters
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass) - Control Govee lights via the LAN API from Home Assistant
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [veebch/hometime](https://github.com/veebch/hometime) - A physical progress bar based on Google Calendar events
@@ -998,6 +997,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [progala/ttl255-netbox-plugin-bgppeering](https://github.com/progala/ttl255-netbox-plugin-bgppeering) - Example NetBox plugin - Tracking BGP Peering connections
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
