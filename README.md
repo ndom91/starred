@@ -423,7 +423,7 @@
 - [jmorrell/low-quality-image-placeholders-on-cloudflare-workers](https://github.com/jmorrell/low-quality-image-placeholders-on-cloudflare-workers) - Implementations of several placeholder strategies on Cloudflare Workers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms live HTML into any format — images, SVG, PDF, ASCII, WebGL, and more — all powered by a flexible plugin system.
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -1182,6 +1182,7 @@
 
 ## Shell 
 
+- [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
@@ -1424,7 +1425,7 @@
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
-- [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
+- [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [PacktPublishing/Micro-State-Management-with-React-Hooks](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks) - Micro State Management with React Hooks, published by Packt
 - [maraisr/piecemeal](https://github.com/maraisr/piecemeal) - 🪀 Send your data piecemeal
