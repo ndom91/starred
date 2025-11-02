@@ -2262,6 +2262,7 @@
 
 ## others 
 
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [prusa3d/OpenPrintTag](https://github.com/prusa3d/OpenPrintTag) - 
 - [ndom91/local-voice](https://github.com/ndom91/local-voice) - Wyoming Whisper/Piper setup for HomeAssistant Voice
