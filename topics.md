@@ -2262,6 +2262,7 @@
 
 ## others 
 
+- [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) - CLI Jellyfin Controller Utility for Linux and Windows
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [prusa3d/OpenPrintTag](https://github.com/prusa3d/OpenPrintTag) - 
