@@ -2273,6 +2273,9 @@
 
 ## others 
 
+- [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
+- [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
+- [cloudfour/image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing images with a slider.
 - [matoslav/FerroWave](https://github.com/matoslav/FerroWave) - Ferrofluid portable bluetooth speaker and visualizer
 - [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -3530,6 +3533,7 @@
 ## tailwindcss 
 
 - [MoJoSchuck/Expense-Tracker-GQL](https://github.com/MoJoSchuck/Expense-Tracker-GQL) - Spend smarter. Track faster. Full-stack expense tracker using GraphQL + React.
+- [MoJoSchuck/advancedAUTH](https://github.com/MoJoSchuck/advancedAUTH) - 🔒 Fullstack authentication app with React (Vite), Node.js/Express & MongoDB. Includes JWT auth, email verification and password reset.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [cesswhite/v4.20](https://github.com/cesswhite/v4.20) - Minimal, blazing fast, and designed with developers in mind, v4.20 is your go-to starting point for modern web projects with Nuxt
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
