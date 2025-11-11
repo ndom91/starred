@@ -367,6 +367,7 @@
 
 ## HTML 
 
+- [cloudfour/image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing images with a slider.
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font
 - [WICG/direct-sockets](https://github.com/WICG/direct-sockets) - Direct Sockets API for the web platform
@@ -832,7 +833,6 @@
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [mikeal/way-of-code](https://github.com/mikeal/way-of-code) - Organizing my thoughts about the process and states of mind of programming
 - [CiscoDevNet/bigmuddy-network-telemetry-pipeline](https://github.com/CiscoDevNet/bigmuddy-network-telemetry-pipeline) - bigmuddy-network-telemetry-pipeline
 - [scottydocs/awesome-docs](https://github.com/scottydocs/awesome-docs) - A page of examples of awesome documentation
@@ -1074,6 +1074,7 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
@@ -1296,6 +1297,8 @@
 
 ## TypeScript 
 
+- [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
+- [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [team-plain/hubspot-push-example](https://github.com/team-plain/hubspot-push-example) - Example for pushing thread data to Hubspot
