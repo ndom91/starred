@@ -2272,6 +2272,7 @@
 
 ## others 
 
+- [argyleink/css-color-component](https://github.com/argyleink/css-color-component) - a modern color picker for the web with support for all spaces
 - [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
 - [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
