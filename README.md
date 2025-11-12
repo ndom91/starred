@@ -751,6 +751,7 @@
 
 ## OpenSCAD 
 
+- [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model
 - [sondresj/scad-models](https://github.com/sondresj/scad-models) - OpenSCAD models
 
