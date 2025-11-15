@@ -2272,6 +2272,7 @@
 
 ## others 
 
+- [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
 - [argyleink/css-color-component](https://github.com/argyleink/css-color-component) - a modern color picker for the web with support for all spaces
 - [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
@@ -2283,7 +2284,7 @@
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) - CLI Jellyfin Controller Utility for Linux and Windows
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
-- [prusa3d/OpenPrintTag](https://github.com/prusa3d/OpenPrintTag) - 
+- [prusa3d/OpenPrintTag](https://github.com/prusa3d/OpenPrintTag) - Open standard for 3D printing material data format
 - [ndom91/local-voice](https://github.com/ndom91/local-voice) - Wyoming Whisper/Piper setup for HomeAssistant Voice
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
