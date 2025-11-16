@@ -2509,7 +2509,7 @@
 - [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [asciitosvg/asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
-- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [AutoRecon/AutoRecon](https://github.com/AutoRecon/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [PacktPublishing/Micro-State-Management-with-React-Hooks](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks) - Micro State Management with React Hooks, published by Packt
 - [maraisr/piecemeal](https://github.com/maraisr/piecemeal) - 🪀 Send your data piecemeal
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
