@@ -95,6 +95,7 @@
 
 ## C 
 
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [acsandmann/rift.lua](https://github.com/acsandmann/rift.lua) - lua client for rift-wm
 - [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - The developer toy that brings developers joy.
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
@@ -1194,6 +1195,7 @@
 
 ## Shell 
 
+- [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix) - Easily run old versions of UNIX for PDP-11 on modern hardware
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
