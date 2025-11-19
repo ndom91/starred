@@ -429,7 +429,7 @@
 - [jmorrell/low-quality-image-placeholders-on-cloudflare-workers](https://github.com/jmorrell/low-quality-image-placeholders-on-cloudflare-workers) - Implementations of several placeholder strategies on Cloudflare Workers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -456,7 +456,7 @@
 - [NalinPlad/hkkr.in](https://github.com/NalinPlad/hkkr.in) - 👨‍💻 • CURL client for Hacker News 📰 📰
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 - [xpepermint/smtp-channel](https://github.com/xpepermint/smtp-channel) - Low level SMTP communication layer.
 - [xpepermint/smtp-client](https://github.com/xpepermint/smtp-client) - Simple, promisified, protocol-based SMTP client for Node.js.
 - [antfu/fsxx](https://github.com/antfu/fsxx) - File system in zx style
