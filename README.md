@@ -1303,6 +1303,7 @@
 
 ## TypeScript 
 
+- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [argyleink/css-color-component](https://github.com/argyleink/css-color-component) - a modern color picker for the web with support for all spaces
 - [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
 - [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
