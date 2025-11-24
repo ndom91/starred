@@ -2348,7 +2348,6 @@
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [tedhinklater/finality](https://github.com/tedhinklater/finality) - Jellyfin Theme CSS
 - [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [KingDuane/Chicago-Kare](https://github.com/KingDuane/Chicago-Kare) - A Faithful Reproduction of the Bitmap Version of the Chicago Typeface Created by Susan Kare for Apple Computer in 1984
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
