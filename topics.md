@@ -2289,6 +2289,7 @@
 
 ## others 
 
+- [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [htx-studio/One-Handed-Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) - 
