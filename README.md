@@ -236,6 +236,7 @@
 
 ## Go 
 
+- [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
 - [iselt/masque-vpn](https://github.com/iselt/masque-vpn) - A VPN implementation based on the MASQUE(CONNECT-IP) protocol
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
