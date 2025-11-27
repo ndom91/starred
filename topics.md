@@ -2785,7 +2785,6 @@
 - [valen214/Massdrop-Ctrl-Keyboard-Ripple-LED](https://github.com/valen214/Massdrop-Ctrl-Keyboard-Ripple-LED) - adding LED splash effect with the provide QMK firmware, by editing matrix_init_user(), matrix_scan_user(), process_record_user(), led_instructions[]
 - [entropic-dev/entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 - [diethnis/standalones](https://github.com/diethnis/standalones) - Single use scripts
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [xiaoluoboding/ghost-theme-kaldorei](https://github.com/xiaoluoboding/ghost-theme-kaldorei) - 🎨 A Simple And Elegant Ghost Theme Derive From Default Theme Casper
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [faf0/sct](https://github.com/faf0/sct) - sct - set color temperature of screen
