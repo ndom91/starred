@@ -1194,6 +1194,7 @@
 
 ## Shell 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix) - Easily run old versions of UNIX for PDP-11 on modern hardware
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
@@ -1303,6 +1304,7 @@
 
 ## TypeScript 
 
+- [tellahq/plain-mcp](https://github.com/tellahq/plain-mcp) - MCP server for Plain.com support backlog
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [argyleink/css-color-component](https://github.com/argyleink/css-color-component) - a modern color picker for the web with support for all spaces
