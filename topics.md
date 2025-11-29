@@ -2333,6 +2333,7 @@
 
 ## others 
 
+- [tellahq/plain-mcp](https://github.com/tellahq/plain-mcp) - MCP server for Plain.com support backlog
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
