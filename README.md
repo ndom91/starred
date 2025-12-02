@@ -1028,7 +1028,7 @@
 - [sipgate/ansible-juniper-cookbook](https://github.com/sipgate/ansible-juniper-cookbook) - Automate your Juniper Devices with Ansible
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tbotnz/netpalm](https://github.com/tbotnz/netpalm) - ReST based network device broker
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -1374,7 +1374,7 @@
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Modern front-end for the Proxmox VE Helper Scripts project, built with Next-js, Shadcn, and Pocketbase.
 - [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [supabase/stripe-sync-engine](https://github.com/supabase/stripe-sync-engine) - Sync your Stripe account to you Postgres database.
 - [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
