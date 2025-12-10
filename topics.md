@@ -2666,7 +2666,7 @@
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - Design system that was used by @modulz. It’s now archived and superceded by Radix Themes. (See https://github.com/radix-ui/themes)
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [Solcon/netbox-gitlab](https://github.com/Solcon/netbox-gitlab) - NetBox GitLab export plugin
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
