@@ -94,6 +94,7 @@
 
 ## C 
 
+- [CoretechR/Zicada](https://github.com/CoretechR/Zicada) - DIY Zigbee Multisensor
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [acsandmann/rift.lua](https://github.com/acsandmann/rift.lua) - lua client for rift-wm
 - [PostHog/DeskHog](https://github.com/PostHog/DeskHog) - The developer toy that brings developers joy.
