@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
 - [iselt/masque-vpn](https://github.com/iselt/masque-vpn) - A VPN implementation based on the MASQUE(CONNECT-IP) protocol
