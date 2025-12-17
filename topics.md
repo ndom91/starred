@@ -1967,7 +1967,6 @@
 ## lua 
 
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
@@ -2127,7 +2126,6 @@
 ## neovim 
 
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) - Charm's "freeze" CLI as a neovim plugin
 - [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
@@ -2460,6 +2458,7 @@
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [julianpoy/ingredient-instruction-classifier](https://github.com/julianpoy/ingredient-instruction-classifier) - A TensorFlow model and tiny express server that can classify text as ingredient, instruction, or other.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
