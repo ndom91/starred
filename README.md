@@ -419,6 +419,7 @@
 
 ## JavaScript 
 
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - 
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) - Original Proof-of-Concepts for React2Shell CVE-2025-55182
