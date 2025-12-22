@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [netboxlabs/orb-agent](https://github.com/netboxlabs/orb-agent) - Orb network observability agent, part of the NetBox ecosystem and developed by NetBox Labs
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
