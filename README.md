@@ -589,7 +589,6 @@
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [saurabhdaware/pwainit-node-pushapi](https://github.com/saurabhdaware/pwainit-node-pushapi) - Push API backend code along with the instructions to generate and use VAPID keys.
 - [desandro/practical-ui-physics](https://github.com/desandro/practical-ui-physics) - Learn basic physics for UI
-- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [andrelmlins/create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Project similar to the Create React App for libraries and dependencies
 - [gkoberger/avataaars](https://github.com/gkoberger/avataaars) - Renders Avataaars.com on the backend so you can use &lt;img&gt; tags
 - [DigitArc/reactNativeSwiperDeck](https://github.com/DigitArc/reactNativeSwiperDeck) - Tinder Inspired, React Native Powered Swipable Deck
@@ -1317,7 +1316,7 @@
 - [argyleink/css-color-component](https://github.com/argyleink/css-color-component) - a modern color picker for the web with support for all spaces
 - [daveyplate/better-auth-tanstack](https://github.com/daveyplate/better-auth-tanstack) - 
 - [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful UI components built for Better Auth.
-- [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
+- [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser! ## NO ACTIVE DEVELOPMENT CURRENTLY BECAUSE I'M A LITTLE BORED ##
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [team-plain/hubspot-push-example](https://github.com/team-plain/hubspot-push-example) - Example for pushing thread data to Hubspot
 - [wesbos/thermal-printer](https://github.com/wesbos/thermal-printer) - Thermal printer controlled with JS
@@ -1561,6 +1560,7 @@
 - [nice-boys/product-boilerplate](https://github.com/nice-boys/product-boilerplate) - Quickly ship your apps with the power of code generation.
 - [preactjs/preact-devtools](https://github.com/preactjs/preact-devtools) - Browser extension for inspection Preact applications
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
