@@ -94,6 +94,7 @@
 
 ## C 
 
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [CoretechR/Zicada](https://github.com/CoretechR/Zicada) - DIY Zigbee Multisensor
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [acsandmann/rift.lua](https://github.com/acsandmann/rift.lua) - lua client for rift-wm
@@ -1089,6 +1090,8 @@
 
 ## Rust 
 
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+- [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
@@ -1312,6 +1315,7 @@
 
 ## TypeScript 
 
+- [remorses/termcast](https://github.com/remorses/termcast) - Run Racyast extensions in the terminal. Powered by opentui
 - [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) - A tool for people curious about the React Server Components protocol
 - [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons) - A Home Assistant add-on to visually create zones for the Everything Presence Lite
 - [e18e/web-features-codemods](https://github.com/e18e/web-features-codemods) - A collection of codemods for migrating to standard web features
