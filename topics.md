@@ -2360,6 +2360,7 @@
 
 ## others 
 
+- [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [remorses/termcast](https://github.com/remorses/termcast) - Run Raycast extensions in the terminal. Powered by opentui
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
