@@ -2072,7 +2072,7 @@
 
 ## material-design 
 
-- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated Material Icons. Icons are animated using CSS or SVG Animations Level 2 spec, no scripts.
+- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated icons. Multiple formats to choose from: SVG animations, SVG with CSS animations, SVG rendered frame by frame.
 - [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
@@ -2373,6 +2373,7 @@
 
 ## others 
 
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native mobile client for OpenWebUI. Chat with your self‑hosted AI.
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
 - [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
