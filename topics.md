@@ -864,6 +864,7 @@
 
 ## data 
 
+- [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 
 ## data-analysis 
@@ -3191,6 +3192,7 @@
 
 ## react 
 
+- [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [MoJoSchuck/Expense-Tracker-GQL](https://github.com/MoJoSchuck/Expense-Tracker-GQL) - Spend smarter. Track faster. Full-stack expense tracker using GraphQL + React.
 - [MoJoSchuck/advancedAUTH](https://github.com/MoJoSchuck/advancedAUTH) - 🔒 Fullstack authentication app with React (Vite), Node.js/Express & MongoDB. Includes JWT auth, email verification and password reset.
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
