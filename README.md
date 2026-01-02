@@ -768,6 +768,7 @@
 
 ## Others 
 
+- [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
 - [htx-studio/One-Handed-Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
