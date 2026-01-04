@@ -926,6 +926,7 @@
 
 ## Python 
 
+- [matthewhand/amd-strix-halo-image-video-distrobox](https://github.com/matthewhand/amd-strix-halo-image-video-distrobox) - fork ported to distrobox to run on Ubuntu (and potentially others)
 - [HarryR/z80ai](https://github.com/HarryR/z80ai) - Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer
 - [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
