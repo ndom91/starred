@@ -1212,6 +1212,7 @@
 
 ## Shell 
 
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix) - Easily run old versions of UNIX for PDP-11 on modern hardware
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
