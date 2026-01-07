@@ -2396,7 +2396,7 @@
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
 - [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
-- [remorses/termcast](https://github.com/remorses/termcast) - Run Raycast extensions in the terminal. Powered by opentui
+- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a TUI. Powered by opentui
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
@@ -3058,6 +3058,7 @@
 
 ## productivity 
 
+- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -3798,6 +3799,7 @@
 
 ## tui 
 
+- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
