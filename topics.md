@@ -2388,6 +2388,8 @@
 
 ## others 
 
+- [PKU-YuanGroup/UltraShape-1.0](https://github.com/PKU-YuanGroup/UltraShape-1.0) - High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
+- [ndom91/MNvsUS](https://github.com/ndom91/MNvsUS) - Timeline of Minnesota vs. US Federal Government events
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [johnml1135/ollama-copilot-fixer](https://github.com/johnml1135/ollama-copilot-fixer) - Fix and enable custom GGUF models (including sharded files) from HuggingFace/Unsloth for GitHub Copilot with full Tool support
 - [matthewhand/amd-strix-halo-image-video-distrobox](https://github.com/matthewhand/amd-strix-halo-image-video-distrobox) - fork ported to distrobox to run on Ubuntu (and potentially others)
