@@ -249,6 +249,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -2673,7 +2674,6 @@
 - [CompileZero/javascript-concepts](https://github.com/CompileZero/javascript-concepts) - JavaScript core concepts explained simply
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [spruceid/siwe-next-auth-example](https://github.com/spruceid/siwe-next-auth-example) - An example of Sign-In with Ethereum and NextAuth.js
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -2751,7 +2751,6 @@
 - [lwlcom/cisco_exporter](https://github.com/lwlcom/cisco_exporter) - Exporter for metrics from devices running Cisco (NX-OS/IOS XE/IOS) to use with https://prometheus.io/
 - [tomayac/dark-mode-email](https://github.com/tomayac/dark-mode-email) - This repo shows how to create emails that support dark mode.
 - [ashleymcnamara/go-lang-cheat-sheet](https://github.com/ashleymcnamara/go-lang-cheat-sheet) - An overview of Go syntax and features.
-- [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [sanity-io/mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON)
 - [tbotnz/netpalm-admin](https://github.com/tbotnz/netpalm-admin) - simple admin app for managing a netpalm cluster
 - [sipgate/otrs-bridge](https://github.com/sipgate/otrs-bridge) - Trigger things on new or updated OTRS tickets
@@ -3978,6 +3977,16 @@
 ## vagrant 
 
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
+
+## video 
+
+- [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
+- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
+- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+- [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 
 ## vim 
 
