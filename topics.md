@@ -2396,6 +2396,7 @@
 
 ## others 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [PKU-YuanGroup/UltraShape-1.0](https://github.com/PKU-YuanGroup/UltraShape-1.0) - High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
 - [ndom91/MNvsUS](https://github.com/ndom91/MNvsUS) - Timeline of Minnesota vs. US Federal Government events
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
