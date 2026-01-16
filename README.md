@@ -143,6 +143,7 @@
 
 ## C++ 
 
+- [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
 - [matoslav/FerroWave](https://github.com/matoslav/FerroWave) - Ferrofluid portable bluetooth speaker and visualizer
 - [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT) - Learn how to connect your Flexispot (LoctekMotion) desk to the internet. This repository contains a collection of scripts to get your started, combined with research and instructions.
 - [cbh34680/WinCse](https://github.com/cbh34680/WinCse) - WinCSE - Windows Cloud Storage Explorer
@@ -1329,7 +1330,7 @@
 
 ## TypeScript 
 
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal command-line client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [ndom91/MNvsUS](https://github.com/ndom91/MNvsUS) - Timeline of Minnesota vs. US Federal Government events
 - [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [pattern-zones-co/koine](https://github.com/pattern-zones-co/koine) - Claude Code as a service: HTTP gateway with TypeScript & Python SDKs
@@ -1579,7 +1580,7 @@
 - [nikgraf/2020-05-react-advanced](https://github.com/nikgraf/2020-05-react-advanced) - 
 - [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) - 🔹 Add CSS styles to (almost) any lovelace card
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api) - COVID-19 global data (from JHU CSSE for now) as-a-service
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
