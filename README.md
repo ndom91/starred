@@ -23,6 +23,7 @@
 - [Elm](#elm)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -234,6 +235,10 @@
 ## GDScript 
 
 - [Deep-Fold/PixelPlanets](https://github.com/Deep-Fold/PixelPlanets) - 
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -1248,7 +1253,6 @@
 - [cgsdev0/bash-stack](https://github.com/cgsdev0/bash-stack) - modern web framework in bash
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [SolDoesTech/hyprland](https://github.com/SolDoesTech/hyprland) - collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [trevorgross/installarch](https://github.com/trevorgross/installarch) - Install Arch linux in qemu with two clicks
 - [EddySchauHai/bashttp](https://github.com/EddySchauHai/bashttp) - µServer in Bash
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
