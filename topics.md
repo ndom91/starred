@@ -371,6 +371,7 @@
 
 ## api 
 
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript.
@@ -819,6 +820,7 @@
 
 ## css 
 
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript.
@@ -950,6 +952,7 @@
 
 ## design 
 
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
@@ -1186,6 +1189,7 @@
 
 ## flutter 
 
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2201,6 +2205,7 @@
 
 ## nextjs 
 
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
@@ -2533,7 +2538,7 @@
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager tuned for outputting mulitiple configured packages from a single config directory
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [julianpoy/ingredient-instruction-classifier](https://github.com/julianpoy/ingredient-instruction-classifier) - A TensorFlow model and tiny express server that can classify text as ingredient, instruction, or other.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -3510,6 +3515,7 @@
 
 ## self-hosted 
 
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
@@ -3968,6 +3974,8 @@
 
 ## ui 
 
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
