@@ -397,7 +397,6 @@
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex) - 
-- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -1267,6 +1266,7 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
@@ -1340,6 +1340,7 @@
 
 ## TypeScript 
 
+- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 - [ndom91/MNvsUS](https://github.com/ndom91/MNvsUS) - Timeline of Minnesota vs. US Federal Government events
