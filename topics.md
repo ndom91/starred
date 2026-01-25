@@ -1917,6 +1917,7 @@
 
 ## linux 
 
+- [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NV
 - [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -3842,6 +3843,7 @@
 
 ## tui 
 
+- [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NV
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
