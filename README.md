@@ -782,6 +782,7 @@
 
 ## Others 
 
+- [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - 
 - [ndom91/GLM-4.7-Flash-Strix-Halo](https://github.com/ndom91/GLM-4.7-Flash-Strix-Halo) - Strix Halo setup for GLM-4.7 Flash using llama.cpp
 - [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
