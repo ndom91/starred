@@ -175,7 +175,6 @@
 - [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript.
 - [MakD/zombie-release](https://github.com/MakD/zombie-release) - A theme for Jellyfin 10.9.x combining the best from the Public Themes
 - [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
-- [scidsg/relaylove](https://github.com/scidsg/relaylove) - ❄️ Temporarily Share Your Bandwidth
 - [rverton/tevents](https://github.com/rverton/tevents) - A private event logger and job monitor for tailnets
 - [AbdallahHemdan/Conventional-Buttons](https://github.com/AbdallahHemdan/Conventional-Buttons) - Chrome extension that adds a conventional comment button to Github file explorer comments, allowing you to quickly leave a structured semantic comment during your PR reviews!
 - [checkly/vitals-tester](https://github.com/checkly/vitals-tester) - 
