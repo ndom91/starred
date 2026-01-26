@@ -152,6 +152,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -2085,6 +2086,13 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
+- [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2776,7 +2784,6 @@
 - [writememe/motherstarter](https://github.com/writememe/motherstarter) - A network tool to accelerate the adoption of network automation
 - [networktocode/network-importer](https://github.com/networktocode/network-importer) - The network importer is a tool/library to analyze and/or synchronize an existing network with a Network Source of Truth (SOT), it's designed to be idempotent and by default it's only showing the diffe
 - [covidatlas/li](https://github.com/covidatlas/li) - Next-generation serverless crawler for COVID-19 data
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [lwlcom/cisco_exporter](https://github.com/lwlcom/cisco_exporter) - Exporter for metrics from devices running Cisco (NX-OS/IOS XE/IOS) to use with https://prometheus.io/
 - [tomayac/dark-mode-email](https://github.com/tomayac/dark-mode-email) - This repo shows how to create emails that support dark mode.
 - [ashleymcnamara/go-lang-cheat-sheet](https://github.com/ashleymcnamara/go-lang-cheat-sheet) - An overview of Go syntax and features.
