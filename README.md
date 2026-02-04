@@ -803,6 +803,7 @@
 - [kiroushi/hass](https://github.com/kiroushi/hass) - 
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -1350,7 +1351,7 @@
 
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
-- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+- [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [ndom91/MNvsUS](https://github.com/ndom91/MNvsUS) - Timeline of Minnesota vs. US Federal Government events
 - [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [pattern-zones-co/koine](https://github.com/pattern-zones-co/koine) - Claude Code as a service: HTTP gateway with TypeScript & Python SDKs
@@ -1435,7 +1436,6 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [ndom91/authjs-prisma-edge-example](https://github.com/ndom91/authjs-prisma-edge-example) - Example project for Auth.js with Prisma's Edge runtime support
 - [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
