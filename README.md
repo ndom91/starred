@@ -114,7 +114,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [dev47apps/droidcam-linux-client](https://github.com/dev47apps/droidcam-linux-client) - GNU/Linux/nix client for DroidCam
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -664,7 +664,7 @@
 - [Polymer/pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit) - Starter templates for building full-featured Progressive Web Apps from web components.
 - [TacoAnon/TacoAnon.github.io](https://github.com/TacoAnon/TacoAnon.github.io) - Current Homepage demo
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
-- [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [f0x52/neo](https://github.com/f0x52/neo) - Matrix React.js webclient
 - [dwaring87/rtm-cli](https://github.com/dwaring87/rtm-cli) - Remember the Milk Command Line Interface
