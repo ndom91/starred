@@ -1238,6 +1238,8 @@
 
 ## Shell 
 
+- [JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment](https://github.com/JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment) - Automated Deployment of AMD ROCm 7.1.1 and PyTorch 2.11.0 (nightly@ROCm7.1) AI Stack for Ubuntu 22.04/24.04 on CDNA 3, RDNA4 and RDNA3. The script now includes a routine to detect and delete older ins
+- [JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment](https://github.com/JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment) - Automated Deployment of AMD ROCm 7.2.0 and PyTorch 2.11.0 (Preview (Nightly)) AI Stack for Ubuntu 22.04/24.04 on CDNA 1/2/3/4 and RDNA 3/4. The script now includes a routine to detect and delete older
 - [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
