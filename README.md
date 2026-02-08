@@ -385,6 +385,7 @@
 
 ## HTML 
 
+- [Darknetzz/UniFi-Backup-Explorer](https://github.com/Darknetzz/UniFi-Backup-Explorer) - Decode and explore .unf backup files locally in your browser
 - [cloudfour/image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing images with a slider.
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font
