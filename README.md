@@ -1338,6 +1338,7 @@
 
 ## Swift 
 
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [hauxir/macos-live-screensaver](https://github.com/hauxir/macos-live-screensaver) - Use live streams as screensavers/lock screens on MacOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
