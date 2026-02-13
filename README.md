@@ -489,7 +489,6 @@
 - [ndom91/playwright-recorder-extension](https://github.com/ndom91/playwright-recorder-extension) - Chrome DevTools Recorder Extension - Export Playwright
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
-- [raphaelsalaja/paths](https://github.com/raphaelsalaja/paths) - Extension for finding shortcuts for popular apps and websites 🛣️
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
 - [ndom91/briefkasten-scrape](https://github.com/ndom91/briefkasten-scrape) - Briefkasten Screenshot Job
