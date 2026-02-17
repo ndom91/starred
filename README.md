@@ -1144,7 +1144,7 @@
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [ulissesf/qmassa](https://github.com/ulissesf/qmassa) - Rust terminal-based tool for displaying GPUs usage stats on Linux.
 - [BaconIsAVeg/outside](https://github.com/BaconIsAVeg/outside) - A multi-purpose weather client for your terminal!
-- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,300+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
+- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
 - [conikeec/mcp-probe](https://github.com/conikeec/mcp-probe) - A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interac
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
