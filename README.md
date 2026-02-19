@@ -908,7 +908,7 @@
 
 ## PHP 
 
-- [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Payload Arsenal for Pentration Tester and Bug Bounty Hunters
+- [sh377c0d3/AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads) - AppSec Payloads Arsenal for Pentration Tester and Bug Bounty Hunters
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [spadana2004/Vtiger-CRM-Reset-Password-Tools](https://github.com/spadana2004/Vtiger-CRM-Reset-Password-Tools) - This Tools Help you to change crm users password without login into CRM
@@ -1363,6 +1363,7 @@
 
 ## TypeScript 
 
+- [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups.
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [avinshe/agentseed](https://github.com/avinshe/agentseed) - Generate AGENTS.md from your codebase in one command. Free, instant, no API key
