@@ -832,6 +832,7 @@
 
 ## css 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [MoJoSchuck/javascript-amazon-project](https://github.com/MoJoSchuck/javascript-amazon-project) - 🚀 Amazon Clone – A simple e-commerce web application built with HTML, CSS, and JavaScript. This project simulates an online shopping experience with features like product search, shopping cart managem
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
@@ -1859,6 +1860,7 @@
 
 ## json 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -2443,6 +2445,7 @@
 
 ## others 
 
+- [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [team-plain/skills](https://github.com/team-plain/skills) - 
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
@@ -2466,7 +2469,7 @@
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
 - [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
-- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a TUI. Powered by opentui
+- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
