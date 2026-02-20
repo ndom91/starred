@@ -2445,6 +2445,7 @@
 
 ## others 
 
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - 
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups.
 - [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [team-plain/skills](https://github.com/team-plain/skills) - 
