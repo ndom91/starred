@@ -672,7 +672,6 @@
 - [Polymer/pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit) - Starter templates for building full-featured Progressive Web Apps from web components.
 - [TacoAnon/TacoAnon.github.io](https://github.com/TacoAnon/TacoAnon.github.io) - Current Homepage demo
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
-- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [f0x52/neo](https://github.com/f0x52/neo) - Matrix React.js webclient
 - [dwaring87/rtm-cli](https://github.com/dwaring87/rtm-cli) - Remember the Milk Command Line Interface
@@ -1655,6 +1654,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [codeaholicguy/wowcup](https://github.com/codeaholicguy/wowcup) - ⚽ 💻 The finest Worldcup 2018 CLI.
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## Vala 
