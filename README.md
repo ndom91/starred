@@ -1131,6 +1131,8 @@
 
 ## Rust 
 
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
+- [superhq-ai/neko](https://github.com/superhq-ai/neko) - Lightweight AI agent runtime targeting Raspberry Pi Zero 2W and low-end VPS. File-based memory, MCP tool support, Telegram integration — all in a single binary.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
@@ -1685,7 +1687,7 @@
 - [cesswhite/v4.20](https://github.com/cesswhite/v4.20) - Minimal, fast, and designed with developers in mind, v4.20 is your go-to starting point for new projects with Nuxt and Nuxt UI
 - [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [miliberlin/travellog](https://github.com/miliberlin/travellog) - 
+- [miliberlin/travellog](https://github.com/miliberlin/travellog) - Personal travel journal with map
 - [ndom91/go-ios-web](https://github.com/ndom91/go-ios-web) - 📱 go-ios web application
 - [checkly/jamstack-deploy](https://github.com/checkly/jamstack-deploy) - Measure cloud providers and check which fits better for your Jamstack App.
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
