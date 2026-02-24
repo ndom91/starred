@@ -1373,7 +1373,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [ryoppippi/curxy](https://github.com/ryoppippi/curxy) - Simple proxy worker for using ollama in cursor
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
-- [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups.
+- [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [avinshe/agentseed](https://github.com/avinshe/agentseed) - Generate AGENTS.md from your codebase in one command. Free, instant, no API key
