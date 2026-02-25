@@ -1369,6 +1369,7 @@
 
 ## TypeScript 
 
+- [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Agent Plan Annotator
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
