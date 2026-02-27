@@ -906,7 +906,7 @@
 
 ## data-science 
 
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
 ## data-structures 
@@ -1886,7 +1886,7 @@
 
 ## jupyter-notebook 
 
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 
 ## kali-linux 
 
@@ -3377,7 +3377,7 @@
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [christiandavid/gatsby-theme-byfolio](https://github.com/christiandavid/gatsby-theme-byfolio) - A simplified way to create a portfolio using GatsbyJS
 - [haoict/production-ready-webapp-boilerplate](https://github.com/haoict/production-ready-webapp-boilerplate) - 🚀 A well-structured production ready modern web application boilerplate (Single Page Application with Server Side Render to boost SEO). With Next.js, React, Redux, Express.js, Less, Axios, Request Cac
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [nice-boys/product-boilerplate](https://github.com/nice-boys/product-boilerplate) - Quickly ship your apps with the power of code generation.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
