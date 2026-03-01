@@ -3726,7 +3726,7 @@
 
 ## statistics 
 
-- [ulissesf/qmassa](https://github.com/ulissesf/qmassa) - Rust tools to monitor GPU usage stats on Linux
+- [ulissesf/qmassa](https://github.com/ulissesf/qmassa) - Rust tools to monitor GPU stats on Linux
 - [18F/analytics.usa.gov](https://github.com/18F/analytics.usa.gov) - The US federal government's web traffic.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
