@@ -1016,7 +1016,7 @@
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - NetBox plugin to validate network devices
 - [gvigroux/hon](https://github.com/gvigroux/hon) - Support of all Haier, Candy, Hoover appliances integrated in the official hOn mobile app. Direct access to all possible services and parameters
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass) - Control Govee lights via the LAN API from Home Assistant
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [veebch/hometime](https://github.com/veebch/hometime) - A physical progress bar based on Google Calendar events
@@ -1467,7 +1467,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [mrmartineau/cloudflare-worker-scraper](https://github.com/mrmartineau/cloudflare-worker-scraper) - Page Metadata Scraper with Cloudflare workers
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader using Runes
+- [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader
 - [ndom91/authjs-prisma-edge-example](https://github.com/ndom91/authjs-prisma-edge-example) - Example project for Auth.js with Prisma's Edge runtime support
 - [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
