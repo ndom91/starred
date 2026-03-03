@@ -87,6 +87,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1192,6 +1193,11 @@
 - [mxschmitt/try-playwright](https://github.com/mxschmitt/try-playwright) - Try Playwright lets you execute and share Playwright scripts in your browser to get started with Playwright.
 - [john-theo/google-translate-server](https://github.com/john-theo/google-translate-server) - [DEPRECATED]  Free Google Translate API. Very lightweight and easy to use.
 - [CoronaAPI/CoronaAPI](https://github.com/CoronaAPI/CoronaAPI) - Covid-19 API on EC2
+
+## fastapi 
+
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 
 ## finance 
 
@@ -2494,7 +2500,7 @@
 - [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
