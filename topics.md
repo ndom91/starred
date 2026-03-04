@@ -2684,7 +2684,7 @@
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [oldfieldtc/Lily58-keymap](https://github.com/oldfieldtc/Lily58-keymap) - Key mappings for my Lily58 Pro keyboard
 - [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor) - A HomeAssistant / HACS integration of Berlin Public Transport (BVG)
-- [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Independent financial accounting with intelligent reporting
+- [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.
 - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
 - [sqfmi/beepy-hardware](https://github.com/sqfmi/beepy-hardware) - Beepy Hardware
 - [noble/noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
