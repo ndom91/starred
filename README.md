@@ -96,6 +96,7 @@
 
 ## C 
 
+- [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 - [mariotaku/moonlight-tv](https://github.com/mariotaku/moonlight-tv) - Lightweight NVIDIA GameStream Client, for LG webOS TV and embedded devices like Raspberry Pi
