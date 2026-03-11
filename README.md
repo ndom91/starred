@@ -1085,7 +1085,7 @@
 - [netdevops/hier_config](https://github.com/netdevops/hier_config) - Hierarchical Configuration
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
+- [0xjas0/Edu-Mail-Generator](https://github.com/0xjas0/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
 - [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Netbox Plugin to Get PDU Information
 - [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import) - This library is intended to assist with importing device and module types into NetBox from the NetBox Community DeviceType-Library
 - [dynos01/DomainScanningTool](https://github.com/dynos01/DomainScanningTool) - A bulk domain scanning tool
