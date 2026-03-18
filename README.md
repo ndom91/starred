@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
@@ -245,6 +246,7 @@
 
 ## Go 
 
+- [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
@@ -954,6 +956,7 @@
 
 ## Python 
 
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
@@ -1130,6 +1133,8 @@
 
 ## Rust 
 
+- [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
+- [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1353,6 +1358,8 @@
 
 ## Swift 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native terminal coding agents command center.
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
@@ -1462,7 +1469,7 @@
 - [BramSuurdje/proxmox-helper-scripts](https://github.com/BramSuurdje/proxmox-helper-scripts) - Modern front-end for the Proxmox VE Helper Scripts project, built with Next-js, Shadcn, and Pocketbase.
 - [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [supabase/stripe-sync-engine](https://github.com/supabase/stripe-sync-engine) - Sync your Stripe account to you Postgres database.
 - [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
