@@ -2480,7 +2480,7 @@
 
 ## others 
 
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native terminal coding agents command center.
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - 
