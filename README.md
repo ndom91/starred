@@ -21,6 +21,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -236,6 +237,10 @@
 ## Elm 
 
 - [rofrol/elm-mpv-webui](https://github.com/rofrol/elm-mpv-webui) - ...is a web based user interface with controls for the mpv mediaplayer.
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## FreeMarker 
 
@@ -1234,7 +1239,6 @@
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jensim/bitbucket_server_cli](https://github.com/jensim/bitbucket_server_cli) - A cli tool for cloning any/all git repos from an on-prem bitbucket server
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [shekohex/impulse](https://github.com/shekohex/impulse) - 🎇 send a push notification when your long build command finish
