@@ -2506,6 +2506,7 @@
 
 ## others 
 
+- [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
