@@ -2569,7 +2569,7 @@
 - [JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment](https://github.com/JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment) - Automated Deployment of AMD ROCm 7.2.0 and PyTorch 2.11.0 (Preview (Nightly)) AI Stack for Ubuntu 22.04/24.04 on CDNA 1/2/3/4 and RDNA 3/4. The script now includes a routine to detect and delete older
 - [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - 
 - [ndom91/GLM-4.7-Flash-Strix-Halo](https://github.com/ndom91/GLM-4.7-Flash-Strix-Halo) - Strix Halo setup for GLM-4.7 Flash using llama.cpp
-- [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Whisper + Piper + Wyoming for Strix Halo (ROCm 7.1.1+)
+- [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
 - [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [PKU-YuanGroup/UltraShape-1.0](https://github.com/PKU-YuanGroup/UltraShape-1.0) - High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
