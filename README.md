@@ -967,6 +967,7 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
