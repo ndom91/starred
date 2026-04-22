@@ -2550,6 +2550,7 @@
 
 ## others 
 
+- [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [Lamothe/TRELLIS.2_rocm](https://github.com/Lamothe/TRELLIS.2_rocm) - 
 - [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - Alternative UI and Proxy for llama-swap. Keep an eye on your local LLMs
