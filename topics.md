@@ -674,6 +674,7 @@
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [avinshe/agentseed](https://github.com/avinshe/agentseed) - Generate AGENTS.md from your codebase in one command. Free, instant, no API key
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Powerful open-source CLI to audit security, costs, and best practices in AWS. 🩺 ☁️
@@ -2022,7 +2023,7 @@
 ## linux 
 
 - [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
@@ -2167,6 +2168,7 @@
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
@@ -3594,7 +3596,7 @@
 
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
@@ -3673,7 +3675,6 @@
 - [strongdm/leash](https://github.com/strongdm/leash) - Leash by StrongDM - take your AI agents for a walk
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -4060,7 +4061,7 @@
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [dmtrKovalenko/blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -4391,7 +4392,7 @@
 
 ## windows 
 
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [cbh34680/WinCse](https://github.com/cbh34680/WinCse) - WinCSE - Windows Cloud Storage Explorer
