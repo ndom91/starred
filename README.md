@@ -406,7 +406,6 @@
 
 - [webosbrew/retroarch-cores](https://github.com/webosbrew/retroarch-cores) - 
 - [Darknetzz/UniFi-Backup-Explorer](https://github.com/Darknetzz/UniFi-Backup-Explorer) - Decode and explore .unf backup files locally in your browser
-- [johnml1135/ollama-copilot-fixer](https://github.com/johnml1135/ollama-copilot-fixer) - Fix and enable custom GGUF models (including sharded files) from HuggingFace/Unsloth for GitHub Copilot with full Tool support
 - [cloudfour/image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing images with a slider.
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font
@@ -959,6 +958,7 @@
 
 ## PowerShell 
 
+- [johnml1135/unsloth-llama-helper-scripts](https://github.com/johnml1135/unsloth-llama-helper-scripts) - Fix and enable custom GGUF models (including sharded files) from HuggingFace/Unsloth for GitHub Copilot with full Tool support
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [retroric/Win10-Initial-Setup-Script---DougBarry](https://github.com/retroric/Win10-Initial-Setup-Script---DougBarry) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
