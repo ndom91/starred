@@ -120,7 +120,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [dev47apps/droidcam-linux-client](https://github.com/dev47apps/droidcam-linux-client) - GNU/Linux/nix client for DroidCam
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -226,7 +226,6 @@
 ## Dockerfile 
 
 - [ndom91/local-voice](https://github.com/ndom91/local-voice) - Wyoming Whisper/Piper setup for HomeAssistant Voice
-- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -424,6 +423,7 @@
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [tbotnz/netpalm-flask-hello-command-runner-world](https://github.com/tbotnz/netpalm-flask-hello-command-runner-world) - simple hello world command running webapp talking to network device via netpalm
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing,
 - [covidatlas/coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources.
@@ -932,7 +932,7 @@
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [trianglman/sqrl](https://github.com/trianglman/sqrl) - PHP Server side implementation of a SQRL generator/listener
 - [marius-wieschollek/passwords](https://github.com/marius-wieschollek/passwords) - A simple, yet feature rich password manager for Nextcloud
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [php-censor/php-censor](https://github.com/php-censor/php-censor) - PHP Censor is an open source self-hosted continuous integration server for PHP projects.
@@ -1282,7 +1282,7 @@
 
 ## Shell 
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [team-plain/skills](https://github.com/team-plain/skills) - 
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment](https://github.com/JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment) - Automated Deployment of AMD ROCm 7.1.1 and PyTorch 2.11.0 (nightly@ROCm7.1) AI Stack for Ubuntu 22.04/24.04 on CDNA 3, RDNA4 and RDNA3. The script now includes a routine to detect and delete older ins
@@ -1406,6 +1406,7 @@
 
 ## TypeScript 
 
+- [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - Alternative UI and Proxy for llama-swap. Keep an eye on your local LLMs
