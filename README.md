@@ -1409,7 +1409,7 @@
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - Alternative UI and Proxy for llama-swap. Keep an eye on your local LLMs
+- [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - The go-to operator dashboard (and proxy) for local LLMs
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [KoNananachan/Neuberg](https://github.com/KoNananachan/Neuberg) - Real-time trading news terminal with AI analysis, prediction markets, and multi-asset trading. Bloomberg-style dashboard.
