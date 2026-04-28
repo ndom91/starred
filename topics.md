@@ -2559,7 +2559,7 @@
 - [NikolayS/pgque](https://github.com/NikolayS/pgque) - PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
-- [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - Alternative UI and Proxy for llama-swap. Keep an eye on your local LLMs
+- [ndom91/llama-dash](https://github.com/ndom91/llama-dash) - The go-to operator dashboard (and proxy) for local LLMs
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches
 - [chukfinley/Besser-Bahn](https://github.com/chukfinley/Besser-Bahn) - Better Bahn
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
