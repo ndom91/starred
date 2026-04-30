@@ -2554,6 +2554,7 @@
 
 ## others 
 
+- [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline) - 
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
