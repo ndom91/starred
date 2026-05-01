@@ -1156,6 +1156,7 @@
 
 ## Rust 
 
+- [clouedoc/hzfind](https://github.com/clouedoc/hzfind) - A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
 - [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [dmtrKovalenko/blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app
@@ -1240,7 +1241,6 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
-- [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
@@ -1425,7 +1425,7 @@
 - [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Agent Plan Annotator
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [ryoppippi/curxy](https://github.com/ryoppippi/curxy) - Simple proxy worker for using ollama in cursor
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation
