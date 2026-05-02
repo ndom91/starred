@@ -2553,6 +2553,8 @@
 
 ## others 
 
+- [LinYS77/pi-glance](https://github.com/LinYS77/pi-glance) - A polished input surface extension for pi, with a rounded multiline editor and inline model/context/status glance.
+- [ndom91/pi-tmux-focus-cursor](https://github.com/ndom91/pi-tmux-focus-cursor) - Hide the cursor when pi isn't focused
 - [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal.
 - [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline) - 
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
