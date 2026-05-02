@@ -1423,7 +1423,6 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
@@ -2796,6 +2795,7 @@
 - [noble/noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
+- [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [modern-sapien/next-danube-webshop](https://github.com/modern-sapien/next-danube-webshop) - Next Danube is a Next & MongoDB based project that has full authentication and authorization that allows a user to shop for books online.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
@@ -3268,7 +3268,6 @@
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
