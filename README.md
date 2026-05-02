@@ -319,7 +319,7 @@
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
