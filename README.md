@@ -1159,6 +1159,7 @@
 
 ## Rust 
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [clouedoc/hzfind](https://github.com/clouedoc/hzfind) - A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
 - [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -1176,7 +1177,7 @@
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
@@ -1425,7 +1426,7 @@
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys.
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [sriganesh/atproto-at](https://github.com/sriganesh/atproto-at) - Taproot - All-in-one AT Protocol Explorer A comprehensive web-based explorer for the atproto ecosystem. View, explore, and interact with AT Protocol data directly in your browser.
-- [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Agent Plan Annotator
+- [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Local-first agent plan annotator
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
