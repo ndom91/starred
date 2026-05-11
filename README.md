@@ -1046,7 +1046,7 @@
 - [builder555/PineSAM](https://github.com/builder555/PineSAM) - UI for Pinecil V2 - control it over BLE from your PC or your mobile.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - NetBox plugin to validate network devices
 - [gvigroux/hon](https://github.com/gvigroux/hon) - Support of all Haier, Candy, Hoover appliances integrated in the official hOn mobile app. Direct access to all possible services and parameters
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass) - Control Govee lights via the LAN API from Home Assistant
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [veebch/hometime](https://github.com/veebch/hometime) - A physical progress bar based on Google Calendar events
@@ -1444,7 +1444,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [avinshe/agentseed](https://github.com/avinshe/agentseed) - Generate AGENTS.md from your codebase in one command. Free, instant, no API key
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
-- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Better Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [pattern-zones-co/koine](https://github.com/pattern-zones-co/koine) - Claude Code as a service: HTTP gateway with TypeScript & Python SDKs
