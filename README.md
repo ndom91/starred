@@ -975,6 +975,7 @@
 
 ## Python 
 
+- [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
