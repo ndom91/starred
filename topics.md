@@ -2575,6 +2575,7 @@
 
 ## others 
 
+- [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
