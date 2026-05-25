@@ -2577,6 +2577,7 @@
 
 ## others 
 
+- [ndom91/macos-random-jellyfin-screensaver](https://github.com/ndom91/macos-random-jellyfin-screensaver) - Play a random Jellyfin item as your screensaver
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
 - [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
