@@ -1428,6 +1428,7 @@
 
 ## TypeScript 
 
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
