@@ -2585,6 +2585,7 @@
 
 ## others 
 
+- [samrocketman/home-assistant-decrypt-backup](https://github.com/samrocketman/home-assistant-decrypt-backup) - hassio-tar - A simple utility to decrypt Home Assistant backups similar to plain tar.
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [usetrmnl/trmnlp](https://github.com/usetrmnl/trmnlp) - a local dev server for building TRMNL plugins
 - [nassendelft/har-viewer](https://github.com/nassendelft/har-viewer) - A terminal UI for inspecting HAR (HTTP Archive) files
