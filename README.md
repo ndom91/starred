@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [samrocketman/home-assistant-decrypt-backup](https://github.com/samrocketman/home-assistant-decrypt-backup) - hassio-tar - A simple utility to decrypt Home Assistant backups similar to plain tar.
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
