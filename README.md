@@ -701,7 +701,6 @@
 - [Bluefinch/microglark](https://github.com/Bluefinch/microglark) - A hacky minimalistic remote pair programming editor
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [cagmz/HastebinHelper](https://github.com/cagmz/HastebinHelper) - A Chrome extension that lets users select text and create pastes from the right-click context menu.
-- [lwindolf/polscan](https://github.com/lwindolf/polscan) - Zero-setup SSH-based scanner with extensive visualizations for Debian server inventory, policy compliance and vulnerabilities
 - [nordtheme/notepadplusplus](https://github.com/nordtheme/notepadplusplus) - An arctic, north-bluish clean and elegant Notepad++ theme.
 
 ## Jupyter Notebook 
@@ -1267,6 +1266,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
@@ -1603,7 +1603,6 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [ndom91/checkly-vscode](https://github.com/ndom91/checkly-vscode) - 🦝 VS Code Checkly Extension
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
