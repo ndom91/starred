@@ -315,7 +315,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
@@ -808,6 +808,7 @@
 
 ## Others 
 
+- [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai) - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches
 - [coredevices/hardware](https://github.com/coredevices/hardware) - Public hardware files related to Core Devices products
@@ -1168,6 +1169,7 @@
 
 ## Rust 
 
+- [auyer/Protonup-rs](https://github.com/auyer/Protonup-rs) - A Rust app to automate the installation and update of Linux Gaming Compatibility tools, like ProtonGE, Luxtorpeda, Boxtron and others.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
@@ -1432,7 +1434,7 @@
 ## TypeScript 
 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
+- [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [LinYS77/pi-glance](https://github.com/LinYS77/pi-glance) - A polished input surface extension for pi, with a rounded multiline editor and inline model/context/status glance.
