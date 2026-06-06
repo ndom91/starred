@@ -2596,6 +2596,7 @@
 
 ## others 
 
+- [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [samrocketman/home-assistant-decrypt-backup](https://github.com/samrocketman/home-assistant-decrypt-backup) - hassio-tar - A simple utility to decrypt Home Assistant backups similar to plain tar.
