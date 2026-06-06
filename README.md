@@ -1434,6 +1434,7 @@
 
 ## TypeScript 
 
+- [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
