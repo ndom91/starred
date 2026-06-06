@@ -2603,7 +2603,7 @@
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [usetrmnl/trmnlp](https://github.com/usetrmnl/trmnlp) - a local dev server for building TRMNL plugins
 - [nassendelft/har-viewer](https://github.com/nassendelft/har-viewer) - A terminal UI for inspecting HAR (HTTP Archive) files
-- [ndom91/macos-random-jellyfin-screensaver](https://github.com/ndom91/macos-random-jellyfin-screensaver) - Play a random Jellyfin item as your screensaver
+- [ndom91/jellyfin-random-macos-screensaver](https://github.com/ndom91/jellyfin-random-macos-screensaver) - Play a random Jellyfin item as your screensaver
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents
 - [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
@@ -3954,6 +3954,7 @@
 
 ## support 
 
+- [ndom91/pebble-plain](https://github.com/ndom91/pebble-plain) - Pebble application for Plain
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## svelte 
