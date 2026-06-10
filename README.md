@@ -1314,6 +1314,7 @@
 
 ## Shell 
 
+- [revett/dotfiles](https://github.com/revett/dotfiles) - macOS .files and configuration.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [team-plain/skills](https://github.com/team-plain/skills) - 
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
