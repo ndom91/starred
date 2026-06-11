@@ -2609,6 +2609,7 @@
 
 ## others 
 
+- [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
@@ -2674,7 +2675,7 @@
 - [PKU-YuanGroup/UltraShape-1.0](https://github.com/PKU-YuanGroup/UltraShape-1.0) - High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [johnml1135/unsloth-llama-helper-scripts](https://github.com/johnml1135/unsloth-llama-helper-scripts) - Fix and enable custom GGUF models (including sharded files) from HuggingFace/Unsloth for GitHub Copilot with full Tool support
-- [matthewhand/amd-strix-halo-image-video-distrobox](https://github.com/matthewhand/amd-strix-halo-image-video-distrobox) - fork ported to distrobox to run on Ubuntu (and potentially others)
+- [matthewhand/amd-strix-halo-image-video-distrobox](https://github.com/matthewhand/amd-strix-halo-image-video-distrobox) - ROCm distrobox/Docker environment for image & video generation (Qwen Image/Edit, WAN 2.2, LTX-2, ComfyUI) on AMD Strix Halo / gfx1151
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Mobile (iOS/Android) client for OpenWebUI. Chat with your self‑hosted AI.
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
 - [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
@@ -2696,7 +2697,7 @@
 - [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons) - A Home Assistant add-on to visually create zones for the Everything Presence Lite
 - [e18e/web-features-codemods](https://github.com/e18e/web-features-codemods) - A collection of codemods for migrating to standard web features
 - [tellahq/plain-mcp](https://github.com/tellahq/plain-mcp) - MCP server for Plain.com support backlog
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [htx-studio/One-Handed-Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
@@ -3287,6 +3288,7 @@
 
 ## postgresql 
 
+- [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book!
 - [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
