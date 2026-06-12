@@ -2685,7 +2685,7 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - The verification layer for coding agents
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
 - [netboxlabs/orb-agent](https://github.com/netboxlabs/orb-agent) - Orb network observability agent, part of the NetBox ecosystem and developed by NetBox Labs
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -2697,7 +2697,7 @@
 - [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons) - A Home Assistant add-on to visually create zones for the Everything Presence Lite
 - [e18e/web-features-codemods](https://github.com/e18e/web-features-codemods) - A collection of codemods for migrating to standard web features
 - [tellahq/plain-mcp](https://github.com/tellahq/plain-mcp) - MCP server for Plain.com support backlog
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [FoggedLens/deflock](https://github.com/FoggedLens/deflock) - Crowdsourced tool for locating and reporting ALPRs
 - [htx-studio/One-Handed-Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
