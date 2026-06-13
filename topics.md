@@ -2609,6 +2609,7 @@
 
 ## others 
 
+- [askeksa/NoCpuChallenge](https://github.com/askeksa/NoCpuChallenge) - The No-CPU Amiga Demo Challenge
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
