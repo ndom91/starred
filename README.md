@@ -93,6 +93,7 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [ndom91/pebble-plain](https://github.com/ndom91/pebble-plain) - Pebble application for Plain
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
