@@ -1929,7 +1929,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [getify/Incomplete-JS](https://github.com/getify/Incomplete-JS) - "The Incomplete Guide to JavaScript" (book). @IncompleteJS on twitter.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -2197,7 +2197,7 @@
 
 ## mac 
 
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
@@ -2220,7 +2220,7 @@
 
 - [revett/dotfiles](https://github.com/revett/dotfiles) - macOS .files and configuration.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
@@ -3347,7 +3347,7 @@
 
 ## productivity 
 
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
@@ -4005,7 +4005,7 @@
 ## swift 
 
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
