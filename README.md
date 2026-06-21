@@ -1452,6 +1452,7 @@
 
 ## TypeScript 
 
+- [KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
