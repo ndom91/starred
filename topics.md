@@ -316,6 +316,7 @@
 - [las7/TakoVM](https://github.com/las7/TakoVM) - A secure file system for your agents to execute code
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [strongdm/leash](https://github.com/strongdm/leash) - Leash by StrongDM - take your AI agents for a walk
@@ -1716,6 +1717,7 @@
 ## home-assistant 
 
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - IR device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.4+ infrared platform. ESPHome and Broadlink compatible.
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
@@ -2145,6 +2147,7 @@
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai) - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -2300,6 +2303,7 @@
 
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [conikeec/mcp-probe](https://github.com/conikeec/mcp-probe) - A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interac
@@ -2632,7 +2636,6 @@
 - [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [darnoq99/strix-halo-qwen36-awq4-dflash](https://github.com/darnoq99/strix-halo-qwen36-awq4-dflash) - Qwen3.6-27B AWQ4 + DFlash on AMD Strix Halo: reproducible vLLM setup, launcher, and benchmarks
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
