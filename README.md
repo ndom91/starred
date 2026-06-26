@@ -1289,7 +1289,7 @@
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
@@ -1456,6 +1456,7 @@
 
 ## TypeScript 
 
+- [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quick
 - [mohebifar/tooscut](https://github.com/mohebifar/tooscut) - Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
 - [Sportinger/MasterSelects](https://github.com/Sportinger/MasterSelects) - realtime media editor in the browser, no backend.
