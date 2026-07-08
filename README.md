@@ -817,6 +817,8 @@
 
 ## Others 
 
+- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [dcowden/featurescript](https://github.com/dcowden/featurescript) - a curated list of FeatureScripts for Onshape
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai) - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
@@ -989,6 +991,7 @@
 
 ## Python 
 
+- [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
@@ -1458,6 +1461,7 @@
 
 ## TypeScript 
 
+- [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quick
