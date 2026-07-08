@@ -356,7 +356,7 @@
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -410,6 +410,7 @@
 
 ## HTML 
 
+- [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [webosbrew/retroarch-cores](https://github.com/webosbrew/retroarch-cores) - 
 - [Darknetzz/UniFi-Backup-Explorer](https://github.com/Darknetzz/UniFi-Backup-Explorer) - Decode and explore .unf backup files locally in your browser
@@ -1462,6 +1463,7 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
