@@ -2666,6 +2666,9 @@
 
 ## others 
 
+- [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac.
+- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
+- [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [dcowden/featurescript](https://github.com/dcowden/featurescript) - a curated list of FeatureScripts for Onshape
