@@ -467,7 +467,6 @@
 
 ## JavaScript 
 
-- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ndom91/pi-tmux-focus-cursor](https://github.com/ndom91/pi-tmux-focus-cursor) - Hide the cursor when pi isn't focused
 - [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline) - 
@@ -1464,6 +1463,7 @@
 ## TypeScript 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
