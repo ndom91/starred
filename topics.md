@@ -186,6 +186,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -314,6 +315,7 @@
 
 ## agents 
 
+- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
@@ -701,6 +703,7 @@
 
 ## claude 
 
+- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -2627,6 +2630,10 @@
 ## objective-c 
 
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
+
+## obsidian 
+
+- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
 
 ## obsidian-plugin 
 
