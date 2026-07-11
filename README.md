@@ -992,6 +992,7 @@
 
 ## Python 
 
+- [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.
