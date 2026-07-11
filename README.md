@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware) - Home Assistant Voice PE — OpenAI Realtime 2 fork
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [nassendelft/har-viewer](https://github.com/nassendelft/har-viewer) - A terminal UI for inspecting HAR (HTTP Archive) files
@@ -992,6 +993,7 @@
 
 ## Python 
 
+- [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime) - OpenClaw / Home Assistant voice assistant for the Voice PE — realtime conversation, custom wake words, speaker recognition, voice memory, and long-running task delegation that reports back by voice
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
