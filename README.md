@@ -820,9 +820,7 @@
 
 ## Others 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [dcowden/featurescript](https://github.com/dcowden/featurescript) - a curated list of FeatureScripts for Onshape
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai) - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
@@ -995,9 +993,11 @@
 
 ## Python 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime) - OpenClaw / Home Assistant voice assistant for the Voice PE — realtime conversation, custom wake words, speaker recognition, voice memory, and long-running task delegation that reports back by voice
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
