@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [sb-ocr/cad-mouse-mk2](https://github.com/sb-ocr/cad-mouse-mk2) - 
 - [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware) - Home Assistant Voice PE — OpenAI Realtime 2 fork
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -994,6 +995,7 @@
 
 ## Python 
 
+- [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime) - OpenClaw / Home Assistant voice assistant for the Voice PE — realtime conversation, custom wake words, speaker recognition, voice memory, and long-running task delegation that reports back by voice
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
