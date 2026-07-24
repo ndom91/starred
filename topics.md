@@ -2149,6 +2149,7 @@
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer and fully cross-platform
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -2306,6 +2307,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer and fully cross-platform
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -2711,6 +2713,8 @@
 
 ## others 
 
+- [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
+- [sb-ocr/cad-mouse-mk2](https://github.com/sb-ocr/cad-mouse-mk2) - 
 - [cdmoro/literature-clock](https://github.com/cdmoro/literature-clock) - A clock for book lovers that tells the time using quotes from literature. Support for multiple languages, themes, and more!
 - [semaja2/trmnl-go](https://github.com/semaja2/trmnl-go) - Virtual TRMNL Device for Windows/Linux/Mac
 - [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch.
@@ -4659,6 +4663,7 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer and fully cross-platform
 - [cbh34680/WinCse](https://github.com/cbh34680/WinCse) - WinCSE - Windows Cloud Storage Explorer
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
