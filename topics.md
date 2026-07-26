@@ -2713,6 +2713,8 @@
 
 ## others 
 
+- [spocky/miproja1](https://github.com/spocky/miproja1) - 
+- [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
 - [sb-ocr/cad-mouse-mk2](https://github.com/sb-ocr/cad-mouse-mk2) - 
 - [cdmoro/literature-clock](https://github.com/cdmoro/literature-clock) - A clock for book lovers that tells the time using quotes from literature. Support for multiple languages, themes, and more!
