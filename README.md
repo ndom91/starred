@@ -7,7 +7,6 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -77,10 +76,6 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [smealum/butthax](https://github.com/smealum/butthax) - lovense hush buttplug exploit chain
-
-## Astro 
-
-- [rose-pine/rose-pine-site](https://github.com/rose-pine/rose-pine-site) - The Rosé Pine garden
 
 ## Awk 
 
@@ -1445,6 +1440,7 @@
 - [ndom91/briefkasten-extension](https://github.com/ndom91/briefkasten-extension) - Companion extension for briefkasten
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [benzara-tahar/awesome-portfolios](https://github.com/benzara-tahar/awesome-portfolios) - A curated list of Awesome Developer Portfolio Websites For your inspiration.
+- [rose-pine/rose-pine-site](https://github.com/rose-pine/rose-pine-site) - The Rosé Pine garden
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 
 ## Swift 
