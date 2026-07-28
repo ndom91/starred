@@ -1446,7 +1446,7 @@
 ## Swift 
 
 - [ndom91/jellyfin-random-macos-screensaver](https://github.com/ndom91/jellyfin-random-macos-screensaver) - Play a random Jellyfin item as your screensaver
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - Menu bar manager for macOS 26
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
@@ -1474,7 +1474,7 @@
 - [lukeed/empathic](https://github.com/lukeed/empathic) - A set of small Node.js utilities to understand your pathing needs.
 - [sxzz/verkit](https://github.com/sxzz/verkit) - Fast, zero-dependency SemVer for ESM and TypeScript, with functional, tree-shakeable APIs.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [8thpark/geode](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your Obsidian vault.
+- [8thpark/geode](https://github.com/8thpark/geode) - Easy, secure access to your Obsidian vault from anywhere, for humans and agents.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
