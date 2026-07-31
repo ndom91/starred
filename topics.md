@@ -413,6 +413,7 @@
 
 ## android 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -2080,6 +2081,7 @@
 
 ## kotlin 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
 ## kubernetes 
@@ -2359,6 +2361,7 @@
 
 ## markdown 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
@@ -2382,6 +2385,7 @@
 
 ## material-design 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated icons. Multiple formats to choose from: SVG animations, SVG with CSS animations, SVG rendered frame by frame.
 - [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
@@ -3464,6 +3468,7 @@
 
 ## privacy 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
