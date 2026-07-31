@@ -467,6 +467,7 @@
 
 ## JavaScript 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ndom91/pi-tmux-focus-cursor](https://github.com/ndom91/pi-tmux-focus-cursor) - Hide the cursor when pi isn't focused
 - [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline) - 
