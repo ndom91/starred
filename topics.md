@@ -378,7 +378,7 @@
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
@@ -415,7 +415,7 @@
 
 - [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
@@ -677,7 +677,7 @@
 
 ## chatbot 
 
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [HarryR/z80ai](https://github.com/HarryR/z80ai) - Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
@@ -1017,7 +1017,7 @@
 
 ## dart 
 
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -1378,7 +1378,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1873,7 +1873,7 @@
 
 ## ios 
 
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2240,7 +2240,7 @@
 - [alvi-se/ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Websites I personally found that are completely generated by AI. Pull requests welcome.
 - [avinshe/agentseed](https://github.com/avinshe/agentseed) - Generate AGENTS.md from your codebase in one command. Free, instant, no API key
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [pattern-zones-co/koine](https://github.com/pattern-zones-co/koine) - Claude Code as a service: HTTP gateway with TypeScript & Python SDKs
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2708,7 +2708,7 @@
 
 ## openai 
 
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3471,7 +3471,7 @@
 - [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -3989,7 +3989,7 @@
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
