@@ -1346,6 +1346,7 @@
 
 ## Shell 
 
+- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - Fast 0-deps bash parser written in TypeScript
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [ndom91/open-text-in-vim](https://github.com/ndom91/open-text-in-vim) - Open MacOS text files by default in Ghostty -&gt; tmux -&gt; nvim
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
