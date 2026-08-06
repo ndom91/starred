@@ -607,6 +607,7 @@
 
 ## bash 
 
+- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - Fast 0-deps bash parser written in TypeScript
 - [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
@@ -4047,6 +4048,7 @@
 
 ## shell 
 
+- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - Fast 0-deps bash parser written in TypeScript
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -4404,6 +4406,7 @@
 
 ## typescript 
 
+- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - Fast 0-deps bash parser written in TypeScript
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [sxzz/verkit](https://github.com/sxzz/verkit) - Fast, zero-dependency SemVer for ESM and TypeScript, with functional, tree-shakeable APIs.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
