@@ -1176,7 +1176,7 @@
 - [QTodoTxt/QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) - Rewrite of GUI code of QTodoTxt using qml.
 - [lepture/python-livereload](https://github.com/lepture/python-livereload) - livereload server in python
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## Roff 
 
@@ -1482,7 +1482,7 @@
 - [lukeed/empathic](https://github.com/lukeed/empathic) - A set of small Node.js utilities to understand your pathing needs.
 - [sxzz/verkit](https://github.com/sxzz/verkit) - Fast, zero-dependency SemVer for ESM and TypeScript, with functional, tree-shakeable APIs.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [8thpark/geode](https://github.com/8thpark/geode) - Geode gives easy and secure access to your Obsidian vault from anywhere, for both humans and agents.
+- [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) - Filters Amazon search results to only be "known" brands.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
