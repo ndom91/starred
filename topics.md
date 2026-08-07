@@ -770,7 +770,7 @@
 - [antoniorodr/lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workf
 - [casey/intermodal](https://github.com/casey/intermodal) - command-line utility for BitTorrent torrent file creation, verification, and more
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
@@ -1418,7 +1418,7 @@
 ## frontend 
 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [ndom91/newtelco-timeoff](https://github.com/ndom91/newtelco-timeoff) - ⏰ Company Time-off / Absences / Vacation Management Application
@@ -1520,7 +1520,7 @@
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [Valkyrie00/bold-brew](https://github.com/Valkyrie00/bold-brew) - Bold Brew (bbrew) - A Homebrew TUI Manager
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
@@ -1561,7 +1561,7 @@
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
 - [nao1215/sqly](https://github.com/nao1215/sqly) - executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -1685,7 +1685,7 @@
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
@@ -1791,7 +1791,7 @@
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - This package is a collection of datasets for evaluating AI Models in the context of Home Assistant.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [wernerhp/ha.integration.load_shedding](https://github.com/wernerhp/ha.integration.load_shedding) - A Home Assistant integration to track your load schedding schedule.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [vas3k/home-assistant-berlin-transport](https://github.com/vas3k/home-assistant-berlin-transport) - Berlin (BVG) and Brandenburg (VBB) transport widget for Home Assistant
@@ -1839,7 +1839,7 @@
 ## http 
 
 - [pattern-zones-co/koine](https://github.com/pattern-zones-co/koine) - Claude Code as a service: HTTP gateway with TypeScript & Python SDKs
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
@@ -4010,7 +4010,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
