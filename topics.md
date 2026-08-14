@@ -200,6 +200,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
+- [phishing](#phishing)
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [portfolio-website](#portfolio-website)
@@ -333,6 +334,7 @@
 
 ## ai 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -716,6 +718,7 @@
 
 ## claude 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
@@ -749,6 +752,7 @@
 
 ## cli 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -1125,6 +1129,7 @@
 
 ## developer-tools 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
@@ -1355,6 +1360,7 @@
 
 ## finance 
 
+- [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [KoNananachan/Neuberg](https://github.com/KoNananachan/Neuberg) - Real-time trading news terminal with AI analysis, prediction markets, and multi-asset trading. Bloomberg-style dashboard.
 - [ChrisBuilds/moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -2231,6 +2237,7 @@
 
 ## llm 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
@@ -2362,6 +2369,7 @@
 
 ## malware 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
@@ -2400,6 +2408,7 @@
 
 ## mcp 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
@@ -3407,6 +3416,10 @@
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## php 
 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
@@ -3481,6 +3494,7 @@
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [grigio/network-monitor](https://github.com/grigio/network-monitor) - A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface.
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -3543,6 +3557,7 @@
 
 ## python 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
@@ -4251,6 +4266,7 @@
 
 ## terminal 
 
+- [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
@@ -4342,6 +4358,7 @@
 
 ## tui 
 
+- [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
