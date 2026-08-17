@@ -1502,7 +1502,7 @@
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
+- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [LinYS77/pi-glance](https://github.com/LinYS77/pi-glance) - A polished input surface extension for pi, with a rounded multiline editor and inline model/context/status glance.
