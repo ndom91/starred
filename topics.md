@@ -735,6 +735,7 @@
 
 ## claude-code 
 
+- [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code. So you can pay attention, not tokens.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
