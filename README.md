@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
 - [semaja2/trmnl-go](https://github.com/semaja2/trmnl-go) - Virtual TRMNL Device for Windows/Linux/Mac
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
@@ -1594,7 +1595,7 @@
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system.
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
-- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [hamvocke/root-loops](https://github.com/hamvocke/root-loops) - A color scheme generator for cereal lovers
