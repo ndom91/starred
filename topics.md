@@ -2809,7 +2809,6 @@
 - [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
-- [darnoq99/strix-halo-qwen36-awq4-dflash](https://github.com/darnoq99/strix-halo-qwen36-awq4-dflash) - Qwen3.6-27B AWQ4 + DFlash on AMD Strix Halo: reproducible vLLM setup, launcher, and benchmarks
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
