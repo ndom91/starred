@@ -140,6 +140,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
+- [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [amarkulo/OpenPasswordFilter](https://github.com/amarkulo/OpenPasswordFilter) - An open source custom password filter DLL and userspace service to better protect / control Active Directory domain passwords.
 
 ## C++ 
@@ -992,7 +993,6 @@
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [farag2/Adobe-Acrobat-DC-Setup](https://github.com/farag2/Adobe-Acrobat-DC-Setup) - Adobe Acrobat Pro/Reader DC Setup
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-- [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Eve
 
 ## Processing 
 
@@ -1371,7 +1371,7 @@
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Port WiFi Pineapple NANO/TETRA in generic hardware
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
@@ -1515,7 +1515,7 @@
 - [KoNananachan/Neuberg](https://github.com/KoNananachan/Neuberg) - Real-time trading news terminal with AI analysis, prediction markets, and multi-asset trading. Bloomberg-style dashboard.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
+- [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [sriganesh/atproto-at](https://github.com/sriganesh/atproto-at) - Taproot - All-in-one AT Protocol Explorer A comprehensive web-based explorer for the atproto ecosystem. View, explore, and interact with AT Protocol data directly in your browser.
