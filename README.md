@@ -1488,6 +1488,7 @@
 
 ## TypeScript 
 
+- [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [capaj/ingit](https://github.com/capaj/ingit) - a modern git UI - fresh take on ungit
 - [lukeed/empathic](https://github.com/lukeed/empathic) - A set of small Node.js utilities to understand your pathing needs.
