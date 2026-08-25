@@ -223,7 +223,7 @@
 
 - [chuk-development/Besser-Bahn](https://github.com/chuk-development/Besser-Bahn) - Better Bahn
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 
@@ -803,7 +803,6 @@
 - [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor) - BreezeX RosePine for Hyprcursor
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 
 ## Nu 
 
@@ -1097,6 +1096,7 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [UpDryTwist/defogger-dch-s150](https://github.com/UpDryTwist/defogger-dch-s150) - Forked from D-Link DCS-8000LH usage info and defogging tools to get to work with the DCH-S150
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ndom91/homeassistant-checkly](https://github.com/ndom91/homeassistant-checkly) - Home Assistant Integration for Checkly
 - [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
