@@ -1002,7 +1002,7 @@
 ## Python 
 
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Token-efficient MCP CLI. 99.9% less tokens on tool discovery. Zero deps. Cross-platform. Works with every AI agent.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [ndom91/herdr-ai-tab-name](https://github.com/ndom91/herdr-ai-tab-name) - Auto-rename your Herdr Tabs with local LLMs
