@@ -111,6 +111,7 @@
 - [games](#games)
 - [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -721,7 +722,6 @@
 
 ## claude 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
@@ -1136,7 +1136,6 @@
 
 ## developer-tools 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
@@ -1475,6 +1474,10 @@
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
+
+## gis 
+
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 
 ## git 
 
@@ -2252,6 +2255,7 @@
 ## llm 
 
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
@@ -3590,7 +3594,6 @@
 
 ## python 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
