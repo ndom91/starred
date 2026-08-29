@@ -418,6 +418,7 @@
 
 ## HTML 
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
@@ -1003,7 +1004,6 @@
 ## Python 
 
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [ndom91/herdr-ai-tab-name](https://github.com/ndom91/herdr-ai-tab-name) - Auto-rename your Herdr Tabs with local LLMs
@@ -1237,7 +1237,7 @@
 - [superhq-ai/neko](https://github.com/superhq-ai/neko) - Lightweight AI agent runtime targeting Raspberry Pi Zero 2W and low-end VPS. File-based memory, MCP tool support, Telegram integration — all in a single binary.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
-- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -1489,6 +1489,7 @@
 
 ## TypeScript 
 
+- [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [capaj/ingit](https://github.com/capaj/ingit) - a modern git UI - fresh take on ungit
