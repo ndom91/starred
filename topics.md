@@ -758,7 +758,7 @@
 
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -1211,7 +1211,6 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2121,7 +2120,6 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [checkly/checkly-operator](https://github.com/checkly/checkly-operator) - Kubernetes checkly operator
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [relferreira/kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -2255,7 +2253,7 @@
 ## llm 
 
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
@@ -2429,7 +2427,7 @@
 ## mcp 
 
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-setup MCP client for every AI agent. Sync MCP servers across agents. Token-efficient CLI: 99.8% less tokens on discovery. Zero deps.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
@@ -2773,6 +2771,7 @@
 
 ## others 
 
+- [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [balazsorban44/herdr-plugin-renamer](https://github.com/balazsorban44/herdr-plugin-renamer) - Renames an auto-generated herdr worktree branch and workspace from the agent's first prompt, via on-device Apple FoundationModels or Codex.
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
@@ -3180,6 +3179,7 @@
 - [saucelabs/network-viewer](https://github.com/saucelabs/network-viewer) - React.js component for viewing HAR files.
 - [tobetz/LegoMicroscope](https://github.com/tobetz/LegoMicroscope) - To learn about optics and microscopy, we generated a simple to build lego microscope that does not need precision optics and 3D printed parts.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [progala/ttl255-netbox-plugin-bgppeering](https://github.com/progala/ttl255-netbox-plugin-bgppeering) - Example NetBox plugin - Tracking BGP Peering connections
@@ -3550,7 +3550,7 @@
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
-- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
@@ -4419,7 +4419,7 @@
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
-- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
