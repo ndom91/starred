@@ -1465,7 +1465,7 @@
 ## Swift 
 
 - [ndom91/jellyfin-random-macos-screensaver](https://github.com/ndom91/jellyfin-random-macos-screensaver) - Play a random Jellyfin item as your screensaver
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
