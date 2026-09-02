@@ -1849,7 +1849,7 @@
 - [checkly/theheadless.dev](https://github.com/checkly/theheadless.dev) - 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## WebAssembly 
 
