@@ -1508,6 +1508,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [DFurnes/purer](https://github.com/DFurnes/purer) - 🚰 Single-line ZSH prompt, based on "Pure".
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
