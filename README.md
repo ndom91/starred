@@ -418,7 +418,7 @@
 
 ## HTML 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Listing 255 MCP tools costs 71,929 tokens. mcptoon's name index: 581 (-99.2%, tiktoken-measured). Zero-dep CLI: one config syncs every agent; schemas never enter context.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
