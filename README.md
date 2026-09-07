@@ -418,7 +418,7 @@
 
 ## HTML 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Zero-dep CLI: one MCP config synced to every agent. A 255-tool listing costs 581 tokens, not 71,929 - schemas never enter context.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
