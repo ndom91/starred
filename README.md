@@ -154,7 +154,7 @@
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [nassendelft/har-viewer](https://github.com/nassendelft/har-viewer) - A terminal UI for inspecting HAR (HTTP Archive) files
 - [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs.
-- [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
+- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
 - [matoslav/FerroWave](https://github.com/matoslav/FerroWave) - Ferrofluid portable bluetooth speaker and visualizer
@@ -602,7 +602,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [channingallen/tower-defense](https://github.com/channingallen/tower-defense) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [CodingGarden/inventory-app](https://github.com/CodingGarden/inventory-app) - 
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [ndom91/newtelco-timeoff](https://github.com/ndom91/newtelco-timeoff) - ⏰ Company Time-off / Absences / Vacation Management Application
