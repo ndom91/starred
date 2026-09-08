@@ -338,6 +338,7 @@
 
 ## ai 
 
+- [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
@@ -376,6 +377,7 @@
 
 ## ai-agents 
 
+- [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
@@ -2781,7 +2783,6 @@
 
 ## others 
 
-- [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-like chat platform for AI agents.
 - [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [balazsorban44/herdr-plugin-renamer](https://github.com/balazsorban44/herdr-plugin-renamer) - Renames an auto-generated herdr worktree branch and workspace from the agent's first prompt, via on-device Apple FoundationModels or Codex.
