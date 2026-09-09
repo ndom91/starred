@@ -339,7 +339,7 @@
 ## ai 
 
 - [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -378,7 +378,7 @@
 ## ai-agents 
 
 - [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
@@ -727,7 +727,7 @@
 
 ## claude 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
@@ -743,7 +743,7 @@
 ## claude-code 
 
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
@@ -766,7 +766,7 @@
 
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -1145,7 +1145,7 @@
 
 ## developer-tools 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
@@ -2264,7 +2264,7 @@
 ## llm 
 
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
@@ -2438,7 +2438,7 @@
 ## mcp 
 
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
@@ -3605,7 +3605,7 @@
 
 ## python 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
