@@ -1371,7 +1371,7 @@
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [ndom91/open-text-in-vim](https://github.com/ndom91/open-text-in-vim) - Open MacOS text files by default in Ghostty -&gt; tmux -&gt; nvim
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-- [revett/dotfiles](https://github.com/revett/dotfiles) - macOS .files and configuration.
+- [revett/dotfiles](https://github.com/revett/dotfiles) - macOS .files and configuration 🧰
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [team-plain/skills](https://github.com/team-plain/skills) - 
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
