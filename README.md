@@ -420,7 +420,7 @@
 
 ## HTML 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your ow
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool discovery burns 71,929 tokens. mcptoon drops it to 581 (−99.2%, measured). Zero dependencies.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
