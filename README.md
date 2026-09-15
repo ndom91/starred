@@ -270,7 +270,7 @@
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [strongdm/leash](https://github.com/strongdm/leash) - Leash by StrongDM - take your AI agents for a walk
 - [canyonroad/agentsh](https://github.com/canyonroad/agentsh) - Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
@@ -1024,7 +1024,6 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [Tako-Research/TakoVM](https://github.com/Tako-Research/TakoVM) - A secure file system for your agents to execute code
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [ndom91/tmux-ai-window-name](https://github.com/ndom91/tmux-ai-window-name) - Dynamically update your tmux window names based on their content with AI
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -1235,6 +1234,7 @@
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [the-void-ia/void-box](https://github.com/the-void-ia/void-box) - Composable agent runtime with enforced isolation boundaries
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [clouedoc/hzfind](https://github.com/clouedoc/hzfind) - A TUI to find the best Hetzner dedicated server auction deals, with PassMark CPU benchmarks built-in
@@ -1503,6 +1503,7 @@
 
 ## TypeScript 
 
+- [leohenon/opencode-vim-plugin](https://github.com/leohenon/opencode-vim-plugin) - Vim controls for the OpenCode TUI
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A browser client for Herdr. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
