@@ -1279,6 +1279,7 @@
 
 ## dotnet 
 
+- [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
@@ -2788,6 +2789,7 @@
 
 ## others 
 
+- [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) - Companion plugin for Streamyfin
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [lhl/amdtop](https://github.com/lhl/amdtop) - nvitop-style TUI frontend for amdgpu_top (AMDGPU + Strix Halo XDNA NPU)
 - [coredevices/mobileapp](https://github.com/coredevices/mobileapp) - 
