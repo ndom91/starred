@@ -1218,6 +1218,7 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [lhl/amdtop](https://github.com/lhl/amdtop) - nvitop-style TUI frontend for amdgpu_top (AMDGPU + Strix Halo XDNA NPU)
 - [balazsorban44/herdr-plugin-renamer](https://github.com/balazsorban44/herdr-plugin-renamer) - Renames an auto-generated herdr worktree branch and workspace from the agent's first prompt, via on-device Apple FoundationModels or Codex.
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
