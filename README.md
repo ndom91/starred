@@ -112,7 +112,7 @@
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
+- [ysuraj1999/keydogger](https://github.com/ysuraj1999/keydogger) - Keydogger is a tiny text expander written in C
 - [sosy-lab/cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter) - A tool for measuring energy consumption of Intel CPUs
 - [Architeuthis-Flux/Jumperless](https://github.com/Architeuthis-Flux/Jumperless) - A jumperless breadboard
 - [oldfieldtc/Lily58-keymap](https://github.com/oldfieldtc/Lily58-keymap) - Key mappings for my Lily58 Pro keyboard
@@ -1509,6 +1509,7 @@
 
 ## TypeScript 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [leohenon/opencode-vim-plugin](https://github.com/leohenon/opencode-vim-plugin) - Vim controls for the OpenCode TUI
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
