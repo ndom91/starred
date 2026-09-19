@@ -2176,6 +2176,7 @@
 
 ## library 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
 - [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
@@ -2218,7 +2219,7 @@
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
+- [ysuraj1999/keydogger](https://github.com/ysuraj1999/keydogger) - Keydogger is a tiny text expander written in C
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [sosy-lab/cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter) - A tool for measuring energy consumption of Intel CPUs
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
@@ -4327,6 +4328,7 @@
 
 ## terminal 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
