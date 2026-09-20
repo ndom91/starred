@@ -1017,9 +1017,10 @@
 
 ## Python 
 
+- [xanpavle/rocmfix](https://github.com/xanpavle/rocmfix) - Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP).
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
-- [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K for herdr: fuzzy-jump to any tab, agent, repo or branch. Python stdlib only.
+- [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K and auto tab title for herdr: fuzzy-jump to any tab, agent, repo or branch.
 - [ndom91/herdr-ai-tab-name](https://github.com/ndom91/herdr-ai-tab-name) - Auto-rename your Herdr Tabs with local LLMs
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.
 - [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
