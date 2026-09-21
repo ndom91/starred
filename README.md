@@ -82,6 +82,7 @@
 
 ## Astro 
 
+- [mattcone/depletion-ledger](https://github.com/mattcone/depletion-ledger) - The world is using more oil than it produces. This site tracks how much buffer is left.
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration
 
 ## Awk 
@@ -474,7 +475,6 @@
 ## Java 
 
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 - [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 - [cyrildiagne/ar-cptext](https://github.com/cyrildiagne/ar-cptext) - AR Copy Paste - Text Proto
@@ -738,6 +738,7 @@
 
 ## Kotlin 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [coredevices/mobileapp](https://github.com/coredevices/mobileapp) - 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [keepalivedev/KeepAlive](https://github.com/keepalivedev/KeepAlive) - Android app to notify others if you haven't used your device in a given period of time.
@@ -1655,6 +1656,7 @@
 - [ndom91/briefkasten-rss](https://github.com/ndom91/briefkasten-rss) - Deno-based background worker for RSS feed reader
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [alii/flight-tracker](https://github.com/alii/flight-tracker) - Dashboard for when you are on a plane. Works by connecting to the inflight Wi-Fi network and pulling flight stats from their Wi-Fi portal.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
