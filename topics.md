@@ -429,6 +429,7 @@
 
 ## android 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
@@ -3551,6 +3552,7 @@
 
 ## privacy 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
