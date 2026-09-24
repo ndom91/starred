@@ -347,7 +347,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -426,7 +426,6 @@
 
 ## HTML 
 
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - MCP tool schemas + agent skills: 71,929 tokens -&gt; 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-dependency CLI, no hand-written config.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs](https://github.com/nelsonjchen/unofficial-makerworld-parametric-model-maker-openscad-docs) - Agent-first reference docs, patterns, and evidence-backed changelog for MakerWorld's OpenSCAD Parametric Model Maker (PMM).
 - [ninjahawk/Subtext](https://github.com/ninjahawk/Subtext) - To know what models don't say out loud.
@@ -1024,6 +1023,7 @@
 
 - [xanpavle/rocmfix](https://github.com/xanpavle/rocmfix) - Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP).
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - One zero-dependency CLI for all your MCP tools and agent skills. 99.2% fewer tokens on tool discovery, one config for every agent, nothing pre-installed. | 一个零依赖 CLI，管所有 MCP 工具和 Agent 技能。工具发现省 99.2% t
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K and auto tab title for herdr: fuzzy-jump to any tab, agent, repo or branch.
 - [ndom91/herdr-ai-tab-name](https://github.com/ndom91/herdr-ai-tab-name) - Auto-rename your Herdr Tabs with local LLMs
