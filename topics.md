@@ -2804,6 +2804,7 @@
 
 ## others 
 
+- [ndom91/shipvideo-local](https://github.com/ndom91/shipvideo-local) - Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML and renders a video out of it locally via ffmpeg
 - [presmihaylov/shard](https://github.com/presmihaylov/shard) - Work in progress - A single-node sandbox manager. The same sleep, wake and fork verbs on a KVM host and on a host without /dev/kvm.
 - [mattcone/depletion-ledger](https://github.com/mattcone/depletion-ledger) - The world is using more oil than it produces. This site tracks how much buffer is left.
 - [hhdebb/herdr-radar](https://github.com/hhdebb/herdr-radar) - Who's working, who's waiting on you — grouped by project, each agent in its vendor's logo and colour. Worktrees nest under their repo, rows order by activity, idle sessions fade. Light and dark.
