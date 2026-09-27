@@ -324,7 +324,7 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
-- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
+- [andreibordy/viking](https://github.com/andreibordy/viking) - Simple way to manage your remote machines and SSH keys
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
@@ -1391,7 +1391,7 @@
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [revett/dotfiles](https://github.com/revett/dotfiles) - macOS .files and configuration 🧰
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [team-plain/skills](https://github.com/team-plain/skills) - 
+- [team-plain/skills](https://github.com/team-plain/skills) - A Cursor and Claude Code plugin that gives your agents direct access to the Plain customer support platform via its GraphQL API
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment](https://github.com/JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment) - Automated Deployment of AMD ROCm 7.1.1 and PyTorch 2.11.0 (nightly@ROCm7.1) AI Stack for Ubuntu 22.04/24.04 on CDNA 3, RDNA4 and RDNA3. The script now includes a routine to detect and delete older ins
 - [JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment](https://github.com/JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment) - Automated Deployment of AMD ROCm 7.2.0 and PyTorch 2.11.0 (Preview (Nightly)) AI Stack for Ubuntu 22.04/24.04 on CDNA 1/2/3/4 and RDNA 3/4. The script now includes a routine to detect and delete older
