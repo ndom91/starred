@@ -162,7 +162,6 @@
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [nassendelft/har-viewer](https://github.com/nassendelft/har-viewer) - A terminal UI for inspecting HAR (HTTP Archive) files
 - [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs.
-- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
 - [bjesus/levin](https://github.com/bjesus/levin) - The easiest way to spread human knowledge
 - [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
 - [matoslav/FerroWave](https://github.com/matoslav/FerroWave) - Ferrofluid portable bluetooth speaker and visualizer
@@ -1260,6 +1259,7 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
+- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1518,6 +1518,7 @@
 
 ## TypeScript 
 
+- [ndom91/home26](https://github.com/ndom91/home26) - ndo.dev
 - [ndom91/shipvideo-local](https://github.com/ndom91/shipvideo-local) - Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML and renders a video out of it locally via ffmpeg
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [leohenon/opencode-vim-plugin](https://github.com/leohenon/opencode-vim-plugin) - Vim controls for the OpenCode TUI
