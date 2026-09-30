@@ -291,7 +291,6 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
-- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -3131,7 +3130,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [UpDryTwist/defogger-dch-s150](https://github.com/UpDryTwist/defogger-dch-s150) - Forked from D-Link DCS-8000LH usage info and defogging tools to get to work with the DCH-S150
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/veenew](https://github.com/vasanthv/veenew) - Free group video call for the web. No signups. No downloads.
 - [xpepermint/smtp-channel](https://github.com/xpepermint/smtp-channel) - Low level SMTP communication layer.
 - [xpepermint/smtp-client](https://github.com/xpepermint/smtp-client) - Simple, promisified, protocol-based SMTP client for Node.js.
 - [sidoh/espmh_pcb](https://github.com/sidoh/espmh_pcb) - Gerber files for an ESP8266 MiLight Hub PCB designed by h4nc
@@ -4847,10 +4846,6 @@
 - [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
-
-## windows-11 
-
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## wordpress 
 
