@@ -291,6 +291,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -4846,6 +4847,10 @@
 - [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
+
+## windows-11 
+
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## wordpress 
 
