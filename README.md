@@ -476,7 +476,6 @@
 ## Java 
 
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 - [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 - [cyrildiagne/ar-cptext](https://github.com/cyrildiagne/ar-cptext) - AR Copy Paste - Text Proto
@@ -491,7 +490,7 @@
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
 - [coredevices/pebble-browser-app](https://github.com/coredevices/pebble-browser-app) - A web browser for Pebble Time 2 and Pebble Round 2
-- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, ODT, RTF, ZIP, STL, photos, video, audio, Markdown and code.
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ndom91/pi-tmux-focus-cursor](https://github.com/ndom91/pi-tmux-focus-cursor) - Hide the cursor when pi isn't focused
 - [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline) - 
@@ -1663,6 +1662,7 @@
 - [ndom91/briefkasten-rss](https://github.com/ndom91/briefkasten-rss) - Deno-based background worker for RSS feed reader
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [alii/flight-tracker](https://github.com/alii/flight-tracker) - Dashboard for when you are on a plane. Works by connecting to the inflight Wi-Fi network and pulling flight stats from their Wi-Fi portal.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
