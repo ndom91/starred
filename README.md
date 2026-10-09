@@ -204,6 +204,7 @@
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
+- [ikrishg/reseter.css](https://github.com/ikrishg/reseter.css) - The Modern CSS Reset 🚀
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [ndom91/newtelco-next-maintenance-mgmt](https://github.com/ndom91/newtelco-next-maintenance-mgmt) - 🏗️ Newtelco Maintenance Application
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -442,6 +443,7 @@
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -539,7 +541,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NalinPlad/hkkr.in](https://github.com/NalinPlad/hkkr.in) - 👨‍💻 • CURL client for Hacker News 📰 📰
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
 - [xpepermint/smtp-channel](https://github.com/xpepermint/smtp-channel) - Low level SMTP communication layer.
 - [xpepermint/smtp-client](https://github.com/xpepermint/smtp-client) - Simple, promisified, protocol-based SMTP client for Node.js.
@@ -1374,7 +1375,6 @@
 
 - [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com) - Checkly docs
-- [ikrishg/reseter.css](https://github.com/ikrishg/reseter.css) - The Modern CSS Reset 🚀
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [rlue/jekyll-solana](https://github.com/rlue/jekyll-solana) - A wholesome, flat, sunshiny Jekyll theme
@@ -1403,7 +1403,7 @@
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Port WiFi Pineapple NANO/TETRA in generic hardware
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
@@ -1528,7 +1528,7 @@
 - [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud) - OpenCode2 plugin to show more detailed state below the text input
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
-- [cdmoro/literature-clock](https://github.com/cdmoro/literature-clock) - A clock for book lovers that tells the time using quotes from literature. Support for multiple languages, themes, and more!
+- [cdmoro/literature-clock](https://github.com/cdmoro/literature-clock) - A clock for book lovers that tells time through literary quotes. Available on the web and as a macOS screen saver, with multiple languages and customizable themes.
 - [capaj/ingit](https://github.com/capaj/ingit) - a modern git UI - fresh take on ungit
 - [lukeed/empathic](https://github.com/lukeed/empathic) - A set of small Node.js utilities to understand your pathing needs.
 - [sxzz/verkit](https://github.com/sxzz/verkit) - Fast, zero-dependency SemVer for ESM and TypeScript, with functional, tree-shakeable APIs.
