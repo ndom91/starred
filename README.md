@@ -1519,6 +1519,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ndom91/pve-agents](https://github.com/ndom91/pve-agents) - Disposable coding agents on your own Proxmox host
 - [ndom91/home26](https://github.com/ndom91/home26) - ndo.dev
 - [ndom91/shipvideo-local](https://github.com/ndom91/shipvideo-local) - Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML and renders a video out of it locally via ffmpeg
