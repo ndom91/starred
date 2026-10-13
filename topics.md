@@ -3018,7 +3018,7 @@
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [kuruczgy/x1e-nixos-config](https://github.com/kuruczgy/x1e-nixos-config) - NixOS configs for the Lenovo Yoga Slim 7x
-- [MakD/zombie-release](https://github.com/MakD/zombie-release) - A theme for Jellyfin 10.9.x combining the best from the Public Themes
+- [MakD/zombie-release](https://github.com/MakD/zombie-release) - Resurrected for v12
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [uugear/Witty-Pi-4](https://github.com/uugear/Witty-Pi-4) - Software and Firmware for Witty Pi 4
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
@@ -4526,7 +4526,6 @@
 
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
 
