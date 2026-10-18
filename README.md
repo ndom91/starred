@@ -1389,6 +1389,7 @@
 
 ## Shell 
 
+- [lewisdoesstuff/lifesgoodwithoutspying](https://github.com/lewisdoesstuff/lifesgoodwithoutspying) - 
 - [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - The best bash parser in JavaScript. Fast, complete, typed.
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [ndom91/open-text-in-vim](https://github.com/ndom91/open-text-in-vim) - Open MacOS text files by default in Ghostty -&gt; tmux -&gt; nvim
@@ -1522,6 +1523,7 @@
 
 ## TypeScript 
 
+- [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring) - Financial Monitoring of the AI Infra Space
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
