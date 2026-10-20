@@ -379,7 +379,7 @@
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -429,7 +429,6 @@
 
 ## HCL 
 
-- [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [checkly/checkly-terraform-getting-started](https://github.com/checkly/checkly-terraform-getting-started) - 
 
 ## HTML 
@@ -692,7 +691,6 @@
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [nowaalex/af-react-grid](https://github.com/nowaalex/af-react-grid) - Resizable flex grid for React
-- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media
 - [liyasthomas/mnmlurl](https://github.com/liyasthomas/mnmlurl) - 🔗 Minimal URL - Modern URL shortener with support for custom alias & can be hosted even in GitHub pages [DEPRECATED]
 - [jaredgorski/smart-avatar](https://github.com/jaredgorski/smart-avatar) - Render avatars with dynamic, defined fallback
 - [GoogleChromeLabs/dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:
@@ -955,6 +953,7 @@
 - [kelp/arch-matebook-x-pro](https://github.com/kelp/arch-matebook-x-pro) - Documents my Arch Linux setup on a Huawei MateBook Pro X
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media
 - [ork/mutt-office365](https://github.com/ork/mutt-office365) - A mutt configuration file ready for Office 365
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
@@ -1026,6 +1025,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [xanpavle/rocmfix](https://github.com/xanpavle/rocmfix) - Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP).
 - [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -&gt; 581 tokens (-99.2%, measured), schemas stay out of context. One c
@@ -1411,6 +1411,7 @@
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Port WiFi Pineapple NANO/TETRA in generic hardware
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
+- [noise-rest/tf-via-pr](https://github.com/noise-rest/tf-via-pr) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [victrixsoft/bashbro](https://github.com/victrixsoft/bashbro) - A Bash-based web file browser. Allowing you to browse, view and transfer files via your web browser.
