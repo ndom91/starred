@@ -1531,6 +1531,7 @@
 
 ## TypeScript 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring) - Tracking the balance sheet behind the AI build-out: GPU pricing, credit, and capex risk, with source-level provenance.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
