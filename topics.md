@@ -477,6 +477,7 @@
 
 ## api 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [8thpark/geode](https://github.com/8thpark/geode) - Geode provides agents remote access to your Obsidian vault.
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Better Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
@@ -1526,6 +1527,7 @@
 
 ## git 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [capaj/ingit](https://github.com/capaj/ingit) - a modern git UI - fresh take on ungit
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
