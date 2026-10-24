@@ -83,6 +83,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1308,6 +1309,11 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
 - [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
+
+## downloader 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
@@ -2820,6 +2826,7 @@
 
 ## others 
 
+- [ndom91/llama-dash-docs](https://github.com/ndom91/llama-dash-docs) - Marketing + Documentation Site for llama-dash
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [lewisdoesstuff/lifesgoodwithoutspying](https://github.com/lewisdoesstuff/lifesgoodwithoutspying) - 
@@ -3785,7 +3792,7 @@
 
 ## react 
 
-- [matita-dev/icons](https://github.com/matita-dev/icons) - Freehand pencil icons
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
 - [Sportinger/MasterSelects](https://github.com/Sportinger/MasterSelects) - A browser-based media editor and agent-friendly foundation for creative tools. AGPL-3.0-only.
@@ -4202,7 +4209,7 @@
 
 ## sketch 
 
-- [matita-dev/icons](https://github.com/matita-dev/icons) - Freehand pencil icons
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 
 ## software 
