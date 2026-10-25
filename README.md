@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Ubuntu 24.04. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 - [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -268,7 +269,7 @@
 
 ## Go 
 
-- [presmihaylov/shard](https://github.com/presmihaylov/shard) - Work in progress - A single-node sandbox manager. The same sleep, wake and fork verbs on a KVM host and on a host without /dev/kvm.
+- [presmihaylov/shard](https://github.com/presmihaylov/shard) - Sandboxes for agents on your own hardware
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
 - [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
@@ -490,6 +491,7 @@
 
 ## JavaScript 
 
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
 - [hhdebb/herdr-radar](https://github.com/hhdebb/herdr-radar) - Who's working, who's waiting on you — grouped by project, each agent in its vendor's logo and colour. Worktrees nest under their repo, rows order by activity, idle sessions fade. Light and dark.
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) - Companion plugin for Streamyfin
