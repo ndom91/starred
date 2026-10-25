@@ -2226,6 +2226,7 @@
 
 ## linux 
 
+- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Ubuntu 24.04. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
@@ -2839,7 +2840,7 @@
 - [ndom91/pve-agents](https://github.com/ndom91/pve-agents) - Disposable coding agents on your own Proxmox host
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
 - [ndom91/shipvideo-local](https://github.com/ndom91/shipvideo-local) - Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML and renders a video out of it locally via ffmpeg
-- [presmihaylov/shard](https://github.com/presmihaylov/shard) - Work in progress - A single-node sandbox manager. The same sleep, wake and fork verbs on a KVM host and on a host without /dev/kvm.
+- [presmihaylov/shard](https://github.com/presmihaylov/shard) - Sandboxes for agents on your own hardware
 - [mattcone/depletion-ledger](https://github.com/mattcone/depletion-ledger) - The world is using more oil than it produces. This site tracks how much buffer is left.
 - [hhdebb/herdr-radar](https://github.com/hhdebb/herdr-radar) - Who's working, who's waiting on you — grouped by project, each agent in its vendor's logo and colour. Worktrees nest under their repo, rows order by activity, idle sessions fade. Light and dark.
 - [xanpavle/rocmfix](https://github.com/xanpavle/rocmfix) - Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP).
@@ -4668,6 +4669,7 @@
 
 ## ubuntu 
 
+- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Ubuntu 24.04. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
