@@ -786,6 +786,7 @@
 
 ## cli 
 
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [acelot/termtastic](https://github.com/acelot/termtastic) - Feature-rich handmade Meshtastic® console client written in Rust https://termtastic.app/
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -2831,6 +2832,7 @@
 
 ## others 
 
+- [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [ndom91/llama-dash-docs](https://github.com/ndom91/llama-dash-docs) - Marketing + Documentation Site for llama-dash
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -3981,6 +3983,7 @@
 
 ## rust 
 
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
@@ -4494,6 +4497,7 @@
 
 ## tui 
 
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [acelot/termtastic](https://github.com/acelot/termtastic) - Feature-rich handmade Meshtastic® console client written in Rust https://termtastic.app/
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
