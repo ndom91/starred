@@ -807,7 +807,7 @@
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -&gt; 581 tokens (-99.2%, measured), schemas stay out of context. One c
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
@@ -1130,11 +1130,10 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -1154,7 +1153,7 @@
 - [ryoppippi/curxy](https://github.com/ryoppippi/curxy) - Simple proxy worker for using ollama in cursor
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite by default, PostgreSQL multi-broker when you scale. DLQ, cron, SQLite S3 backups, and native MCP. No Redis.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -1352,7 +1351,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -1365,7 +1364,7 @@
 
 ## elixir 
 
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1878,6 +1877,7 @@
 
 ## home-assistant 
 
+- [travisghansen/hass-opnsense](https://github.com/travisghansen/hass-opnsense) - OPNsense integration with Home Assistant
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [DAB-LABS/HAIR](https://github.com/DAB-LABS/HAIR) - Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.
@@ -1998,7 +1998,7 @@
 
 ## java 
 
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 
@@ -2503,6 +2503,7 @@
 
 ## mcp 
 
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) - One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -&gt; 581 tokens (-99.2%, measured), schemas stay out of context. One c
@@ -2586,7 +2587,7 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -2600,7 +2601,7 @@
 ## neovim 
 
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [ndom91/open-text-in-vim](https://github.com/ndom91/open-text-in-vim) - Open MacOS text files by default in Ghostty -&gt; tmux -&gt; nvim
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
@@ -2712,7 +2713,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [manekinekko/cafy](https://github.com/manekinekko/cafy) - An experimental node package to interact with the Delonghi Primadonna Elite (and probably other ECAM models)
@@ -3594,11 +3595,11 @@
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -3996,12 +3997,13 @@
 
 ## rust 
 
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) - Open-source MITM proxy to intercept, inspect, and mock network traffic.
@@ -4263,7 +4265,7 @@
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -4273,7 +4275,7 @@
 ## sql-server 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 ## sqlite 
 
@@ -4290,7 +4292,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 
 ## stable-diffusion 
