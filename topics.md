@@ -2249,7 +2249,7 @@
 ## linux 
 
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
-- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Ubuntu 24.04. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
+- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -2853,6 +2853,8 @@
 
 ## others 
 
+- [pixelwave/Remote-PC-Switch](https://github.com/pixelwave/Remote-PC-Switch) - Remote PC Switch
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [ndom91/llama-dash-docs](https://github.com/ndom91/llama-dash-docs) - Marketing + Documentation Site for llama-dash
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -4711,7 +4713,7 @@
 
 ## ubuntu 
 
-- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Ubuntu 24.04. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
+- [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
