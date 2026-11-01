@@ -3101,7 +3101,6 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [CollapseLabs/gardening-for-engineers](https://github.com/CollapseLabs/gardening-for-engineers) - A starting point for understanding how to grow vegetables at home
-- [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) - Proxmox VE Helper-Scripts - Ported to ARM64
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
