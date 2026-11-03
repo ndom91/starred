@@ -2861,6 +2861,7 @@
 
 ## others 
 
+- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents
 - [joeblau/subvox](https://github.com/joeblau/subvox) - 
 - [pixelwave/Remote-PC-Switch](https://github.com/pixelwave/Remote-PC-Switch) - Remote PC Switch
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
