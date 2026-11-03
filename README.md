@@ -58,7 +58,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
@@ -855,7 +854,6 @@
 
 - [pixelwave/Remote-PC-Switch](https://github.com/pixelwave/Remote-PC-Switch) - Remote PC Switch
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
-- [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
 - [dcowden/featurescript](https://github.com/dcowden/featurescript) - a curated list of FeatureScripts for Onshape
 - [olm3ca/mirror](https://github.com/olm3ca/mirror) - Enhancements for the Lululemon Mirror
@@ -1037,6 +1035,7 @@
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [ndom91/herdr-ai-tab-name](https://github.com/ndom91/herdr-ai-tab-name) - Auto-rename your Herdr Tabs with local LLMs
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.
+- [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime) - OpenClaw / Home Assistant voice assistant for the Voice PE — realtime conversation, custom wake words, speaker recognition, voice memory, and long-running task delegation that reports back by voice
@@ -1072,12 +1071,12 @@
 - [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [OpenPrintTag/openprinttag-specification](https://github.com/OpenPrintTag/openprinttag-specification) - Open standard for 3D printing material data format
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve) - Proxmox VE Custom Integration Home Assistant
 - [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
 - [StakeSquid/dtop](https://github.com/StakeSquid/dtop) - A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.
 - [taylorwilsdon/netshow](https://github.com/taylorwilsdon/netshow) - Lightweight, performant interactive network connection monitor with friendly service names
 - [andrianllmm/renux](https://github.com/andrianllmm/renux) - A terminal-based bulk file renamer with a TUI
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [stevenbennett/Open-Task-Light](https://github.com/stevenbennett/Open-Task-Light) - Components for making the Open Task Light
 - [antoniorodr/lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workf
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -1235,6 +1234,7 @@
 
 ## Rust 
 
+- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
@@ -1495,6 +1495,7 @@
 ## Svelte 
 
 - [gitbutlerapp/but-head](https://github.com/gitbutlerapp/but-head) - A display font with monospace character, designed for visual impact and creative typography
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
@@ -1508,6 +1509,7 @@
 
 ## Swift 
 
+- [joeblau/subvox](https://github.com/joeblau/subvox) - 
 - [ndom91/jellyfin-random-macos-screensaver](https://github.com/ndom91/jellyfin-random-macos-screensaver) - Play a random Jellyfin item as your screensaver
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
@@ -1522,10 +1524,6 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
-
-## SystemVerilog 
-
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 
 ## TeX 
 
@@ -1772,7 +1770,7 @@
 - [spruceid/siwe-next-auth-example](https://github.com/spruceid/siwe-next-auth-example) - An example of Sign-In with Ethereum and NextAuth.js
 - [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1835,7 +1833,7 @@
 - [Sebastp/Next-react-graphql-apollo_Boostrap](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js project architecture that I play with right now
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [b-zurg/react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - The splittable, draggable, collapsible panel layout library 🎉
-- [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
+- [oakserver/oak](https://github.com/oakserver/oak) - [UNMAINTAINED] A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [leoafarias/use-state-persist](https://github.com/leoafarias/use-state-persist) - Simple React Hook to persist/cache the useState locally. Easily load stale state for better ux.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
