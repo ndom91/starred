@@ -490,7 +490,7 @@
 ## JavaScript 
 
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. React and SVG.
 - [hhdebb/herdr-radar](https://github.com/hhdebb/herdr-radar) - Who's working, who's waiting on you — grouped by project, each agent in its vendor's logo and colour. Worktrees nest under their repo, rows order by activity, idle sessions fade. Light and dark.
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) - Companion plugin for Streamyfin
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
@@ -860,7 +860,7 @@
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches
 - [coredevices/hardware](https://github.com/coredevices/hardware) - Public hardware files related to Core Devices products
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
-- [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - 
+- [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - Custom firmware for the Home Assistant Voice PE, from openWakeWord to on-device wake words to no wake word at all with Smart Listening. Every version kept, with replies on room speakers such as Sonos.
 - [ndom91/GLM-4.7-Flash-Strix-Halo](https://github.com/ndom91/GLM-4.7-Flash-Strix-Halo) - Strix Halo setup for GLM-4.7 Flash using llama.cpp
 - [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes
 - [wenzellabs/blonkenclick](https://github.com/wenzellabs/blonkenclick) - blonkenclick is a blinken clock solder kit with realtime clock and temperature sensor
@@ -1071,7 +1071,6 @@
 - [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [OpenPrintTag/openprinttag-specification](https://github.com/OpenPrintTag/openprinttag-specification) - Open standard for 3D printing material data format
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve) - Proxmox VE Custom Integration Home Assistant
 - [wgpatrick/cadeval](https://github.com/wgpatrick/cadeval) - 
 - [StakeSquid/dtop](https://github.com/StakeSquid/dtop) - A high-performance terminal UI for Docker container management with real-time monitoring, advanced log viewing, and comprehensive container operations.
@@ -1611,7 +1610,7 @@
 - [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful UI components built for Better Auth.
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [team-plain/example-hubspot-push](https://github.com/team-plain/example-hubspot-push) - Example for pushing thread data to Hubspot
 - [wesbos/thermal-printer](https://github.com/wesbos/thermal-printer) - Thermal printer controlled with JS
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
