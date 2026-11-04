@@ -277,7 +277,6 @@
 - [ui](#ui)
 - [unity](#unity)
 - [vagrant](#vagrant)
-- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -817,6 +816,7 @@
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
@@ -1034,7 +1034,6 @@
 
 ## cryptography 
 
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 
 ## csharp 
@@ -1179,7 +1178,7 @@
 
 ## deployment 
 
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [andreibordy/viking](https://github.com/andreibordy/viking) - Simple way to manage your remote machines and SSH keys
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 
@@ -1251,7 +1250,7 @@
 
 ## django 
 
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 
 ## docker 
@@ -1444,7 +1443,7 @@
 
 ## fastapi 
 
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 
 ## finance 
@@ -1471,7 +1470,7 @@
 ## flask 
 
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done. Installing software, creating backups, custom functions, configurations etc.
 
 ## flutter 
@@ -1592,7 +1591,7 @@
 ## github 
 
 - [capaj/ingit](https://github.com/capaj/ingit) - a modern git UI - fresh take on ungit
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview) - GitHub Search Results Page++
@@ -1626,7 +1625,6 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
-- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [Valkyrie00/bold-brew](https://github.com/Valkyrie00/bold-brew) - Bold Brew (bbrew) - A Homebrew TUI Manager
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef) - Shef is a powerful CLI framework for cooking up dynamic shell recipes.
@@ -2263,6 +2261,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [auyer/Protonup-rs](https://github.com/auyer/Protonup-rs) - A Rust app to automate the installation and update of Linux Gaming Compatibility tools, like ProtonGE, Luxtorpeda, Boxtron and others.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Native Linux desktop control for AI agents (MCP, Pi, CLI) — semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, and X11.
 - [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -2645,7 +2644,7 @@
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
 - [opennookorg/screenshot-studio](https://github.com/opennookorg/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Better Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
 - [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs) - GitButler Documentation
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
@@ -2718,7 +2717,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite by default, PostgreSQL multi-broker when you scale. DLQ, cron, SQLite S3 backups, and native MCP. No Redis.
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [MoJoSchuck/Expense-Tracker-GQL](https://github.com/MoJoSchuck/Expense-Tracker-GQL) - Spend smarter. Track faster. Full-stack expense tracker using GraphQL + React.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [MoJoSchuck/advancedAUTH](https://github.com/MoJoSchuck/advancedAUTH) - 🔒 Fullstack authentication app with React (Vite), Node.js/Express & MongoDB. Includes JWT auth, email verification and password reset.
@@ -2899,7 +2898,6 @@
 - [Spikeon-Studio/linapse-cad-mouse-v2](https://github.com/Spikeon-Studio/linapse-cad-mouse-v2) - Linux / Mac / Windwos software stack for the CAD Mouse MK2 6DoF magnetic space mouse — firmware, host service, and the Linapse web configurator.
 - [sb-ocr/cad-mouse-mk2](https://github.com/sb-ocr/cad-mouse-mk2) - 
 - [semaja2/trmnl-go](https://github.com/semaja2/trmnl-go) - Virtual TRMNL Device for Windows/Linux/Mac
-- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [lukeed/empathic](https://github.com/lukeed/empathic) - A set of small Node.js utilities to understand your pathing needs.
 - [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime) - OpenClaw / Home Assistant voice assistant for the Voice PE — realtime conversation, custom wake words, speaker recognition, voice memory, and long-running task delegation that reports back by voice
 - [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware) - Home Assistant Voice PE — OpenAI Realtime 2 fork
@@ -2970,7 +2968,7 @@
 - [Darknetzz/UniFi-Backup-Explorer](https://github.com/Darknetzz/UniFi-Backup-Explorer) - Decode and explore .unf backup files locally in your browser
 - [JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment](https://github.com/JoergR75/rocm-7.1.1-pytorch-2.11.0-docker-cdna3-rdna4-automated-deployment) - Automated Deployment of AMD ROCm 7.1.1 and PyTorch 2.11.0 (nightly@ROCm7.1) AI Stack for Ubuntu 22.04/24.04 on CDNA 3, RDNA4 and RDNA3. The script now includes a routine to detect and delete older ins
 - [JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment](https://github.com/JoergR75/rocm-7.2.0-pytorch-docker-cdna-rdna-automated-deployment) - Automated Deployment of AMD ROCm 7.2.0 and PyTorch 2.11.0 (Preview (Nightly)) AI Stack for Ubuntu 22.04/24.04 on CDNA 1/2/3/4 and RDNA 3/4. The script now includes a routine to detect and delete older
-- [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - 
+- [mike-nott/open-voice-pe](https://github.com/mike-nott/open-voice-pe) - Custom firmware for the Home Assistant Voice PE, from openWakeWord to on-device wake words to no wake word at all with Smart Listening. Every version kept, with replies on room speakers such as Sonos.
 - [ndom91/GLM-4.7-Flash-Strix-Halo](https://github.com/ndom91/GLM-4.7-Flash-Strix-Halo) - Strix Halo setup for GLM-4.7 Flash using llama.cpp
 - [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
 - [Seeed-Studio/xiao-esphome-projects](https://github.com/Seeed-Studio/xiao-esphome-projects) - The Seeed XIAO facilitates your initiation into IoT development, making the process more accessible and efficient.
@@ -3555,7 +3553,7 @@
 
 ## php 
 
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
@@ -3717,7 +3715,7 @@
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix) - Easily run old versions of UNIX for PDP-11 on modern hardware
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [andrianllmm/renux](https://github.com/andrianllmm/renux) - A terminal-based bulk file renamer with a TUI
 - [antoniorodr/lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workf
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
@@ -3827,7 +3825,7 @@
 
 ## react 
 
-- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. React and SVG.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [mondaycom/HATCHA](https://github.com/mondaycom/HATCHA) - CAPTCHA proves you're human. HATCHA proves you're not.
@@ -4021,6 +4019,7 @@
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
@@ -4250,7 +4249,7 @@
 
 ## sketch 
 
-- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. 260 glyphs, React and SVG.
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. React and SVG.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 
 ## skills 
@@ -4442,6 +4441,7 @@
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K and auto tab title for herdr: fuzzy-jump to any tab, agent, repo or branch.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -4541,6 +4541,7 @@
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [jeffarese/herdr-bar](https://github.com/jeffarese/herdr-bar) - Cmd+K and auto tab title for herdr: fuzzy-jump to any tab, agent, repo or branch.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
@@ -4604,6 +4605,7 @@
 
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring) - Tracking the balance sheet behind the AI build-out: GPU pricing, credit, and capex risk, with source-level provenance.
+- [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. React and SVG.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - The best bash parser in JavaScript. Fast, complete, typed.
@@ -4747,10 +4749,6 @@
 ## vagrant 
 
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-
-## verilog 
-
-- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 
 ## video 
 
