@@ -1281,7 +1281,7 @@
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - Build embedded applications with Ratatui! 🧀
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
-- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - hand-made terminal RSS reader supporting many RSS providers, written in rust with love
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
@@ -1416,7 +1416,7 @@
 - [willjasen/tailmox](https://github.com/willjasen/tailmox) - cluster proxmox over tailscale
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux) - Bring Microsoft Recall to Linux!
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [xchwarze/wifi-pineapple-cloner](https://github.com/xchwarze/wifi-pineapple-cloner) - Port WiFi Pineapple NANO/TETRA in generic hardware
 - [Vaishnav-Sabari-Girish/arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - An Interactive way to use the arduino-cli
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
