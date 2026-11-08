@@ -2565,6 +2565,7 @@
 
 ## monitoring 
 
+- [ndom91/crowpanel-homelab-dashboard](https://github.com/ndom91/crowpanel-homelab-dashboard) - ESPHome-based LVGL UI for displaying homelab stats on a 5.79" e-ink display.
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
