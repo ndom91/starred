@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [ndom91/crowpanel-homelab-dashboard](https://github.com/ndom91/crowpanel-homelab-dashboard) - ESPHome-based LVGL UI for displaying homelab stats on a 5.79" e-ink display.
 - [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 - [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu
