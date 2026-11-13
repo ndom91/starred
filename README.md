@@ -16,6 +16,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -229,6 +230,10 @@
 
 - [georg94/atom-hastebin](https://github.com/georg94/atom-hastebin) - A package for Atom to upload the current document to hastbin
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
+
+## Common Lisp 
+
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 
 ## Dart 
 
@@ -830,7 +835,6 @@
 - [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor) - BreezeX RosePine for Hyprcursor
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 
 ## Nu 
 
