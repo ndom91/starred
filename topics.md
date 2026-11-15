@@ -2879,6 +2879,8 @@
 
 ## others 
 
+- [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture) - 60-120fps / 2160p tab video/audio capture from Chrome
+- [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite) - Everything Presence Lite
 - [8rank/iKnow](https://github.com/8rank/iKnow) - Viz. Apple IntelligencePlatform store
 - [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents
 - [joeblau/subvox](https://github.com/joeblau/subvox) - 
@@ -4181,6 +4183,7 @@
 
 ## self-hosted 
 
+- [ZimengXiong/PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [ndom91/commonwealth](https://github.com/ndom91/commonwealth) - Shared team LLM knowledge base
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.
