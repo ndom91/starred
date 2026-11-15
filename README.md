@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [ZimengXiong/PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
 - [ndom91/crowpanel-homelab-dashboard](https://github.com/ndom91/crowpanel-homelab-dashboard) - ESPHome-based LVGL UI for displaying homelab stats on a 5.79" e-ink display.
 - [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
@@ -494,6 +495,7 @@
 
 ## JavaScript 
 
+- [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite) - Everything Presence Lite
 - [8rank/iKnow](https://github.com/8rank/iKnow) - Viz. Apple IntelligencePlatform store
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [matita-dev/icons](https://github.com/matita-dev/icons) - Pencil-style icons for the web, drawn by code. React and SVG.
@@ -1541,6 +1543,7 @@
 
 ## TypeScript 
 
+- [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture) - 60-120fps / 2160p tab video/audio capture from Chrome
 - [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
