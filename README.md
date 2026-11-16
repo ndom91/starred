@@ -379,6 +379,7 @@
 - [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
+- [checkly/pulumi-checkly](https://github.com/checkly/pulumi-checkly) - Pulumi provider for the Checkly monitoring service
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -811,7 +812,6 @@
 
 ## Makefile 
 
-- [checkly/pulumi-checkly](https://github.com/checkly/pulumi-checkly) - Pulumi provider for the Checkly monitoring service
 - [writememe/ansible-mel-meetup-2020](https://github.com/writememe/ansible-mel-meetup-2020) - A repository demonstrating using Ansible and NAPALM to perform full network lifecycle management
 
 ## Markdown 
