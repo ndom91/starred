@@ -144,6 +144,7 @@
 
 ## C# # 
 
+- [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) - Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 lang
 - [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
 - [mitchfixapp/jellyfin-plugin-transcode-downloader](https://github.com/mitchfixapp/jellyfin-plugin-transcode-downloader) - Jellyfin plugin: download a server-side transcoded (smaller) version of a movie/episode, or the original, from the web UI.
 - [endrl/jellyfin-plugin-media-analyzer](https://github.com/endrl/jellyfin-plugin-media-analyzer) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin
@@ -425,7 +426,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [mholt/photobak](https://github.com/mholt/photobak) - Back up your content from Google Photos - DEPRECATED: use Timeliner
@@ -536,6 +537,7 @@
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [julianpoy/ingredient-instruction-classifier](https://github.com/julianpoy/ingredient-instruction-classifier) - A TensorFlow model and tiny express server that can classify text as ingredient, instruction, or other.
 - [rowanmanning/feed-parser](https://github.com/rowanmanning/feed-parser) - A well-tested and resilient Node.js parser for RSS and Atom feeds.
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
@@ -816,6 +818,7 @@
 
 ## Markdown 
 
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 
@@ -860,6 +863,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) - A collection of remote MCP servers.
 - [pixelwave/Remote-PC-Switch](https://github.com/pixelwave/Remote-PC-Switch) - Remote PC Switch
 - [revett/typescript-as-go](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 🧩
 - [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) - This is the list that AmazonBrandFilter uses to filter with.
@@ -887,7 +891,6 @@
 - [gitbutlerapp/gitbutler-brand-assets](https://github.com/gitbutlerapp/gitbutler-brand-assets) - A hub for GitButler's essential brand elements – logos, stickers, visuals, and more 💅
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
 - [nschloe/github-trends](https://github.com/nschloe/github-trends) - :chart_with_upwards_trend: GitHub star history plots
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
@@ -1595,7 +1598,7 @@
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [sriganesh/atproto-at](https://github.com/sriganesh/atproto-at) - Taproot - All-in-one AT Protocol Explorer A comprehensive web-based explorer for the atproto ecosystem. View, explore, and interact with AT Protocol data directly in your browser.
 - [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Local-first agent plan annotator
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [ryoppippi/curxy](https://github.com/ryoppippi/curxy) - Simple proxy worker for using ollama in cursor
@@ -1698,7 +1701,7 @@
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [ndom91/briefkasten-rss](https://github.com/ndom91/briefkasten-rss) - Deno-based background worker for RSS feed reader
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
-- [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [alii/flight-tracker](https://github.com/alii/flight-tracker) - Dashboard for when you are on a plane. Works by connecting to the inflight Wi-Fi network and pulling flight stats from their Wi-Fi portal.
