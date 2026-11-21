@@ -497,6 +497,7 @@
 
 ## JavaScript 
 
+- [samyn92/aerial-home](https://github.com/samyn92/aerial-home) - Ad-free home screen for rooted LG webOS TVs: aerial video behind a clean glass dock
 - [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite) - Everything Presence Lite
 - [8rank/iKnow](https://github.com/8rank/iKnow) - Viz. Apple IntelligencePlatform store
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
@@ -1244,6 +1245,7 @@
 
 ## Rust 
 
+- [ecklf/lg-luma](https://github.com/ecklf/lg-luma) - A native launcher for rooted LG webOS TVs
 - [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
