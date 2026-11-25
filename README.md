@@ -42,7 +42,6 @@
 - [Nu](#nu)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
-- [Objective-C++](#objective-c++)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -97,6 +96,7 @@
 
 ## C 
 
+- [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 - [CoretechR/PicoLab](https://github.com/CoretechR/PicoLab) - Web-GUI Embedded Multitool
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
@@ -156,7 +156,7 @@
 
 ## C++ 
 
-- [ZimengXiong/PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
+- [ZimengXiong/PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - Self-hosted 3D printing slicer with a web UI, built on the OrcaSlicer engine, with non-planar slicing. Docker (amd64/arm64) + desktop.
 - [ndom91/crowpanel-homelab-dashboard](https://github.com/ndom91/crowpanel-homelab-dashboard) - ESPHome-based LVGL UI for displaying homelab stats on a 5.79" e-ink display.
 - [sanxchep/licasa](https://github.com/sanxchep/licasa) - Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows.
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
@@ -755,6 +755,7 @@
 
 ## Kotlin 
 
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [getnopeek/nopeek-android](https://github.com/getnopeek/nopeek-android) - Real-time Bluetooth scanner that detects nearby smart glasses and VR headsets — know before you're recorded
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [coredevices/mobileapp](https://github.com/coredevices/mobileapp) - 
@@ -854,10 +855,6 @@
 ## Objective-C 
 
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
-
-## Objective-C++ 
-
-- [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
 ## OpenSCAD 
 
@@ -1193,7 +1190,6 @@
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
-- [netdevops/hier_config](https://github.com/netdevops/hier_config) - Hierarchical Configuration
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [0xjas0/Edu-Mail-Generator](https://github.com/0xjas0/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
@@ -1291,7 +1287,7 @@
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
@@ -1394,6 +1390,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jensim/bitbucket_server_cli](https://github.com/jensim/bitbucket_server_cli) - A cli tool for cloning any/all git repos from an on-prem bitbucket server
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [netdevops/hier_config](https://github.com/netdevops/hier_config) - Hierarchical Configuration
 - [shekohex/impulse](https://github.com/shekohex/impulse) - 🎇 send a push notification when your long build command finish
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1417,7 +1414,7 @@
 
 - [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [lewisdoesstuff/lifesgoodwithoutspying](https://github.com/lewisdoesstuff/lifesgoodwithoutspying) - A webOS homebrew app to reduce surveillance on rooted LG TVs
-- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - The best bash parser in JavaScript. Fast, complete, typed.
+- [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - The best Bash parser in JavaScript. Fast, complete, typed.
 - [paulbkim-dev/vim-herdr-navigation](https://github.com/paulbkim-dev/vim-herdr-navigation) - Seamless Ctrl+h/j/k/l navigation across herdr panes and Vim/Neovim splits — vim-tmux-navigator ported to herdr
 - [ndom91/open-text-in-vim](https://github.com/ndom91/open-text-in-vim) - Open MacOS text files by default in Ghostty -&gt; tmux -&gt; nvim
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
@@ -1762,7 +1759,7 @@
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [aridutilh/earlume](https://github.com/aridutilh/earlume) - Want to preserve your loved one's voices for eternity? Narrate anything using a voice imprint that can be generated in as little as 10 minutes of audio samples. Easy as pie.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
