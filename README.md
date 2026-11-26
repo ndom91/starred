@@ -96,6 +96,7 @@
 
 ## C 
 
+- [ndom91/pebble-time-2-face](https://github.com/ndom91/pebble-time-2-face) - Pebble Time 2 Watchface
 - [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 - [CoretechR/PicoLab](https://github.com/CoretechR/PicoLab) - Web-GUI Embedded Multitool
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
